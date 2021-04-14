@@ -1,0 +1,11 @@
+{
+  "#Status_MainMenu": "Exploring Main Menu",
+  "#Status_traininglvl": "I'm on training",
+  "#Status_minilvl": "I'm on mini",
+  "#Status_midilvl": "I'm on midi",
+  "#Status_maxilvl": "I'm on maxi",
+  "#Status_toilet": "In the Toilet",
+  "#Status_hotcarrot": "In the Bar",
+  "#Status_car": "In the Car",
+  "#Status_nothing": "Doing nothing"
+}

@@ -1,0 +1,12 @@
+{
+  "#Status_AtMainMenu": "In main menu",
+  "#Status_SelectingHero": "Selecting hero",
+  "#Status_OnBiome": "Travelling on {#Biome_%biomeLocKey%} as {#Hero_%heroLocKey%}",
+  "#Hero_Persival_name": "Persival",
+  "#Hero_Bjorn_name": "Bjorn",
+  "#Hero_Vanadis_name": "Vanadis",
+  "#Biome_Frontier_name": "Frontier",
+  "#Biome_Swamp_name": "Swamp",
+  "#Biome_Steppes_name": "Steppes",
+  "#Biome_Castle_name": "Castle"
+}

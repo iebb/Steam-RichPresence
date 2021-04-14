@@ -1,0 +1,11 @@
+{
+  "#StatusWithoutScore": "{#Status_%gamestatus%}",
+  "#StatusWithScore": "{#Status_%gamestatus%}: %score%",
+  "#Status_AtMainMenu": "In the main menu",
+  "#Status_WaitingForPlayers": "Waiting for players...",
+  "#Status_Playng": "In Unity Editor ... testing lang: eng",
+  "#Status_Mode": "Deathmatch",
+  "#Status_Map": "Default",
+  "#Status_Players": "2",
+  "#Status_EndingMatch": "Match ending"
+}

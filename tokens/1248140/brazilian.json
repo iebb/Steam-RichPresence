@@ -1,0 +1,12 @@
+{
+  "#MainMenu": "Menu principal",
+  "#victory": "Tela de vitória",
+  "#party": "Modo de festa",
+  "#startup": "A iniciar...",
+  "#GAME": "Jogando em: %level%",
+  "#DEATHMATCH": "Todos contra todos: %level%",
+  "#stock": "Último sobrevivente: %level%",
+  "#teamstock": "Última equipa sobrevivente: %level%",
+  "#soccer": "Futebol de espingarda: %level%",
+  "#headsoccer": "Futebol de cabeça: %level%"
+}

@@ -1,0 +1,11 @@
+{
+  "#Status_MainMenu": "Исследую Главное Меню",
+  "#Status_traininglvl": "Я на тренировке",
+  "#Status_minilvl": "Я на мини",
+  "#Status_midilvl": "Я на миди",
+  "#Status_maxilvl": "Я на макси",
+  "#Status_toilet": "В туалете",
+  "#Status_hotcarrot": "В баре",
+  "#Status_car": "В машине",
+  "#Status_nothing": "Ничего не делаю"
+}

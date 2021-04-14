@@ -1,0 +1,9 @@
+{
+  "#MainMenu": "Главное меню",
+  "#scenariomenu": "Меню кампании",
+  "#booting": "Начиная",
+  "#Scenario": "миссия %scenario_num%: {#versus}",
+  "#Versus": "%left_team%x%right_team%  %minutes%:%seconds%",
+  "#battlemode": "Боевой режим: {#versus}",
+  "#teamselect": "Боевой режим: команда выбора"
+}

@@ -1,0 +1,6 @@
+{
+  "#Status_MainMenu": "Main Menu",
+  "#Status_Matchmaking": "%GameMode% - Looking for Match",
+  "#Status_Match": "%GameMode% - %Arena% [ %Score% ]",
+  "#Status_Scoreboard": "%GameMode% - Scoreboard [ %Score% ]"
+}

@@ -1,0 +1,13 @@
+{
+  "#MainMenu": "Menu principal",
+  "#victory": "Écran de victoire",
+  "#party": "Mode de party",
+  "#startup": "Lancement...",
+  "#GAME": "Jouer à : %level%",
+  "#DEATHMATCH": "Match à mort: %level%",
+  "#teamdeathmatch": "Match à mort par équipe: %level%",
+  "#stock": "Dernier survivant: %level%",
+  "#teamstock": "Survie en équipe: %level%",
+  "#soccer": "Jeu de foot: %level%",
+  "#headsoccer": "Jeu de tête: %level%"
+}

@@ -1,0 +1,8 @@
+{
+  "#StatusWithoutContext": "{#Status_%gamestatus%}",
+  "#StatusWithContext": "{#Status_%gamestatus%} - %context%",
+  "#Status_front_end": "菜单中",
+  "#Status_solo_skirmish": "游玩遭遇战地图",
+  "#status_Multiplayer": "在线多人游戏",
+  "#Status_Campaign": "战役地图"
+}

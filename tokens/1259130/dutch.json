@@ -1,0 +1,9 @@
+{
+  "#MainMenu": "Hoofdmenu",
+  "#scenariomenu": "Campagne",
+  "#booting": "Opstarten",
+  "#Scenario": "Missie %scenario_num%: {#versus}",
+  "#Versus": "%left_team%v%right_team%  %minutes%:%seconds%",
+  "#battlemode": "Veldslagmodus: {#versus}",
+  "#teamselect": "Veldslagmodus: Team selecteren"
+}

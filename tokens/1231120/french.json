@@ -1,0 +1,13 @@
+{
+  "#Status_MainMenu": "Dans le menu",
+  "#status_LevelSelect": "Le choix d'un niveau",
+  "#status_Spring": "Jouer au printemps",
+  "#status_Fall": "Jouer à l'automne",
+  "#status_Winter": "Jouer en hiver",
+  "#status_Spring_TimeAttack": "Jouer printemps en temps mode défi",
+  "#status_Fall_TimeAttack": "Jouer Automne en temps mode défi",
+  "#status_Winter_TimeAttack": "Jouer hiver en temps mode défi",
+  "#status_Spring_Hardcore": "Jouer Printemps en mode hardcore temps",
+  "#status_Fall_Hardcore": "Jouer Automne en mode hardcore temps",
+  "#status_Winter_Hardcore": "Jouer hiver en mode hardcore temps"
+}

@@ -1,0 +1,12 @@
+{
+  "#Status_AtMainMenu": "В главном меню",
+  "#Status_SelectingHero": "Выбирает героя",
+  "#Status_OnBiome": "Исследует {#Biome_%biomeLocKey%} как {#Hero_%heroLocKey%}",
+  "#Hero_Persival_name": "Персиваль",
+  "#Hero_Bjorn_name": "Бьёрн",
+  "#Hero_Vanadis_name": "Ванадис",
+  "#Biome_Frontier_name": "Фронтир",
+  "#Biome_Swamp_name": "Гнилые топи",
+  "#Biome_Steppes_name": "Багряные степи",
+  "#Biome_Castle_name": "Северные врата"
+}

@@ -1,0 +1,9 @@
+{
+  "#MainMenu": "Main menu",
+  "#scenariomenu": "Campaign menu",
+  "#booting": "Booting up",
+  "#Scenario": "Mission %scenario_num%: {#versus}",
+  "#Versus": "%left_team%v%right_team%  %minutes%:%seconds%",
+  "#battlemode": "Battle mode: {#versus}",
+  "#teamselect": "Battle mode: team select"
+}

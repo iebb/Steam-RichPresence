@@ -1,0 +1,13 @@
+{
+  "#Status_MainMenu": "Im Hauptmenü",
+  "#Status_Singleplayer": "Spielt im Einzelspieler",
+  "#Status_Campaign": "Spielt Kampagne: %CAMPAIGN%",
+  "#status_Multiplayer": "Spielt im Mehrspieler",
+  "#Status_Multiplayer_EditMode_GS_Cellar": "Baut eine Rennstrecke im Keller",
+  "#Status_Multiplayer_EditMode_GS_Attic": "Baut eine Rennstrecke auf dem Dachboden",
+  "#Status_Multiplayer_EditMode_GS_Bedroom": "Baut eine Rennstrecke im Kinderzimmer",
+  "#Status_Multiplayer_RaceMode_GS_Cellar": "Bereitet ein Rennen im Keller vor",
+  "#Status_Multiplayer_RaceMode_GS_Attic": "Bereitet ein Rennen auf dem Dachboden vor",
+  "#Status_Multiplayer_RaceMode_GS_Bedroom": "Bereitet ein Rennen im Kinderzimmer vor",
+  "#Status_Multiplayer_Race": "Im Rennen: Runde %LAP%, Platz %RACE_PLACEMENT%/%PLAYER_COUNT%"
+}

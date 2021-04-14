@@ -1,0 +1,13 @@
+{
+  "#Status_MainMenu": "メニューで",
+  "#status_LevelSelect": "レベルの選択",
+  "#status_Spring": "春に遊びます",
+  "#status_Fall": "秋に遊びます",
+  "#status_Winter": "冬に遊びます",
+  "#status_Spring_TimeAttack": "タイムチャレンジモードで春を再生",
+  "#status_Fall_TimeAttack": "タイムチャレンジモードで秋を遊びます",
+  "#status_Winter_TimeAttack": "タイムチャレンジモードで冬を遊びます",
+  "#status_Spring_Hardcore": "時間のハードコアモードで春を再生",
+  "#status_Fall_Hardcore": "時間のハードコアモードで秋を遊びます",
+  "#status_Winter_Hardcore": "時間のハードコアモードで冬を遊びます"
+}

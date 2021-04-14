@@ -1,0 +1,13 @@
+{
+  "#Status_MainMenu": "在菜单",
+  "#status_LevelSelect": "选择一个级别",
+  "#status_Spring": "打春",
+  "#status_Fall": "玩秋季",
+  "#status_Winter": "播放冬季",
+  "#status_Spring_TimeAttack": "在时间挑战模式打簧",
+  "#status_Fall_TimeAttack": "在时间挑战模式播放秋",
+  "#status_Winter_TimeAttack": "在时间挑战模式播放冬季",
+  "#status_Spring_Hardcore": "在时间铁杆模式打簧",
+  "#status_Fall_Hardcore": "在时间铁杆模式播放秋",
+  "#status_Winter_Hardcore": "在时间铁杆模式播放冬季"
+}

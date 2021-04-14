@@ -1,0 +1,12 @@
+{
+  "#Status_Title": "No Menu Principal",
+  "#Status_characterSelection": "Escolhendo personagens",
+  "#Status_Main_CurrentLevel": "%activePlayers% {#PlayerCount_%playerCount%} - {#GameMode_%gameMode%} - Level %currentLevel%",
+  "#GameMode_Challenge": "Desafio",
+  "#GameMode_Tutorial": "Tutorial",
+  "#PlayerCount_Single": "Jogador",
+  "#PlayerCount_Multiple": "Jogadores",
+  "#Status_Victory": "{#Dancing_%dancingCount%} no túmulo de Quadruple McDeathhead",
+  "#Dancing_Single": "Está dançando",
+  "#Dancing_Multiple": "Dançando"
+}

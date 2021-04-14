@@ -1,0 +1,9 @@
+{
+  "#Status_InGame": "In Game",
+  "#Status_CreatingCustom": "Creating a Lobby",
+  "#Status_Matchmaking": "Matchmaking",
+  "#Status_MainMenu": "Main Menu",
+  "#Status_EdittingSpells": "Changing Spells",
+  "#Status_ChangingClothing": "Changing Outfits",
+  "#Status_LookingForLobby": "Joining a Lobby"
+}

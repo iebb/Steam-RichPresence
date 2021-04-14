@@ -1,0 +1,8 @@
+{
+  "#StatusWithoutScore": "{#Status_%gamestatus%}",
+  "#StatusWithScore": "{#Status_%gamestatus%}: %score%",
+  "#Status_PreparingToRace": "Preparing to Race",
+  "#Status_OnRace": "On Race",
+  "#Status_OnFreeRace": "On Free Race",
+  "#Status_Finished": "Finished"
+}

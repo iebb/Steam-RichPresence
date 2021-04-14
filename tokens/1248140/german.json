@@ -1,0 +1,13 @@
+{
+  "#MainMenu": "Hauptmenü",
+  "#victory": "Siegesbildschirm",
+  "#party": "Party Modus",
+  "#startup": "Starten ...",
+  "#GAME": "Spielen an: %level%",
+  "#DEATHMATCH": "Todeskampf: %level%",
+  "#teamdeathmatch": "Team Todeskampf: %level%",
+  "#stock": "Letztes: %level%",
+  "#teamstock": "Letztes Überlebendes team: %level%",
+  "#soccer": "Schrotflinten-fussball: %level%",
+  "#headsoccer": "Kopf-fussball: %level%"
+}

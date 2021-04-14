@@ -1,0 +1,5 @@
+{
+  "#Status_Lobby": "로비",
+  "#Status_Playing": "%act%막 - %floor%층, 체력: %hp%%",
+  "#Status_Playing_Abyss": "%act%막 - %floor%층 (심연%abyss%), 체력: %hp%%"
+}

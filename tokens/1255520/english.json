@@ -1,0 +1,10 @@
+{
+  "#StatusWithoutScore": "{#Status_%gamestatus%}",
+  "#StatusWithScore": "{#Status_%gamestatus%} (%score%) {#StatusClass}",
+  "#Status_AtMainMenu": "At the main menu",
+  "#Status_Intermission": "In Intermission",
+  "#Status_Winning": "Winning",
+  "#Status_Losing": "Losing",
+  "#Status_Drawing": "Drawing",
+  "#StatusClass": "Lvl %level% %class%"
+}

@@ -1,0 +1,8 @@
+{
+  "#StatusWithoutContext": "{#Status_%gamestatus%}",
+  "#StatusWithContext": "{#Status_%gamestatus%} - %context%",
+  "#Status_front_end": "En los menús",
+  "#Status_solo_skirmish": "Jugando un mapa de escaramuza",
+  "#status_Multiplayer": "Jugando al multijugador en línea",
+  "#Status_Campaign": "Jugando un mapa de campaña"
+}

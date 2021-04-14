@@ -1,0 +1,8 @@
+{
+  "#StatusWithoutContext": "{#Status_%gamestatus%}",
+  "#StatusWithContext": "{#Status_%gamestatus%} - %context%",
+  "#Status_front_end": "В меню",
+  "#Status_solo_skirmish": "Игра в режиме «Схватка»",
+  "#status_Multiplayer": "Игра в многопользовательском режиме",
+  "#Status_Campaign": "Игра на карте кампании"
+}

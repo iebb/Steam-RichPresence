@@ -1,0 +1,7 @@
+{
+  "#AtMainMenu": "Main Menu",
+  "#AtCyberGrind": "%difficulty% | Cyber Grind: Wave %wave%",
+  "#AtStandardLevel": "%difficulty% | %level%",
+  "#AtCustomLevel": "Playing Custom Level",
+  "#UnknownLevel": "???"
+}

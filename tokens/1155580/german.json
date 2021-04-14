@@ -1,0 +1,10 @@
+{
+  "#StatusWithoutScore": "{#Status_%gamestatus%}",
+  "#StatusWithScore": "{#Status_%gamestatus%}: %score%",
+  "#Status_AtMainMenu": "Im Hauptmenü",
+  "#Status_WaitingForMatch": "Waiting for match",
+  "#Status_Playng": "In Unity Editor ... testing lang: ger",
+  "#Status_Winning": "Winning",
+  "#Status_Losing": "Losing",
+  "#Status_Tied": "Tied"
+}

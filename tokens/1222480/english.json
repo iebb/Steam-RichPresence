@@ -1,0 +1,13 @@
+{
+  "#Status_MainMenu": "In the main menu",
+  "#Status_Singleplayer": "Playing singleplayer",
+  "#Status_Campaign": "Playing campaign: %CAMPAIGN%",
+  "#status_Multiplayer": "Playing multiplayer",
+  "#Status_Multiplayer_EditMode_GS_Cellar": "Building a racetrack in the cellar",
+  "#Status_Multiplayer_EditMode_GS_Attic": "Building a racetrack in the attic",
+  "#Status_Multiplayer_EditMode_GS_Bedroom": "Building a racetrack in the bedroom",
+  "#Status_Multiplayer_RaceMode_GS_Cellar": "Preparing a race in the cellar",
+  "#Status_Multiplayer_RaceMode_GS_Attic": "Preparing a race in the attic",
+  "#Status_Multiplayer_RaceMode_GS_Bedroom": "Preparing a race in the bedroom",
+  "#Status_Multiplayer_Race": "In race: Lap %LAP%, Place %RACE_PLACEMENT%/%PLAYER_COUNT%"
+}

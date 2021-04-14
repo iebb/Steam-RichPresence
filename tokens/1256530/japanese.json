@@ -1,0 +1,5 @@
+{
+  "#Status_Lobby": "ロビー",
+  "#Status_Playing": "%act%膜-%floor%層、体力:%hp%%",
+  "#Status_Playing_Abyss": "%act%膜-%floor%層(深淵%abyss%)、体力:%hp%%"
+}

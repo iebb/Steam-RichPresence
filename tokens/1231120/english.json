@@ -1,0 +1,13 @@
+{
+  "#Status_MainMenu": "In the menu",
+  "#status_LevelSelect": "Choosing a level",
+  "#status_Spring": "Playing in Spring",
+  "#status_Fall": "Playing in Fall",
+  "#status_Winter": "Playing in Winter",
+  "#status_Spring_TimeAttack": "Playing Spring Time Attack",
+  "#status_Fall_TimeAttack": "Playing Fall Time Attack",
+  "#status_Winter_TimeAttack": "Playing Winter Time Attack",
+  "#status_Spring_Hardcore": "Playing Spring Hardcore",
+  "#status_Fall_Hardcore": "Playing Fall Hardcore",
+  "#status_Winter_Hardcore": "Playing Winter Hardcore"
+}

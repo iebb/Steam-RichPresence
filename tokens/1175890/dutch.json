@@ -1,0 +1,13 @@
+{
+  "#StatusWithoutScore": "{#Status_%gamestatus%} aan het Spelen",
+  "#StatusWithScore": "{#Status_%gamestatus%}: %score%",
+  "#Status_MainMenu": "In de menu's",
+  "#Status_LookingForMatch": "Opzoek naar een match",
+  "#Status_JoiningGame": "Match aan het laden",
+  "#Status_NoObjective": "Fabriek aan het verkennen",
+  "#Status_MachineKaputObjective": "De Machine Kapoet maken",
+  "#Status_LockdownObjective": "Uit de lockdown zone aan het ontsnappen",
+  "#Status_FountainObjective": "Waterspelletjes aan het doen bij de fontein",
+  "#Status_PosterInteractionObjective": "Posters aan het bekladderen",
+  "#Status_PaintItemsObjective": "Automaten aan het verven"
+}

@@ -1,0 +1,13 @@
+{
+  "#Status_MainMenu": "Im Menü",
+  "#status_LevelSelect": "Die Wahl eine Ebene",
+  "#status_Spring": "Spiele im Frühjahr",
+  "#status_Fall": "Spiele im Herbst",
+  "#status_Winter": "Spiele im Winter",
+  "#status_Spring_TimeAttack": "Spielen Frühling in der Zeit Challenge-Modus",
+  "#status_Fall_TimeAttack": "Spielen Herbst in der Zeit Challenge-Modus",
+  "#status_Winter_TimeAttack": "Spielen Winter in der Zeit Challenge-Modus",
+  "#status_Spring_Hardcore": "Spielen Frühling in der Zeit Hardcore-Modus",
+  "#status_Fall_Hardcore": "Spielen Herbst in der Zeit Hardcore-Modus",
+  "#status_Winter_Hardcore": "Spielen Winter in der Zeit Hardcore-Modus"
+}

@@ -1,0 +1,5 @@
+{
+  "#Corruption": "%hero% - %circle% - %corruption%",
+  "#NoCorruption": "%hero% - %circle%",
+  "#Status_MainMenu": "Main Menu"
+}

@@ -1,0 +1,11 @@
+{
+  "#StatusWithoutRound": "{#Status_%gamestatus%}",
+  "#StatusWithRound": "{#Status_%gamestatus%}: Round %round%",
+  "#ResultsScreen": "{#Status_%gamestatus%}: Results Screen",
+  "#Status_AtMainMenu": "Main menu",
+  "#Status_WaitingForMatch": "Waiting for match",
+  "#Status_FFA": "Free for All",
+  "#Status_Teams": "2v2",
+  "#Status_OnlineFFA": "Online FFA",
+  "#Status_OnlineVersus": "Online 1v1"
+}

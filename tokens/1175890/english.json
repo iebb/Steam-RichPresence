@@ -1,0 +1,14 @@
+{
+  "#StatusWithoutScore": "{#Status_%gamestatus%}",
+  "#StatusWithScore": "{#Status_%gamestatus%}: %score%",
+  "#Status_MainMenu": "In the menu's",
+  "#Status_LookingForMatch": "Looking for a match",
+  "#Status_JoiningGame": "Joining a match",
+  "#Status_NoObjective": "Exploring the Factory",
+  "#Status_MachineKaputObjective": "Machine Kaput",
+  "#Status_LockdownObjective": "Escaping the Lockdown",
+  "#Status_DefendCircleObjective": "Conquering the Entrance",
+  "#Status_FountainObjective": "Conquering the Fountain",
+  "#Status_PosterInteractionObjective": "Defacing the Evil Posters",
+  "#Status_PaintItemsObjective": "Painting Vending Machines"
+}

@@ -1,0 +1,12 @@
+{
+  "#MainMenu": "Hoofdmenu",
+  "#victory": "Overwinningsscherm",
+  "#party": "Feestmodus",
+  "#startup": "Opstarten...",
+  "#GAME": "Speelt in: %level%",
+  "#DEATHMATCH": "Ieder voor zich: %level%",
+  "#stock": "Tot de laatste: %level%",
+  "#teamstock": "Tot het laatste team: %level%",
+  "#soccer": "Voetbal: %level%",
+  "#headsoccer": "Hoofdvoetbal: %level%"
+}

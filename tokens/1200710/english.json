@@ -1,0 +1,6 @@
+{
+  "#Status_MainMenu": "MAIN MENU",
+  "#Status_Exploring": "LIVING IN %server%",
+  "#Status_Patrolling": "PATROLLING %server%",
+  "#Status_Leading": "LEADING %server%"
+}

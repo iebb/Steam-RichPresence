@@ -1,0 +1,9 @@
+{
+  "#MainMenu": "Ana Menü",
+  "#scenariomenu": "Sefer Menüsü",
+  "#booting": "Başlatılıyor",
+  "#Scenario": "Görev %scenario_num%: {#versus}",
+  "#Versus": "%left_team% VS %right_team%  %minutes%:%seconds%",
+  "#battlemode": "Savaş Modu: {#versus}",
+  "#teamselect": "Savaş Modu: Takım Seçimi"
+}

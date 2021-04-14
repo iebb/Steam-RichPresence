@@ -1,0 +1,7 @@
+{
+  "#Status_MainMenu": "In the sauna",
+  "#status_public_game": "Oddclub Lobby - %PLAYERCOUNT%/%MAX_PLAYERCOUNT%",
+  "#status_private_game": "Oddclub Lobby - %PLAYERCOUNT%/%MAX_PLAYERCOUNT%",
+  "#status_local_game": "In a local game",
+  "#Status_Match": "Playing: %LEVELTYPE% - Round %ROUNDNUMBER%"
+}

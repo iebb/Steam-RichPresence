@@ -1,0 +1,13 @@
+{
+  "#Status_MainMenu": "En el menú",
+  "#status_LevelSelect": "La elección de un nivel",
+  "#status_Spring": "Jugando en la primavera",
+  "#status_Fall": "Juega en el otoño",
+  "#status_Winter": "Jugando en invierno",
+  "#status_Spring_TimeAttack": "Reproducción de primavera en el modo de desafío tiempo",
+  "#status_Fall_TimeAttack": "Reproducción de otoño en el modo de desafío tiempo",
+  "#status_Winter_TimeAttack": "Reproducción de invierno en el modo de desafío tiempo",
+  "#status_Spring_Hardcore": "Jugar Primavera en modo hardcore tiempo",
+  "#status_Fall_Hardcore": "Jugar Otoño en modo hardcore tiempo",
+  "#status_Winter_Hardcore": "Reproducción de invierno en modo hardcore tiempo"
+}

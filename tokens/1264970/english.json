@@ -1,0 +1,12 @@
+{
+  "#StatusMainMenu": "Main Menu",
+  "#StatusLocalMatch": "Local Match - %BoardSize% - Turn %TurnNumber%",
+  "#StatusAIMatch": "AI Match - %OpponentName% - %BoardSize% - Turn %TurnNumber%",
+  "#StatusAIsMatch": "Spectating Match - %BoardSize% - Turn %TurnNumber%",
+  "#StatusTutorial": "Tutorial Mode",
+  "#StatusMatchReview": "Reviewing Match - %BoardSize% - Turn %TurnNumber%",
+  "#StatusCampaignMap": "Campaign Mode Map",
+  "#StatusCampaignMatch": "Campaign Mode Match - %BoardSize% - Turn %TurnNumber%",
+  "#StatusOnlineMenu": "Online Menu",
+  "#StatusOnlineMatch": "Online Match - %BoardSize% - Turn %TurnNumber%"
+}

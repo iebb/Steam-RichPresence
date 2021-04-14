@@ -1,0 +1,5 @@
+{
+  "#Status_Lobby": "Lobby",
+  "#Status_Playing": "Ato %act% - Andar %floor%, Vida: %hp%%",
+  "#Status_Playing_Abyss": "Ato %act% - Andar %floor% (A%abyss%), Vida: %hp%%"
+}

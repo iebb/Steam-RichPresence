@@ -1,0 +1,7 @@
+{
+  "#Status_MainMenu": "Main menu",
+  "#Status_OptionsMenu": "Options menu",
+  "#Status_InventoryMenu": "Inventory menu",
+  "#Status_PlayingGame": "Playing Game",
+  "#STATUS_CUSTOM": "%status_custom%"
+}

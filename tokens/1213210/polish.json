@@ -1,0 +1,8 @@
+{
+  "#StatusWithoutContext": "{#Status_%gamestatus%}",
+  "#StatusWithContext": "{#Status_%gamestatus%} - %context%",
+  "#Status_front_end": "W menu",
+  "#Status_solo_skirmish": "Toczy potyczkę",
+  "#status_Multiplayer": "Toczy rozgrywkę w tybie wielu graczy (online)",
+  "#Status_Campaign": "Gra w trybie kampanii"
+}

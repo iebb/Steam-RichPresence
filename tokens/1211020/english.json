@@ -1,0 +1,17 @@
+{
+  "#Status_MainMenu": "At the main menu",
+  "#Status_Exploring": "Exploring %area_name%",
+  "#Status_PizzaJob": "Delivering Wobbly Pizzas",
+  "#Status_BurgerJob": "Making Wobbly Burgers",
+  "#Status_FurnitureJob": "Delivering Wobbly Furniture",
+  "#Status_HospitalJob": "Rescuing Wobbly People",
+  "#Status_GarbageJob": "Taking Out The Bins",
+  "#Status_NewsPaperJob": "Doing The Paper Round",
+  "#Status_PowerPlantJob": "Working At The Power Plant",
+  "#Status_RacingJob": "Racing",
+  "#Status_Farm_Plowing_Job": "Plowing The Fields",
+  "#Status_Farm_Seeding_Job": "Planting Seeds",
+  "#Status_Farm_Harvesting_Job": "Harvesting Crops",
+  "#Status_MineJob": "Down The Mines",
+  "#Status_JellyJob": "Getting Some Jelly"
+}

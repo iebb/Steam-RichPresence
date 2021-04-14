@@ -1,0 +1,7 @@
+{
+  "#Status_AtMainMenu": "Main Menu",
+  "#Status_SoloMap": "Local Lobby",
+  "#Status_Solo": "Local Play: %levelname%",
+  "#Status_InLobby": "Lobby %numplayers%",
+  "#Status_OnlineInProgress": "Playing: %levelname% %numplayers%"
+}

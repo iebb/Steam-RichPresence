@@ -1,0 +1,8 @@
+{
+  "#StatusWithoutContext": "{#Status_%gamestatus%}",
+  "#StatusWithContext": "{#Status_%gamestatus%} - %context%",
+  "#Status_front_end": "In the menus",
+  "#Status_solo_skirmish": "Playing a skirmish map",
+  "#status_Multiplayer": "Playing online multiplayer",
+  "#Status_Campaign": "Playing a campaign map"
+}

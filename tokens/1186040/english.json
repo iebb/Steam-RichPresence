@@ -1,0 +1,13 @@
+{
+  "#Status_MainMenu": "At Main Menu",
+  "#Status_Lobby": "In The Lobby",
+  "#Status_Lab": "In The Lab",
+  "#Status_ModeMapPlaying": "Playing {#Mode_%ModeName%} on {#Map_%MapName%}",
+  "#Status_ModeMapSpectating": "Spectating {#Mode_%ModeName%} on {#Map_%MapName%}",
+  "#Mode_Battle Royale Single": "Battle Royale",
+  "#Mode_Battle Royale Squads": "Battle Royale Squads",
+  "#Mode_Deathmatch Single": "Deathmatch",
+  "#Map_Missile Mall": "Missile Mall",
+  "#Map_Dimension Park": "Dimension Park",
+  "#Map_Robot Towers": "Robot Towers"
+}
