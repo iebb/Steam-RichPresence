@@ -1,0 +1,22 @@
+{
+  "#StatusMainMenu": "On Main Menu",
+  "#StatusVersusMode": "Playing vesus mode",
+  "#StatusFantasyDraftMode": "Playing fantasy draft mode",
+  "#statusChallengeMode": "Playing challenge mode",
+  "#StatusCreateClubMode": "Playing create-a-club mode",
+  "#StatusCareerMode": "Playing career mode",
+  "#StatusCareerModeUnemployed": "Playing career mode - Currently unemployed",
+  "#StatusCareerModeOneTeam": "Playing career mode - Managing %TeamOne%",
+  "#StatusCareerModeTwoTeams": "Playing career mode - Managing %TeamOne% and %TeamTwo%",
+  "#StatusNegotiatingBuyingPlayer": "Negotiating to buy %PersonOne%",
+  "#StatusNegotiatingSellingPlayer": "Negotiating to sell %PersonOne%",
+  "#StatusNegotiatingContract": "Negotiating contract with %PersonOne%",
+  "#StatusMatchWatching": "Watching a match - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWatchingPenalties": "Watching penalties - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchDrawing": "Drawing a match - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchDrawingPenalties": "Level on penalties - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWinning": "In the lead - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWinningPenalties": "Winning a shootout - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchLosing": "Currently losing - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchLosingPenalties": "Behind in a shootout - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
+}

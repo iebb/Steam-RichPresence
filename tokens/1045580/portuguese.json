@@ -1,0 +1,9 @@
+{
+  "#Settings": "Mexer nas configurações",
+  "#LevelSelect": "Decidir que nível jogar",
+  "#InLevel": "Jogar nível %levelName%",
+  "#InBonusLevel": "Jogar nível bônus %levelName%",
+  "#InSecretLevel": "Jogar nível secreto %levelName%",
+  "#Credits": "Quem é que fez este jogo afinal",
+  "#Paused": "Não estou jogando no momento"
+}

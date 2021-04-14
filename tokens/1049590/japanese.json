@@ -1,0 +1,10 @@
+{
+  "#LumiaIsland": "必修チュートリアル中",
+  "#InTutorialGame": "チュートリアル中",
+  "#InLobby": "ロビー",
+  "#InMatching": "マッチング中",
+  "#MatchCompleted": "マッチング完了",
+  "#InGame": "プレイ中",
+  "#InCustomLobby": "カスタム対戦待機中",
+  "#InCustomGame": "カスタム対戦中"
+}

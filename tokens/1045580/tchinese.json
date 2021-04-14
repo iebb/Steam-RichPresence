@@ -1,0 +1,9 @@
+{
+  "#Settings": "搞定各項設定",
+  "#LevelSelect": "決定要玩的關卡",
+  "#InLevel": "在關卡 %levelName% 開始彈跳",
+  "#InBonusLevel": "在獎勵關卡 %levelName% 開始彈跳",
+  "#InSecretLevel": "在神秘關卡 %levelName% 開始彈跳",
+  "#Credits": "認識遊戲的幕後功臣",
+  "#Paused": "現在沒在玩"
+}

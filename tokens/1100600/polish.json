@@ -1,0 +1,22 @@
+{
+  "#StatusMainMenu": "W menu głównym",
+  "#StatusVersusMode": "Gra w trybie zawodów",
+  "#StatusFantasyDraftMode": "Gra w trybie turnieju gwiazd",
+  "#statusChallengeMode": "Gra w trybie wyzwania",
+  "#StatusCreateClubMode": "Gra w trybie własnego klubu",
+  "#StatusCareerMode": "Gra w trybie kariery",
+  "#StatusCareerModeUnemployed": "Gra w trybie kariery - obecnie bezrobotny",
+  "#StatusCareerModeOneTeam": "Gra w trybie kariery - %TeamOne%",
+  "#StatusCareerModeTwoTeams": "Gra w trybie kariery - %TeamOne% i %TeamTwo%",
+  "#StatusNegotiatingBuyingPlayer": "Negocjuje zakup -  %PersonOne%",
+  "#StatusNegotiatingSellingPlayer": "Negocjuje sprzedaż - %PersonOne%",
+  "#StatusNegotiatingContract": "Negocjuje kontrakt - %PersonOne%",
+  "#StatusMatchWatching": "Ogląda mecz - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWatchingPenalties": "Ogląda konkurs rzutów karnych - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchDrawing": "Remisuje mecz - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchDrawingPenalties": "Remisuje w rzutach karnych - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWinning": "Prowadzi - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWinningPenalties": "Prowadzi w rzutach karnych - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchLosing": "Przegrywa - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchLosingPenalties": "Przegrywa w rzutach karnych - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
+}

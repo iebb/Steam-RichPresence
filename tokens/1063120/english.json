@@ -1,0 +1,15 @@
+{
+  "#Menu": "Preparing delivery drones",
+  "#level": "{#%world%_%performance%}",
+  "#LevelCoop": "Coop: {#%world%_%performance%}",
+  "#Port_Good": "Shipping it in Port %map%",
+  "#Port_Bad": "Massive delays in Port %map%",
+  "#OilRig_Good": "All Slick in Oil Rig %map%",
+  "#OilRig_Bad": "Grimed up in Oil Rig %map%",
+  "#Mine_Good": "Really digging Coal Mine %map%",
+  "#Mine_Bad": "Trapped in Coal Mine %map%",
+  "#Oasis_Good": "Chilling in Oasis %map%",
+  "#Oasis_Bad": "Dehydrated in Oasis %map%",
+  "#EarthCore_Good": "Looking hot in Earth Core %map%",
+  "#EarthCore_Bad": "A hot mess in Earth Core %map%"
+}

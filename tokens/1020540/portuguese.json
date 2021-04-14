@@ -1,0 +1,12 @@
+{
+  "#Presence_Base": "Acampamento base",
+  "#Presence_Coop_StandBy": "Preparando Missão",
+  "#Presence_Coop_Main": "Missão",
+  "#Presence_Coop_Random": "Missão de Exploração",
+  "#Presence_Coop_Couch": "Coop Local",
+  "#Presence_Carnage_Standby": "Preparando Partida",
+  "#Presence_Carnage_Match": "Liga do Massacre",
+  "#Presence_Carnage_Custom": "Partida Particular",
+  "#Presence_Coop_Local": "Modo de Jogo Local Sem Fio",
+  "#Presence_Carnage_Local": "JxJ Local Sem Fio"
+}

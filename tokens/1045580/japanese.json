@@ -1,0 +1,9 @@
+{
+  "#Settings": "設定を変更中",
+  "#LevelSelect": "どのレベルをプレイするか悩み中",
+  "#InLevel": "%levelName% で跳ね回り中",
+  "#InBonusLevel": "ボーナスレベル %levelName% で跳ね回り中",
+  "#InSecretLevel": "シークレットレベル %levelName% で跳ね回り中",
+  "#Credits": "誰がこのゲームを作ったのかを確認中",
+  "#Paused": "正確には今はゲームを遊んでいるとは言えないのだ"
+}

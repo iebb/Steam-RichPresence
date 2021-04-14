@@ -1,0 +1,9 @@
+{
+  "#Settings": "Albert mit den Einstellungen rum",
+  "#LevelSelect": "Entscheidet, welches Level gespielt wird",
+  "#InLevel": "Hüpft in Level %levelName% rum",
+  "#InBonusLevel": "Hüpft in Bonuslevel %levelName% rum",
+  "#InSecretLevel": "Hüpft in Geheimlevel %levelName% rum",
+  "#Credits": "Lernt, wer dieses Spiel überhaupt gemacht hat",
+  "#Paused": "Spielt im Moment gar nicht"
+}

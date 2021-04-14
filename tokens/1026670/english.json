@@ -1,0 +1,10 @@
+{
+  "#display_Menu": "Main Menu",
+  "#freeText": "%txt%",
+  "#display_Pairs": "Playing",
+  "#display_PairsWithScore": "Playing (BestScore:%score%)",
+  "#display_Gallery": "Gallery",
+  "#display_PhotoB": "Photo Beta",
+  "#display_Lobby": "Matchmaking Lobby",
+  "#display_LiveStream": "LiveStreaming Room"
+}

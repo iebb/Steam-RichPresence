@@ -1,0 +1,6 @@
+{
+  "#InMenu": "Menu",
+  "#InLobby1x1": "Lobby %pcount%/2",
+  "#InLobby2x2": "Lobby %pcount%/4",
+  "#InGame": "In Game %gmode%"
+}

@@ -1,0 +1,19 @@
+{
+  "#rpMainMenu": "En el menú principal",
+  "#rpCanada": "En Canadá",
+  "#rpChina": "En China",
+  "#rpEgypt": "En Egipto",
+  "#rpGreece": "En Grecia",
+  "#rpJapan": "En Japón",
+  "#rpMexico": "En México",
+  "#rpRussia": "En Rusia",
+  "#rpScotland": "En Escocia",
+  "#rpSwitzerland": "En Suiza",
+  "#rpTanzania": "En Tanzania",
+  "#rpUSA": "En EE. UU.",
+  "#rpInvertedTower": "En la Torre invertida",
+  "#rpGameOver": "En la pantalla Fin de la partida",
+  "#rpStageClear": "En la pantalla Nivel superado",
+  "#rpStageSelect": "En la pantalla Selección de etapa",
+  "#rpCutscene": "Viendo una cinemática"
+}

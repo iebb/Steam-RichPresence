@@ -1,0 +1,9 @@
+{
+  "#Status_AtMainMenu": "メインメニュー",
+  "#Status_Floor": "フロア №%floor%{#Status_%gamestatus%}",
+  "#Status_Apartment": " - アパートメント №%apartment%",
+  "#Status_Empty": " ",
+  "#Status_Pause": "一時停止",
+  "#Status_Complex": "繁雑",
+  "#Status_Ending": "終了"
+}

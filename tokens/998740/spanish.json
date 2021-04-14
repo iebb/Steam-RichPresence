@@ -1,0 +1,10 @@
+{
+  "#GameMainMenu": "Menú principal",
+  "#GameModeWithRoom": "{#Mode%GAME_MODE%} - {#Room%ROOM_TYPE%}",
+  "#ModeNormal": "Nivel normal",
+  "#ModeHard": "Nivel difícil",
+  "#ModeMedium": "Medium Mode",
+  "#ModeDailyDungeon": "Viaje diario",
+  "#ModeDemo": "Demo",
+  "#RoomDepth": "%DEPTH% Profundidad"
+}

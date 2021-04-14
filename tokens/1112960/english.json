@@ -1,0 +1,18 @@
+{
+  "#StatusWithoutScore": "{#Status_%gamestatus%}",
+  "#StatusWithScore": "{#Status_%gamestatus%}: %score%",
+  "#Status_AtMainMenu": "At the main menu",
+  "#Status_Exploring": "Exploring",
+  "#Status_Trading": "Trading",
+  "#Status_Looting": "Picking up",
+  "#Status_Refueling": "Refueling",
+  "#Status_Repairing": "Repairing",
+  "#Status_Repainting": "Repainting",
+  "#Status_Talking": "Talking",
+  "#Status_Starving": "Starving",
+  "#Status_DryingUp": "Drying up",
+  "#Status_Ranoutoffuel": "Ran out of fuel",
+  "#Status_Broken": "Has broken",
+  "#Status_Sleeping": "Sleeping",
+  "#Status_NewCar": "New car"
+}

@@ -1,0 +1,19 @@
+{
+  "#rpMainMenu": "位于主菜单",
+  "#rpCanada": "位于加拿大",
+  "#rpChina": "位于中国",
+  "#rpEgypt": "位于埃及",
+  "#rpGreece": "位于希腊",
+  "#rpJapan": "位于日本",
+  "#rpMexico": "位于墨西哥",
+  "#rpRussia": "位于俄罗斯",
+  "#rpScotland": "位于苏格兰",
+  "#rpSwitzerland": "位于瑞士",
+  "#rpTanzania": "位于坦桑尼亚",
+  "#rpUSA": "位于美国",
+  "#rpInvertedTower": "位于倒塔",
+  "#rpGameOver": "位于游戏结束界面",
+  "#rpStageClear": "位于关卡完成界面",
+  "#rpStageSelect": "位于关卡选择界面",
+  "#rpCutscene": "正在观看过场画面"
+}

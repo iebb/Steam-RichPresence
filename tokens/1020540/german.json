@@ -1,0 +1,12 @@
+{
+  "#Presence_Base": "Basislager",
+  "#Presence_Coop_StandBy": "Mission vorbereiten",
+  "#Presence_Coop_Main": "Mission",
+  "#Presence_Coop_Random": "Erkundungsmission",
+  "#Presence_Coop_Couch": "Couch-Koop",
+  "#Presence_Carnage_Standby": "Spiel vorbereiten",
+  "#Presence_Carnage_Match": "Gemetzel-Liga",
+  "#Presence_Carnage_Custom": "Privates Spiel",
+  "#Presence_Coop_Local": "Lokales Wireless-Spiel",
+  "#Presence_Carnage_Local": "Lokales Wireless-PvP"
+}

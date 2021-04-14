@@ -1,0 +1,10 @@
+{
+  "#GameMainMenu": "메뉴",
+  "#GameModeWithRoom": "{#Mode%GAME_MODE%} - {#Room%ROOM_TYPE%}",
+  "#ModeNormal": "보통 모드",
+  "#ModeHard": "어려움 모드",
+  "#ModeMedium": "Medium Mode",
+  "#ModeDailyDungeon": "일일 던전",
+  "#ModeDemo": "체험판",
+  "#RoomDepth": "깊이 %DEPTH%"
+}

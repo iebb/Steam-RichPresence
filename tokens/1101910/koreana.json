@@ -1,0 +1,15 @@
+{
+  "#MainMenu": "메인 메뉴: %WarriorName% - 레벨 %WarriorLevel%",
+  "#LookingForMatch": "싸울 만한 가치가 있는 상대방 찾기...",
+  "#HouseScreen": "왕조 업그레이드 : 집 레벨 %HouseLevel%",
+  "#FFACasual": "개별 전투 연습: %WarriorName% - 레벨 %WarriorLevel%",
+  "#FFABrutal": "개별 전투 실전: %WarriorName% - 레벨 %WarriorLevel%",
+  "#DuelCasual": "결투 연습: %WarriorName% - 레벨 %WarriorLevel%",
+  "#DuelBrutal": "결투 실전: %WarriorName% - 레벨 %WarriorLevel%",
+  "#2VS2Casual": "2vs2 연습: %WarriorName% - 레벨 %WarriorLevel%",
+  "#2VS2Brutal": "2vs2 실전: %WarriorName% - 레벨 %WarriorLevel%",
+  "#BattleDice": "주사위로 운을 시험 중",
+  "#ShopsScreen": "새로운 옷장 구입 중",
+  "#InventoryScreen": "새로운 의상 시도 중",
+  "#JewleryScreen": "반짝이는 것 제작 중"
+}

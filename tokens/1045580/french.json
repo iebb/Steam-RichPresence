@@ -1,0 +1,9 @@
+{
+  "#Settings": "Bidouille dans les paramètres",
+  "#LevelSelect": "Décide quel niveau jouer",
+  "#InLevel": "Sautille dans le niveau %levelName%",
+  "#InBonusLevel": "Sautille dans le niveau bonus %levelName%",
+  "#InSecretLevel": "Sautille dans le niveau secret %levelName%",
+  "#Credits": "Apprend qui c'est qui a fait ce jeu",
+  "#Paused": "Ne joue pas en ce moment"
+}

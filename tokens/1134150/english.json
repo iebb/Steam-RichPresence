@@ -1,0 +1,6 @@
+{
+  "#Status_OnMainMenu": "On Main Menu.",
+  "#Status_PlayingCampaign": "Playing Campaign Match. Mission: %nummission%. Turn: %turnnum%.",
+  "#Status_PlayingLocal": "Playing Local Match. Players: %numplayers%. Turn: %turnnum%.",
+  "#Status_PlayingOnline": "Playing Online Match. Players: %numplayers%. Turn: %turnnum%."
+}

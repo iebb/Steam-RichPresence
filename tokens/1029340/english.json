@@ -1,0 +1,6 @@
+{
+  "#Status_AtMainMenu": "Main menu",
+  "#Status_WaitingForMatch": "Starting New Match",
+  "#Status_Match_Ending": "Match Ending",
+  "#Status_Phase": "Round %round%: %phase%"
+}

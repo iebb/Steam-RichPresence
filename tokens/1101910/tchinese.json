@@ -1,0 +1,15 @@
+{
+  "#MainMenu": "主菜單：%WarriorName% - 等級 %WarriorLevel%",
+  "#LookingForMatch": "正在尋找旗鼓相當的對手...",
+  "#HouseScreen": "正在升級王朝：房屋等級 %HouseLevel%",
+  "#FFACasual": "休閒大亂鬥：%WarriorName% - 等級 %WarriorLevel%",
+  "#FFABrutal": "殘忍大亂鬥：%WarriorName% - 等級 %WarriorLevel%",
+  "#DuelCasual": "休閒決鬥：%WarriorName% - 等級 %WarriorLevel%",
+  "#DuelBrutal": "殘忍決鬥：%WarriorName% - 等級 %WarriorLevel%",
+  "#2VS2Casual": "休閒 2vs2：%WarriorName% - 等級 %WarriorLevel%",
+  "#2VS2Brutal": "殘忍 2vs2：%WarriorName% - 等級 %WarriorLevel%",
+  "#BattleDice": "擲骰子試運氣",
+  "#ShopsScreen": "選購新衣櫥",
+  "#InventoryScreen": "試穿新衣",
+  "#JewleryScreen": "製作亮閃閃的東西"
+}

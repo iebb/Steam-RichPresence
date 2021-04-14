@@ -1,0 +1,12 @@
+{
+  "#Status_MainMenu": "In main menu",
+  "#Status_PartyLeader": "Hosting multiplayer lobby",
+  "#Status_InParty": "In multiplayer lobby",
+  "#Status_Loading": "Stuck at infinite (?) loading screen...",
+  "#Status_Driving": "Racing with {#Car_%car%}. Score: %score%",
+  "#Status_Waiting": "Waiting for new race. Score: %score%",
+  "#Car_Sport": "Sport car",
+  "#Car_Speed": "Speed car",
+  "#Car_Frog": "Frog car",
+  "#Car_Clown": "Clown car"
+}

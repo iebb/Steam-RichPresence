@@ -1,0 +1,7 @@
+{
+  "#StatusMainMenu": "Main Menu",
+  "#StatusArcadeAwards": "Viewing Arcade Awards",
+  "#StatusStatistics": "Viewing Statistics",
+  "#StatusJourney": "Journey: %level% (%difficulty%)",
+  "#StatusArcade": "Arcade: %score%"
+}

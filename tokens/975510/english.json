@@ -1,0 +1,19 @@
+{
+  "#rpMainMenu": "At the Main Menu",
+  "#rpCanada": "In Canada",
+  "#rpChina": "In China",
+  "#rpEgypt": "In Egypt",
+  "#rpGreece": "In Greece",
+  "#rpJapan": "In Japan",
+  "#rpMexico": "In Mexico",
+  "#rpRussia": "In Russia",
+  "#rpScotland": "In Scotland",
+  "#rpSwitzerland": "In Switzerland",
+  "#rpTanzania": "In Tanzania",
+  "#rpUSA": "In the USA",
+  "#rpInvertedTower": "In the Inverted Tower",
+  "#rpGameOver": "At the Game Over Screen",
+  "#rpStageClear": "At the Stage Clear Screen",
+  "#rpStageSelect": "At the Stage Select Screen",
+  "#rpCutscene": "Viewing a cutscene"
+}

@@ -1,0 +1,19 @@
+{
+  "#Status_InLobby": "在别人家",
+  "#Status_Play": "单人溜达在:{#Level_%level%} ({#Players_%players%})",
+  "#Status_Shopping": "在%level%逛逛",
+  "#Status_Winning": "Gagnant",
+  "#Status_Losing": "Perdant",
+  "#Status_Tied": "Egalité",
+  "#Status_Dev": "开发中",
+  "#Level_A1": "山下美湾",
+  "#Level_A2": "宁静之道",
+  "#Level_A3": "石下礁",
+  "#Level_A4": "暗坑",
+  "#Level_A5": "洞穴逃路",
+  "#Level_A6": "水晶坊",
+  "#Level_A7": "山下道",
+  "#Level_A99": "地下之巴扎",
+  "#Players_Solo": "单",
+  "#Players_Multi": "多"
+}

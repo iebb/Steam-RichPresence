@@ -1,0 +1,9 @@
+{
+  "#Status_MainMenu": "Main Menu",
+  "#Status_InLobby": "In Lobby: %scene%",
+  "#Status_InLobbyCount": "In Lobby: %scene% (%playerCount%/%maxPlayerCount%)",
+  "#Status_InGame": "In Game: %scene%",
+  "#Status_SceneName": "%scene%",
+  "#Status_EditingScene": "Editing: %scene%",
+  "#Status_Editing": "In Editor"
+}

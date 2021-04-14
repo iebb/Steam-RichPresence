@@ -1,0 +1,6 @@
+{
+  "#LOBBY": "Lobby",
+  "#Mode_Endless": "Endless %distsance%m (%seed%)",
+  "#Mode_Quick": "Quick (%seed%)",
+  "#Mode_Versus": "Versus (%seed%)"
+}

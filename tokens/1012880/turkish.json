@@ -1,0 +1,8 @@
+{
+  "#PresenceMenu": "Kıyamet öncesi sessizliğin keyfini çıkarıyor.",
+  "#PresenceScavenge": "Nükleer füzeler inmeden önce evde kaynak arıyor.",
+  "#PresenceChallengeScavenge": "Kıyamet ile mücadele ediyor.",
+  "#PresenceSurvival": "Bir nükleer sığınakta kıyametten sağ çıkmaya çalışıyor. %SurvivalDay%. Gün.",
+  "#PresenceChallengeSurvivalIntro": "Kıyamet ile mücadele ediyor.",
+  "#PresenceChallengeSurvival": "Kıyamet ile mücadele ediyor. %ChallengeDay%. Gün."
+}

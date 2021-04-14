@@ -1,0 +1,15 @@
+{
+  "#MainMenu": "Menu Principal: %WarriorName% - Nível %WarriorLevel%",
+  "#LookingForMatch": "Procurando por um adversário digno...",
+  "#HouseScreen": "Reforçando a dinastia: Nível da casa %HouseLevel%",
+  "#FFACasual": "Competição Livre Casual: %WarriorName% - Nível %WarriorLevel%",
+  "#FFABrutal": "Competição Livre Brutal: %WarriorName% - Nível %WarriorLevel%",
+  "#DuelCasual": "Duelo Casual: %WarriorName% - Nível %WarriorLevel%",
+  "#DuelBrutal": "Duelo Brutal: %WarriorName% - Nível %WarriorLevel%",
+  "#2VS2Casual": "2vs2 Casual: %WarriorName% - Nível %WarriorLevel%",
+  "#2VS2Brutal": "2vs2 Brutal: %WarriorName% - Nível %WarriorLevel%",
+  "#BattleDice": "Tentando a sorte dele com dados",
+  "#ShopsScreen": "Comprando um novo guarda-roupa",
+  "#InventoryScreen": "Experimentando roupas novas",
+  "#JewleryScreen": "Criando itens brilhantes"
+}

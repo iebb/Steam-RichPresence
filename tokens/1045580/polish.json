@@ -1,0 +1,9 @@
+{
+  "#Settings": "Grzebanie w ustawieniach",
+  "#LevelSelect": "Wybieranie poziomu gry",
+  "#InLevel": "Rozbijanie się po poziomie %levelName%",
+  "#InBonusLevel": "Rozbijanie się po poziomie bonusowym %levelName%",
+  "#InSecretLevel": "Rozbijanie się po ukrytym poziomie %levelName%",
+  "#Credits": "Kto w ogóle stworzył tę grę",
+  "#Paused": "W tej chwili właściwie nie grasz"
+}

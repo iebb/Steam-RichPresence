@@ -1,0 +1,8 @@
+{
+  "#PresenceMenu": "世紀末前に平穏な日々を満喫中。",
+  "#PresenceScavenge": "核爆弾が落ちる前に家を探索中。",
+  "#PresenceChallengeScavenge": "世紀末に挑戦中。",
+  "#PresenceSurvival": "核シェルターで世紀末後をサバイバル中。%SurvivalDay%日目。",
+  "#PresenceChallengeSurvivalIntro": "世紀末に挑戦中。",
+  "#PresenceChallengeSurvival": "世紀末に挑戦中。%ChallengeDay%日目。"
+}

@@ -1,0 +1,16 @@
+{
+  "#MainMenu": "Main Menu",
+  "#FinishScreenSplit": "Finish Screen | Is the order right?",
+  "#FinishScreenHighscore": "Finish Screen | Happy with the new highscore?",
+  "#FinishScreenNoob": "Finish Screen | Just another try ...",
+  "#PlayingSP": "Playing | Trying to beat the highscore",
+  "#PlayingSplit": "Playing | Splitscreen with friends",
+  "#StartConfiguration": "Start Configuration | Selecting vehicle and color",
+  "#Starting": "Starting | Loading the level",
+  "#LoginMenu": "Login Menu | Logging into Clockwork Account",
+  "#SettingsMenu": "Settings Menu | Configuring the game",
+  "#AchievementsMenu": "Achievements Menu | Inspecting achievements",
+  "#scoreboard": "Scoreboard | Comparing with other players",
+  "#UnlockablesMenu": "Unlockables Menu | What can I spend my electrons on?",
+  "#Exiting": "Exiting | Is that true?"
+}

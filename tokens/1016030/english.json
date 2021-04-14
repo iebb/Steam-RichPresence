@@ -1,0 +1,22 @@
+{
+  "#StatusWithoutScore": "{#Status_%gamestatus%}",
+  "#StatusWithScore": "{#Status_%gamestatus%}: %score%",
+  "#Status_InLobby": "Chilling at Home",
+  "#Status_InOtherLobby": "Visiting Someone",
+  "#Status_Play": "Adventuring in : {#Level_%level%} ({#Players_%players%})",
+  "#Status_Shopping": "Shopping: {#Level_%level%}",
+  "#Status_Winning": "Winning",
+  "#Status_Losing": "Losing",
+  "#Status_Tied": "Tied",
+  "#Status_Dev": "Dev Testing",
+  "#Level_A1": "The Hidden Bay Of Wonders",
+  "#Level_A2": "The Serene Tunnels",
+  "#Level_A3": "The Hidden Reef",
+  "#Level_A4": "The Darkest Pit",
+  "#Level_A5": "Cave Escape",
+  "#Level_A6": "The Crystals Chamber",
+  "#Level_A7": "Underedge Pass",
+  "#Level_A99": "The Smuggler's Den",
+  "#Players_Solo": "Solo",
+  "#Players_Multi": "Multi"
+}

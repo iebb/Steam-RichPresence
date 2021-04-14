@@ -1,0 +1,12 @@
+{
+  "#Presence_Base": "基地",
+  "#Presence_Coop_StandBy": "正在準備任務",
+  "#Presence_Coop_Main": "任務",
+  "#Presence_Coop_Random": "探索任務",
+  "#Presence_Coop_Couch": "單機合作",
+  "#Presence_Carnage_Standby": "正在準備對戰",
+  "#Presence_Carnage_Match": "廝殺聯賽",
+  "#Presence_Carnage_Custom": "私人對戰",
+  "#Presence_Coop_Local": "區域連線遊戲",
+  "#Presence_Carnage_Local": "區域連線對戰"
+}

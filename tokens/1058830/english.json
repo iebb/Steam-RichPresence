@@ -1,0 +1,7 @@
+{
+  "#Playing_Track": "Playing %currentTrack% - %currentArtist%",
+  "#Playing_Radio": "Radioplaying %currentTrack% in %currentStation%",
+  "#Status_AtMainMenu": "At the main menu",
+  "#Status_AtPickingTrack": "Picking track",
+  "#General_Status": "%generalStatus%"
+}

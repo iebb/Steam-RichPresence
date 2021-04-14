@@ -1,0 +1,12 @@
+{
+  "#Presence_Base": "大本营",
+  "#Presence_Coop_StandBy": "正在准备任务",
+  "#Presence_Coop_Main": "任务",
+  "#Presence_Coop_Random": "探索任务",
+  "#Presence_Coop_Couch": "同机协作",
+  "#Presence_Carnage_Standby": "正在准备比赛",
+  "#Presence_Carnage_Match": "私人比赛",
+  "#Presence_Carnage_Custom": "私人比赛",
+  "#Presence_Coop_Local": "本地无线游戏",
+  "#Presence_Carnage_Local": "本地无线PVP"
+}

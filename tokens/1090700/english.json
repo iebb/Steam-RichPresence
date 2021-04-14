@@ -1,0 +1,6 @@
+{
+  "#StatusLevelStatus": "%gamelevel%",
+  "#StatusInGameStart": "{#StatusLevelStatus} - On the starting blocks",
+  "#StatusInGameRunning": "{#StatusLevelStatus} - %TIME%",
+  "#StatusInGameOver": "{#StatusLevelStatus} - Over : %TIME%"
+}

@@ -1,0 +1,9 @@
+{
+  "#Settings": "Beállítások finomítgatása",
+  "#LevelSelect": "Döntés a kiválasztott szintről",
+  "#InLevel": "Pattogás %levelName% szinten",
+  "#InBonusLevel": "Pattogás %levelName% bónuszszinten",
+  "#InSecretLevel": "Pattogás %levelName% titkos szinten",
+  "#Credits": "Annak kiderítése, ki készítette a játékot",
+  "#Paused": "Éppen nem játszik senki"
+}

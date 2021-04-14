@@ -1,0 +1,9 @@
+{
+  "#Settings": "Cambia le impostazioni",
+  "#LevelSelect": "Decidi quale livello giocare",
+  "#InLevel": "Rimbalza nel livello %levelName%",
+  "#InBonusLevel": "Rimbalza nel livello bonus %levelName%",
+  "#InSecretLevel": "Rimbalza nel livello segreto %levelName%",
+  "#Credits": "Informazioni su chi ha creato questo gioco",
+  "#Paused": "In questo momento non stai giocando"
+}

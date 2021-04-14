@@ -1,0 +1,22 @@
+{
+  "#StatusMainMenu": "Sur menu principal",
+  "#StatusVersusMode": "Mode Face à face en cours",
+  "#StatusFantasyDraftMode": "Mode Fantasy draft en cours",
+  "#statusChallengeMode": "Mode Challenge en cours",
+  "#StatusCreateClubMode": "Mode Création de club en cours",
+  "#StatusCareerMode": "Mode Carrière en cours",
+  "#StatusCareerModeUnemployed": "Mode Carrière en cours - Actuellement sans emploi",
+  "#StatusCareerModeOneTeam": "Mode Carrière en cours - À la tête {de la}%TeamOne%",
+  "#StatusCareerModeTwoTeams": "Mode Carrière en cours - À la tête {de la}%TeamOne% et {de la}%TeamTwo%",
+  "#StatusNegotiatingBuyingPlayer": "En négociation pour acheter %PersonOne%",
+  "#StatusNegotiatingSellingPlayer": "En négociation pour vendre %PersonOne%",
+  "#StatusNegotiatingContract": "Contrat en négociation avec %PersonOne%",
+  "#StatusMatchWatching": "Assiste à match - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWatchingPenalties": "Assiste aux penalties - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchDrawing": "Match nul en cours - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchDrawingPenalties": "À égalité aux penalties - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWinning": "Mène au score - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWinningPenalties": "Mène aux penalties - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchLosing": "Mené au score - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchLosingPenalties": "Mené aux penalties - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
+}

@@ -1,0 +1,9 @@
+{
+  "#Settings": "Leker med innstillingene",
+  "#LevelSelect": "Velger et nivå å spille",
+  "#InLevel": "Spretter rundt på nivå %levelName%",
+  "#InBonusLevel": "Spretter rundt på bonusnivået %levelName%",
+  "#InSecretLevel": "Spretter rundt på det hemmelige nivået %levelName%",
+  "#Credits": "Leser om de som lagde spillet",
+  "#Paused": "Spiller ikke akkurat nå"
+}

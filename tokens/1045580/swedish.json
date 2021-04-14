@@ -1,0 +1,9 @@
+{
+  "#Settings": "Grejar med inställningarna",
+  "#LevelSelect": "Funderar på val av nivå",
+  "#InLevel": "Studsar runt på nivå %levelName%",
+  "#InBonusLevel": "Studsar runt på bonusnivå %levelName%",
+  "#InSecretLevel": "Studsar runt på hemlig nivå %levelName%",
+  "#Credits": "Tar reda på vem som har gjort det här spelet",
+  "#Paused": "Spelar inte just nu"
+}

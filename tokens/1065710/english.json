@@ -1,0 +1,5 @@
+{
+  "#StatusSingleplayer": "Playing with themself",
+  "#StatusMultiplayer": "Playing on %SERVERNAME%",
+  "#StatusMultiplayerOff": "Disconnected from %SERVERNAME%"
+}

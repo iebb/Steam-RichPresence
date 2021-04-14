@@ -1,0 +1,10 @@
+{
+  "#GameMainMenu": "Main Menu",
+  "#GameModeWithRoom": "{#Mode%GAME_MODE%} - {#Room%ROOM_TYPE%}",
+  "#ModeNormal": "Normal Mode",
+  "#ModeHard": "Hard Mode",
+  "#ModeMedium": "Medium Mode",
+  "#ModeDailyDungeon": "Daily Dungeon",
+  "#ModeDemo": "Demo",
+  "#RoomDepth": "Depth %DEPTH%"
+}

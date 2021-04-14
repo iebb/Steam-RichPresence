@@ -1,0 +1,17 @@
+{
+  "#browsing_through_saved_games": "セーブデータを閲覧中",
+  "#in_game": "ゲームをプレイ中",
+  "#in_game_settings": "ゲーム設定",
+  "#in_hotkey_editor": "ホットキーエディター",
+  "#in_main_menu": "メインメニューで待機中",
+  "#in_the_campaign_editor": "キャンペーンエディター",
+  "#in_the_campaign_menus": "キャンペーンメニュー",
+  "#in_the_scenario_editor": "シナリオエディター",
+  "#playing_a_campaign": "キャンペーンをプレイ中",
+  "#playing_a_multiplayer_game": "マルチプレイヤー ゲームをプレイ中",
+  "#preparing_for_a_custom_game": "カスタムゲームを準備中",
+  "#searching_for_a_multiplayer_match": "マルチプレイでマッチ検索中",
+  "#setting_up_a_multiplayer_game": "マルチプレイヤー ゲームの設定中",
+  "#spectating_a_multiplayer_game": "マルチプレイヤー ゲームを観戦中",
+  "#waiting_for_a_quickmatch": "クイックマッチ待機中"
+}

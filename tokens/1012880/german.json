@@ -1,0 +1,8 @@
+{
+  "#PresenceMenu": "Genießt die Ruhe vor der Apokalypse.",
+  "#PresenceScavenge": "Durchsucht das Haus, bevor Atombomben einschlagen.",
+  "#PresenceChallengeScavenge": "Stellt sich der Apokalypse.",
+  "#PresenceSurvival": "Überdauert die Apokalypse in einem Atombunker. Tag %SurvivalDay%.",
+  "#PresenceChallengeSurvivalIntro": "Stellt sich der Apokalypse.",
+  "#PresenceChallengeSurvival": "Stellt sich der Apokalypse. Tag %ChallengeDay%."
+}

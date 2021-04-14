@@ -1,0 +1,22 @@
+{
+  "#StatusMainMenu": "Στο Κύριο Μενού",
+  "#StatusVersusMode": "Σε παιχνίδι versus",
+  "#StatusFantasyDraftMode": "Σε παιχνίδι fantasy draft",
+  "#statusChallengeMode": "Σε παιχνίδι challenge",
+  "#StatusCreateClubMode": "Σε παιχνίδι Δημιουργία-νέας-Ομάδας",
+  "#StatusCareerMode": "Σε παιχνίδι καριέρας",
+  "#StatusCareerModeUnemployed": "Σε παιχνίδι καριέρας - Άνεργος",
+  "#StatusCareerModeOneTeam": "Σε παιχνίδι καριέρας - Προπονητής %TeamOne3%",
+  "#StatusCareerModeTwoTeams": "Σε παιχνίδι καριέρας - Προπονητής %TeamOne3% και %TeamTwo3%",
+  "#StatusNegotiatingBuyingPlayer": "Σε διαπραγμάτευση απόκτησης %PersonOne3%",
+  "#StatusNegotiatingSellingPlayer": "Σε διαπραγμάτευση παραχώρησης %PersonOne3%",
+  "#StatusNegotiatingContract": "Σε διαπραγμάτευση συμβολαίου %PersonOne3%",
+  "#StatusMatchWatching": "Σε παρακολούθηση αγώνα - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWatchingPenalties": "Σε παρακολούθηση διαδικασίας πέναλτι - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchDrawing": "Αγώνας σε ισόπαλο σκορ - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchDrawingPenalties": "Ισοπαλία στα πέναλτι - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWinning": "Μπροστά στο σκορ - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWinningPenalties": "Μπροστά στο σκορ στα πέναλτι  - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchLosing": "Πίσω στο σκορ - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchLosingPenalties": "Πίσω στο σκορ στα πέναλτι - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
+}

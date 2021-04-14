@@ -1,0 +1,7 @@
+{
+  "#StatusWithoutScore": "%map%: {#Status_%gamestatus%}",
+  "#Status_AtMainMenu": "At the main menu",
+  "#Status_Local": "Local game",
+  "#Status_Private": "Private game",
+  "#Status_Public": "Public game"
+}

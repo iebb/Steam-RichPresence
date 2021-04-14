@@ -1,0 +1,9 @@
+{
+  "#Settings": "게임 설정을 이리저리 만지는 중",
+  "#LevelSelect": "플레이할 레벨을 고르는 중",
+  "#InLevel": "레벨 %levelName% 에서 머리를 굴리는 중",
+  "#InBonusLevel": "보너스 레벨 %levelName% 에서 머리를 굴리는 중",
+  "#InSecretLevel": "숨겨진 레벨 %levelName% 에서 머리를 굴리는 중",
+  "#Credits": "대체 누가 이 게임을 만들었는지 보는 중",
+  "#Paused": "사실 지금 플레이하고 있지 않는 중"
+}

@@ -1,0 +1,9 @@
+{
+  "#Settings": "Ayarlarla uğraş",
+  "#LevelSelect": "Oynanacak seviyeye karar ver",
+  "#InLevel": "%levelName% seviyesinde sektir",
+  "#InBonusLevel": "%levelName% bonus seviyesinde sektir",
+  "#InSecretLevel": "%levelName% gizli seviyesinde sektir",
+  "#Credits": "Bu oyunu kimin yaptığını öğren",
+  "#Paused": "Şu anda oynamıyorum"
+}

@@ -1,0 +1,9 @@
+{
+  "#Settings": "Erilaisten asetusten kokeilua",
+  "#LevelSelect": "Päätä pelattava taso",
+  "#InLevel": "Ponnahtelua tasolla %levelName%",
+  "#InBonusLevel": "Ponnahtelua bonustasolla %levelName%",
+  "#InSecretLevel": "Ponnahtelua salaisella tasolla %levelName%",
+  "#Credits": "Katso, ketkä tekivät tämän pelin",
+  "#Paused": "Et oikeastaan pelaa juuri nyt"
+}

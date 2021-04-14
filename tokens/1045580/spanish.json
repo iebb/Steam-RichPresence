@@ -1,0 +1,9 @@
+{
+  "#Settings": "Moviendo los ajustes",
+  "#LevelSelect": "Decidiendo cuál nivel jugar",
+  "#InLevel": "Rebotando en el nivel %levelName%",
+  "#InBonusLevel": "Rebotando en el nivel adicional %levelName%",
+  "#InSecretLevel": "Rebotando en el nivel secreto %levelName%",
+  "#Credits": "Viendo quién hizo este juego",
+  "#Paused": "Sin jugar de momento"
+}

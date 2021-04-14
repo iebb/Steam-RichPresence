@@ -1,0 +1,9 @@
+{
+  "#Status_AtMainMenu": "Main menu",
+  "#Status_Floor": "Floor №%floor%{#Status_%gamestatus%}",
+  "#Status_Apartment": " - Apartment №%apartment%",
+  "#Status_Empty": " ",
+  "#Status_Pause": "Pause",
+  "#Status_Complex": "Complex",
+  "#Status_Ending": "Ending"
+}

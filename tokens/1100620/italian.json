@@ -1,0 +1,22 @@
+{
+  "#StatusMainMenu": "Nel menu principale",
+  "#StatusVersusMode": "Giocando in modalità Contro gli amici",
+  "#StatusFantasyDraftMode": "Giocando in modalità Fantasy Draft",
+  "#statusChallengeMode": "Giocando in modalità Sfida",
+  "#StatusCreateClubMode": "Giocando in modalità Crea il tuo club",
+  "#StatusCareerMode": "Giocando in modalità Carriera",
+  "#StatusCareerModeUnemployed": "Giocando in modalità Carriera - Attualmente disoccupato",
+  "#StatusCareerModeOneTeam": "Giocando in modalità Carriera - Allenatore %TeamOne%",
+  "#StatusCareerModeTwoTeams": "Giocando in modalità Carriera - Allenatore %TeamOne% e %TeamTwo%",
+  "#StatusNegotiatingBuyingPlayer": "In trattative per acquistare %PersonOne%",
+  "#StatusNegotiatingSellingPlayer": "In trattative per vendere %PersonOne%",
+  "#StatusNegotiatingContract": "Trattando la firma del contratto di %PersonOne%",
+  "#StatusMatchWatching": "Guardando una partita - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWatchingPenalties": "Guardando i rigori - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchDrawing": "Pareggiando una partita - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchDrawingPenalties": "Partita ai rigori - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWinning": "In vantaggio - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWinningPenalties": "Vincendo ai rigori - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchLosing": "Perdendo - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchLosingPenalties": "Sotto ai rigori - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
+}

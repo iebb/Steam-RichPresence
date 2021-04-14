@@ -1,0 +1,9 @@
+{
+  "#Status_AtMainMenu": "Κύριο μενού",
+  "#Status_Floor": "Όροφος №%floor%{#Status_%gamestatus%}",
+  "#Status_Apartment": " - Διαμέρισμα №%apartment%",
+  "#Status_Empty": " ",
+  "#Status_Pause": "Παύση",
+  "#Status_Complex": "Συγκρότημα",
+  "#Status_Ending": "Το τελος"
+}

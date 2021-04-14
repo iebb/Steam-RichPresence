@@ -1,0 +1,9 @@
+{
+  "#Status_AtMainMenu": "메인 메뉴",
+  "#Status_Floor": "층 №%floor%{#Status_%gamestatus%}",
+  "#Status_Apartment": " - 아파트 №%apartment%",
+  "#Status_Empty": " ",
+  "#Status_Pause": "중지",
+  "#Status_Complex": "복잡한",
+  "#Status_Ending": "결말"
+}

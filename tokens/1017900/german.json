@@ -1,0 +1,17 @@
+{
+  "#browsing_through_saved_games": "Durchstöbert die Spielstände",
+  "#in_game": "Spielt ein Spiel",
+  "#in_game_settings": "In den Spieleinstellungen",
+  "#in_hotkey_editor": "Passt die Hotkeys an",
+  "#in_main_menu": "Im Hauptmenü",
+  "#in_the_campaign_editor": "Im Kampagneneditor",
+  "#in_the_campaign_menus": "Im Kampagnenmenü",
+  "#in_the_scenario_editor": "Im Szenarioeditor",
+  "#playing_a_campaign": "Spielt die Kampagne",
+  "#playing_a_multiplayer_game": "Spielt eine Mehrspielerpartie",
+  "#preparing_for_a_custom_game": "In einem benutzerdefinierten Spiel",
+  "#searching_for_a_multiplayer_match": "Sucht nach einer Mehrspielerpartie",
+  "#setting_up_a_multiplayer_game": "Richtet eine Mehrspielerpartie ein",
+  "#spectating_a_multiplayer_game": "Beobachtet eine Mehrspielerpartie",
+  "#waiting_for_a_quickmatch": "Warten auf ein Schnelles Spiel"
+}

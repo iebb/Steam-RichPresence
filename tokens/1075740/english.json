@@ -1,0 +1,15 @@
+{
+  "#Status_InMainMenu": "In the main menu",
+  "#Status_PreStreet": "Outside the city",
+  "#Status_FirstStreet": "Making enemies in the First Street with a party of %partyCount%.",
+  "#Status_SecondStreet": "Making enemies in the Second Street with a party of %partyCount%.",
+  "#Status_ThirdStreet": "Making enemies in the Final Street with a party of %partyCount%.",
+  "#Status_FirstElite": "Facing the first Elite. %partyCount% vs %opponentCount%.",
+  "#Status_SecondElite": "Facing the second Elite. %partyCount% vs %opponentCount%.",
+  "#Status_Boss": "Facing the Guard Captain. %partyCount% vs %opponentCount%.",
+  "#Status_CombatCommon": "Fighting the scum of Dawn's Point. %partyCount% vs %opponentCount%.",
+  "#Status_PartyIdle": "Viewing their party (%partyCount% members).",
+  "#Status_PartyEquipment": "Equipping their party.",
+  "#Status_PartyUnlock": "Selecting character unlocks.",
+  "#Status_ScenarioGeneric": "Dealing with an encounter."
+}

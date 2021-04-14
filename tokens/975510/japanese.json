@@ -1,0 +1,19 @@
+{
+  "#rpMainMenu": "メインメニュー",
+  "#rpCanada": "カナダ",
+  "#rpChina": "中国",
+  "#rpEgypt": "エジプト",
+  "#rpGreece": "ギリシャ",
+  "#rpJapan": "日本",
+  "#rpMexico": "メキシコ",
+  "#rpRussia": "ロシア",
+  "#rpScotland": "スコットランド",
+  "#rpSwitzerland": "スイツ",
+  "#rpTanzania": "タンザニア",
+  "#rpUSA": "アメリカ",
+  "#rpInvertedTower": "反転の塔",
+  "#rpGameOver": "ゲームオーバー画面",
+  "#rpStageClear": "ステージクリア画面",
+  "#rpStageSelect": "ステージ選択画面",
+  "#rpCutscene": "ムービーを視聴中"
+}

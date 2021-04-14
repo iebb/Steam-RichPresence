@@ -1,0 +1,15 @@
+{
+  "#MainMenu": "Main Menu: %WarriorName% - Lvl %WarriorLevel%",
+  "#LookingForMatch": "Searching for a worthy opponent...",
+  "#HouseScreen": "Upgrading the dynasty : House lvl %HouseLevel%",
+  "#FFACasual": "FFA Casual: %WarriorName% - Lvl %WarriorLevel%",
+  "#FFABrutal": "FFA Brutal: %WarriorName% - Lvl %WarriorLevel%",
+  "#DuelCasual": "Duel Casual: %WarriorName% - Lvl %WarriorLevel%",
+  "#DuelBrutal": "Duel Brutal: %WarriorName% - Lvl %WarriorLevel%",
+  "#2VS2Casual": "2vs2 Casual: %WarriorName% - Lvl %WarriorLevel%",
+  "#2VS2Brutal": "2vs2 Brutal: %WarriorName% - Lvl %WarriorLevel%",
+  "#BattleDice": "Trying his luck with dice",
+  "#ShopsScreen": "Shopping a new wardrobe",
+  "#InventoryScreen": "Trying out new outfits",
+  "#JewleryScreen": "Crafting shiny things"
+}

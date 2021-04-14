@@ -1,0 +1,12 @@
+{
+  "#Presence_Base": "Campamento base",
+  "#Presence_Coop_StandBy": "Preparando misión",
+  "#Presence_Coop_Main": "Misión",
+  "#Presence_Coop_Random": "Misión de exploración",
+  "#Presence_Coop_Couch": "Cooperativo local",
+  "#Presence_Carnage_Standby": "Preparando partida",
+  "#Presence_Carnage_Match": "Liga Carnicería",
+  "#Presence_Carnage_Custom": "Partida privada",
+  "#Presence_Coop_Local": "Inalámbrico local",
+  "#Presence_Carnage_Local": "JcJ Inalámbrico local"
+}

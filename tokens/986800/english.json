@@ -1,0 +1,9 @@
+{
+  "#StatusWithoutScore": "{#Status_%gamestatus%}",
+  "#StatusWithSong": "{#Status_%gamestatus%}: %song%",
+  "#Status_AtMainMenu": "Main menu",
+  "#Status_AtSplitScreen": "Partying",
+  "#Status_Playing": "Playing",
+  "#Status_Partying": "Party",
+  "#Result": "%score% in %song%"
+}

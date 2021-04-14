@@ -1,0 +1,22 @@
+{
+  "#StatusMainMenu": "В Стартовом Меню",
+  "#StatusVersusMode": "Играет в сетевую игру",
+  "#StatusFantasyDraftMode": "Играет в режиме Фентези Драфт",
+  "#statusChallengeMode": "Играет в режиме Испытание",
+  "#StatusCreateClubMode": "Играет в режиме Созданного Клуба",
+  "#StatusCareerMode": "Играет в режиме Карьера",
+  "#StatusCareerModeUnemployed": "Играет в режиме Карьера - Ищет подходящую работу",
+  "#StatusCareerModeOneTeam": "Играет в режиме Карьера - Управляет командой %TeamOne%",
+  "#StatusCareerModeTwoTeams": "Играет в режиме Карьера - Управляет командами %TeamOne% и %TeamTwo%",
+  "#StatusNegotiatingBuyingPlayer": "Ведет переговоры о покупке %PersonOne%",
+  "#StatusNegotiatingSellingPlayer": "Ведет переговоры о продаже %PersonOne%",
+  "#StatusNegotiatingContract": "Ведет контрактные переговоры с %PersonOne%",
+  "#StatusMatchWatching": "Смотрит матч - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWatchingPenalties": "Серия пенальти в матче - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchDrawing": "Пока ничейный результат в матче - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchDrawingPenalties": "Сравнялись по пенальти - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWinning": "Выигрывает в матче - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWinningPenalties": "Впереди в серии пенальти - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchLosing": "Проигрывает в матче - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchLosingPenalties": "Проигрывает по пенальти - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
+}

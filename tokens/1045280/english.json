@@ -1,0 +1,7 @@
+{
+  "#MainMenu": "Main menu",
+  "#SingleMode": "1vs1 Mode: %SCORE%",
+  "#DoublesMode": "2vs2 Mode: %SCORE%",
+  "#Minigame": "Playing Minigames",
+  "#training": "Training"
+}

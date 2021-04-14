@@ -1,0 +1,8 @@
+{
+  "#PresenceMenu": "Si sta godendo la quiete prima dell'apocalisse.",
+  "#PresenceScavenge": "Sta recuperando provviste in casa prima del bombardamento.",
+  "#PresenceChallengeScavenge": "Sta sfidando l'apocalisse.",
+  "#PresenceSurvival": "Sta sopravvivendo all'apocalisse in un rifugio antiatomico. Giorno %SurvivalDay%.",
+  "#PresenceChallengeSurvivalIntro": "Sta sfidando l'apocalisse.",
+  "#PresenceChallengeSurvival": "Sta sfidando l'apocalisse. Giorno %ChallengeDay%."
+}

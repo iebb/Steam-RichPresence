@@ -1,0 +1,17 @@
+{
+  "#browsing_through_saved_games": "Buscando partidas guardadas",
+  "#in_game": "Jugando una partida",
+  "#in_game_settings": "En configuración de partida",
+  "#in_hotkey_editor": "En el editor de tecla de acceso rápido",
+  "#in_main_menu": "En el menú principal",
+  "#in_the_campaign_editor": "En el editor de campaña",
+  "#in_the_campaign_menus": "En menús de campaña",
+  "#in_the_scenario_editor": "En el editor de escenario",
+  "#playing_a_campaign": "Jugando una campaña",
+  "#playing_a_multiplayer_game": "Jugando una partida multijugador",
+  "#preparing_for_a_custom_game": "Preparando una partida personalizada",
+  "#searching_for_a_multiplayer_match": "Buscando un combate multijugador",
+  "#setting_up_a_multiplayer_game": "Preparando una partida multijugador",
+  "#spectating_a_multiplayer_game": "Observando una partida multijugador",
+  "#waiting_for_a_quickmatch": "Esperando un Combate Rápido"
+}

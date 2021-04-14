@@ -1,0 +1,22 @@
+{
+  "#StatusMainMenu": "位于主菜单",
+  "#StatusVersusMode": "游玩对战模式中",
+  "#StatusFantasyDraftMode": "游玩梦幻选秀模式中",
+  "#statusChallengeMode": "游玩挑战模式中",
+  "#StatusCreateClubMode": "游玩创造俱乐部模式中",
+  "#StatusCareerMode": "游玩生涯模式中",
+  "#StatusCareerModeUnemployed": "游玩生涯模式中 - 目前失业",
+  "#StatusCareerModeOneTeam": "游玩生涯模式中 - 正在执教 %TeamOne%",
+  "#StatusCareerModeTwoTeams": "游玩生涯模式中 - 正在执教 %TeamOne% and %TeamTwo%",
+  "#StatusNegotiatingBuyingPlayer": "与 %PersonOne% 协商购入球员",
+  "#StatusNegotiatingSellingPlayer": "与 %PersonOne% 协商出售球员",
+  "#StatusNegotiatingContract": "与 %PersonOne% 协商合同",
+  "#StatusMatchWatching": "观看比赛中 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWatchingPenalties": "观看点球大战中 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchDrawing": "目前打平 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchDrawingPenalties": "点球大战打平中 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWinning": "目前领先 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWinningPenalties": "点球大战领先中 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchLosing": "目前落后 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchLosingPenalties": "点球大战落后中 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
+}

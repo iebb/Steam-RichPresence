@@ -1,0 +1,8 @@
+{
+  "#PresenceMenu": "正在享受核灾难前的宁静。",
+  "#PresenceScavenge": "正在核弹爆炸之前搜刮物什。",
+  "#PresenceChallengeScavenge": "正在对抗核灾难。",
+  "#PresenceSurvival": "正在放射性尘埃避难所里躲避核灾难。第 %SurvivalDay% 天。",
+  "#PresenceChallengeSurvivalIntro": "正在对抗核灾难。",
+  "#PresenceChallengeSurvival": "正在对抗核灾难。第 %ChallengeDay% 天。"
+}

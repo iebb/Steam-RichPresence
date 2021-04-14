@@ -1,0 +1,9 @@
+{
+  "#Settings": "Hraji si s nastavením",
+  "#LevelSelect": "Přemýšlím, jakou úroveň si zahrát",
+  "#InLevel": "Běhám po úrovni %levelName%",
+  "#InBonusLevel": "Běhám po prémiové úrovni %levelName%",
+  "#InSecretLevel": "Běhám po tajné úrovni %levelName%",
+  "#Credits": "Dívám se, kdo tuhle hru vlastně vytvořil",
+  "#Paused": "Teď zrovna mám pauzu"
+}

@@ -1,0 +1,15 @@
+{
+  "#MainMenu": "Главное меню: %WarriorName% - ур. %WarriorLevel%",
+  "#LookingForMatch": "Ищем достойного соперника...",
+  "#HouseScreen": "Улучшение династии: дом ур. %HouseLevel%",
+  "#FFACasual": "Каждый за себя (легкотня): %WarriorName% - ур. %WarriorLevel%",
+  "#FFABrutal": "Каждый за себя (жесть): %WarriorName% - ур. %WarriorLevel%",
+  "#DuelCasual": "Поединок (легкотня): %WarriorName% - ур. %WarriorLevel%",
+  "#DuelBrutal": "Поединок (жесть): %WarriorName% - ур. %WarriorLevel%",
+  "#2VS2Casual": "2 на 2 (легкотня): %WarriorName% - ур. %WarriorLevel%",
+  "#2VS2Brutal": "2 на 2 (жесть): %WarriorName% - ур. %WarriorLevel%",
+  "#BattleDice": "Бросаем кубики на удачу",
+  "#ShopsScreen": "Покупаем новые шмотки",
+  "#InventoryScreen": "Примеряем новые наряды",
+  "#JewleryScreen": "Создаем блестящие штуки"
+}

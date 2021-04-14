@@ -1,0 +1,16 @@
+{
+  "#MainMenu": "Hauptmenü",
+  "#FinishScreenSplit": "Endscreen | Ist die Reihenfolge korrekt?",
+  "#FinishScreenHighscore": "Endscreen | Glücklich mit dem neuen Highscore?",
+  "#FinishScreenNoob": "Endscreen | Nur ein weiterer Versuch ...",
+  "#PlayingSP": "Spielt | Versucht den Highscore zu schlagen",
+  "#PlayingSplit": "Spielt | Splitscreen mit Freunden",
+  "#StartConfiguration": "Start-Konfiguration | Wähle Fahrzeug und Farbe",
+  "#Starting": "Starte | Laden des Levels",
+  "#LoginMenu": "Loginmenü | Einloggen in Clockwork-Account",
+  "#SettingsMenu": "Einstellungsmenü | Konfiguriere das Spiel",
+  "#AchievementsMenu": "Erfolgsmenü | Inspiziere Erfolge",
+  "#scoreboard": "Scoreboard | Vergleiche mich mit anderen Spielern",
+  "#UnlockablesMenu": "Freischaltmenü | Wofür kann ich meine Electrons ausgeben?",
+  "#Exiting": "Verlassen | Ist das wahr?"
+}

@@ -1,0 +1,16 @@
+{
+  "#Status_AtMainMenu": "В главном меню",
+  "#Status_Exploring": "Исследует",
+  "#Status_Trading": "Торгует",
+  "#Status_Looting": "Собирает ресурсы",
+  "#Status_Refueling": "Заправляется",
+  "#Status_Repairing": "Ремонтируется",
+  "#Status_Repainting": "Перекрашивается",
+  "#Status_Talking": "Разговаривает",
+  "#Status_Starving": "Голодает",
+  "#Status_DryingUp": "Обезвожен",
+  "#Status_Ranoutoffuel": "Кончилось топливо",
+  "#Status_Broken": "Сломался",
+  "#Status_Sleeping": "Спит",
+  "#Status_NewCar": "Новая машина"
+}

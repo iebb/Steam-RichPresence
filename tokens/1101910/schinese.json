@@ -1,0 +1,15 @@
+{
+  "#MainMenu": "主菜单：%WarriorName% - 等级 %WarriorLevel%",
+  "#LookingForMatch": "正在寻找旗鼓相当的对手...",
+  "#HouseScreen": "正在升级王朝：房屋等级 %HouseLevel%",
+  "#FFACasual": "休闲大乱斗：%WarriorName% - 等级 %WarriorLevel%",
+  "#FFABrutal": "残忍大乱斗：%WarriorName% - 等级 %WarriorLevel%",
+  "#DuelCasual": "休闲决斗：%WarriorName% - 等级 %WarriorLevel",
+  "#DuelBrutal": "残忍决斗：%WarriorName% - 等级 %WarriorLevel%",
+  "#2VS2Casual": "休闲 2vs2：%WarriorName% - 等级 %WarriorLevel%",
+  "#2VS2Brutal": "残忍 2vs2：%WarriorName% - 等级 %WarriorLevel%",
+  "#BattleDice": "掷骰子试运气",
+  "#ShopsScreen": "选购新衣橱",
+  "#InventoryScreen": "试穿新衣",
+  "#JewleryScreen": "制作亮闪闪的东西"
+}

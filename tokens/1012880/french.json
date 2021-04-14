@@ -1,0 +1,8 @@
+{
+  "#PresenceMenu": "Profite du calme avant l'apocalypse.",
+  "#PresenceScavenge": "Fouille la maison de fond en comble avant l'explosion nucléaire.",
+  "#PresenceChallengeScavenge": "Tente de braver l'apocalypse.",
+  "#PresenceSurvival": "Survit à l'apocalypse dans un abri antiatomique. Jour %SurvivalDay%.",
+  "#PresenceChallengeSurvivalIntro": "Tente de braver l'apocalypse.",
+  "#PresenceChallengeSurvival": "Tente de braver l'apocalypse. Jour %ChallengeDay%."
+}

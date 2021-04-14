@@ -1,0 +1,12 @@
+{
+  "#Presence_Base": "Campo base",
+  "#Presence_Coop_StandBy": "Preparazione missione",
+  "#Presence_Coop_Main": "Missione",
+  "#Presence_Coop_Random": "Missione esplorativa",
+  "#Presence_Coop_Couch": "Co-op locale",
+  "#Presence_Carnage_Standby": "Preparazione partita",
+  "#Presence_Carnage_Match": "Lega Carneficina",
+  "#Presence_Carnage_Custom": "Partita privata",
+  "#Presence_Coop_Local": "Partita wireless locale",
+  "#Presence_Carnage_Local": "PVP wireless locale"
+}

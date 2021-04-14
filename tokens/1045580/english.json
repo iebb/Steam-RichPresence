@@ -1,0 +1,9 @@
+{
+  "#Settings": "Messing around with the Settings",
+  "#LevelSelect": "Deciding which level to play",
+  "#InLevel": "Bouncing around level %levelName%",
+  "#InBonusLevel": "Bouncing around bonus level %levelName%",
+  "#InSecretLevel": "Bouncing around secret level %levelName%",
+  "#Credits": "Learning who even made this game",
+  "#Paused": "Not actually playing at the moment"
+}

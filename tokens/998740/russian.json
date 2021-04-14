@@ -1,0 +1,10 @@
+{
+  "#GameMainMenu": "Главное меню",
+  "#GameModeWithRoom": "{#Mode%GAME_MODE%} - {#Room%ROOM_TYPE%}",
+  "#ModeNormal": "Нормальный режим",
+  "#ModeHard": "Сложный режим",
+  "#ModeMedium": "Medium Mode",
+  "#ModeDailyDungeon": "Особое подземелье",
+  "#ModeDemo": "Демо",
+  "#RoomDepth": "Глубина %DEPTH%"
+}

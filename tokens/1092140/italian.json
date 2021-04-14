@@ -1,0 +1,9 @@
+{
+  "#Status_AtMainMenu": "Menu principale",
+  "#Status_Floor": "Piano №%floor%{#Status_%gamestatus%}",
+  "#Status_Apartment": " - Appartamento №%apartment%",
+  "#Status_Empty": " ",
+  "#Status_Pause": "Pausa",
+  "#Status_Complex": "Complesso",
+  "#Status_Ending": "Il finale"
+}

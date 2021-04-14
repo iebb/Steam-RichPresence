@@ -1,0 +1,12 @@
+{
+  "#Presence_Base": "ベースキャンプ",
+  "#Presence_Coop_StandBy": "ミッション準備中",
+  "#Presence_Coop_Main": "ミッション",
+  "#Presence_Coop_Random": "探索ミッション",
+  "#Presence_Coop_Couch": "カウチコープ",
+  "#Presence_Carnage_Standby": "試合準備中",
+  "#Presence_Carnage_Match": "カーネイジリーグ",
+  "#Presence_Carnage_Custom": "プライベートマッチ",
+  "#Presence_Coop_Local": "ローカルプレイ",
+  "#Presence_Carnage_Local": "ローカル対戦"
+}

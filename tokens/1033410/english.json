@@ -1,0 +1,5 @@
+{
+  "#Status_AtMainMenu": "At the main menu",
+  "#Status_LoadingMap": "Loading into a map",
+  "#Status_InGame": "Playing %gamemode% on %map%"
+}

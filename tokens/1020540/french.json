@@ -1,0 +1,12 @@
+{
+  "#Presence_Base": "Camp de base",
+  "#Presence_Coop_StandBy": "Préparation de mission",
+  "#Presence_Coop_Main": "Mission",
+  "#Presence_Coop_Random": "Mission Exploration",
+  "#Presence_Coop_Couch": "Coop canapé",
+  "#Presence_Carnage_Standby": "Préparation de partie",
+  "#Presence_Carnage_Match": "Ligue Carnage",
+  "#Presence_Carnage_Custom": "Partie privée",
+  "#Presence_Coop_Local": "Jeu sans fil local",
+  "#Presence_Carnage_Local": "PvP sans fil local"
+}

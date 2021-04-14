@@ -1,0 +1,4 @@
+{
+  "#Status_Menu": "Hauptmenü",
+  "#Status_Playing": "%gamemode% - Runde %current_round% von %max_rounds%"
+}

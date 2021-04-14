@@ -1,0 +1,8 @@
+{
+  "#InMenu": "%game_state%",
+  "#InLobby": "%game_state% - %state_details%",
+  "#OnMap": "%game_state%: %state_details%",
+  "#InGMHost": "Hosting: %game_state% %state_details%",
+  "#InGMClient": "Playing with Game Master: %game_state% %state_details%",
+  "#InGMPreparing": "Preparing an Adventure %state_details%"
+}

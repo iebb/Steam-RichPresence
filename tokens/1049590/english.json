@@ -1,0 +1,11 @@
+{
+  "#StatusSimple": "{#Status_%gamestatus%}",
+  "#Status_LumiaIsland": "Playing 1st tutorial",
+  "#Status_InTutorialGame": "Playing tutorial",
+  "#Status_InLobby": "Lobby",
+  "#Status_InMatching": "Currently matching",
+  "#Status_MatchCompleted": "Matching complete",
+  "#Status_InGame": "Playing",
+  "#Status_InCustomLobby": "Starting custom game",
+  "#Status_InCustomGame": "Playing custom game"
+}

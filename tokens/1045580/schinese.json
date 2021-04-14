@@ -1,0 +1,9 @@
+{
+  "#Settings": "玩转设置",
+  "#LevelSelect": "确定游戏关卡",
+  "#InLevel": "玩转关卡 %levelName%",
+  "#InBonusLevel": "玩转奖励关卡 %levelName%",
+  "#InSecretLevel": "玩转秘密关卡 %levelName%",
+  "#Credits": "了解这款游戏的天才作者",
+  "#Paused": "目前未游戏"
+}

@@ -1,0 +1,7 @@
+{
+  "#StatusPlaying": "%gamestatus%: %leftscore% - %rightscore%",
+  "#StatusPlayingTournament": "Playing Tournament: %leftscore% - %rightscore%",
+  "#StatusPlayingStory": "Playing Story mode",
+  "#StatusInMenu": "In Main menu",
+  "#StatusWaitingOpponent": "Waiting for an Opponent"
+}

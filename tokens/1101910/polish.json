@@ -1,0 +1,15 @@
+{
+  "#MainMenu": "Główne menu: %WarriorName% - poziom %WarriorLevel%",
+  "#LookingForMatch": "Poszukiwanie godnego przeciwnika...",
+  "#HouseScreen": "Ulepszenie dynastii: poziom Rodu: %HouseLevel%",
+  "#FFACasual": "Wolna amerykanka, tryb rekreacyjny: %WarriorName% - poziom %WarriorLevel%",
+  "#FFABrutal": "Wolna amerykanka, tryb brutalny: %WarriorName% - poziom %WarriorLevel%",
+  "#DuelCasual": "Pojednek tryb rekreacyjny: %WarriorName% - poziom %WarriorLevel%",
+  "#DuelBrutal": "Pojedynek tryb brutalny: %WarriorName% - poziom %WarriorLevel%",
+  "#2VS2Casual": "2 na 2 tryb rekreacyjny: %WarriorName% - poziom %WarriorLevel%",
+  "#2VS2Brutal": "2 na 2 tryb brutalny: %WarriorName% - poziom %WarriorLevel%",
+  "#BattleDice": "Próbuje szczęścia w kościach",
+  "#ShopsScreen": "Kupowanie nowej garderoby",
+  "#InventoryScreen": "Wypróbuj nowe stroje",
+  "#JewleryScreen": "Wytwarzanie błyskotek"
+}

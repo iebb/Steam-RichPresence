@@ -1,0 +1,8 @@
+{
+  "#Menu": "Main Menu",
+  "#Easy": "Easy %tier%",
+  "#Medium": "Medium %tier%",
+  "#Hard": "Hard %tier%",
+  "#Insane": "Insane %tier%",
+  "#Hardcore": "Hardcore %tier%"
+}

@@ -1,0 +1,7 @@
+{
+  "#StatusMainMenu": "主選單",
+  "#StatusArcadeAwards": "查看街機獎項",
+  "#StatusStatistics": "查看統計",
+  "#StatusJourney": "旅程模式： %level% (%difficulty%)",
+  "#StatusArcade": "街機模式： %score%"
+}

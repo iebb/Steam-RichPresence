@@ -1,0 +1,17 @@
+{
+  "#browsing_through_saved_games": "正在浏览游戏存档",
+  "#in_game": "进行一场游戏",
+  "#in_game_settings": "在游戏设置",
+  "#in_hotkey_editor": "在热键编辑器",
+  "#in_main_menu": "在主菜单",
+  "#in_the_campaign_editor": "在战役编辑器",
+  "#in_the_campaign_menus": "在战役菜单",
+  "#in_the_scenario_editor": "在剧本编辑器",
+  "#playing_a_campaign": "正在进行一场战役",
+  "#playing_a_multiplayer_game": "正在进行一场多人游戏",
+  "#preparing_for_a_custom_game": "正在准备一场自定义游戏",
+  "#searching_for_a_multiplayer_match": "正在搜寻一场多人游戏比赛",
+  "#setting_up_a_multiplayer_game": "正在设置一场多人游戏",
+  "#spectating_a_multiplayer_game": "正在观看一场多人游戏",
+  "#waiting_for_a_quickmatch": "正在等待快速配对"
+}

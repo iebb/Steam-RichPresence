@@ -1,0 +1,12 @@
+{
+  "#Status_StartingUp": "Starting Up",
+  "#Status_AtMainMenu": "Main Menu",
+  "#Status_AtBenchmark": "Doing Benchmark",
+  "#Status_AtCharCreate": "Character Creation",
+  "#Status_Loading": "Loading",
+  "#Status_LoadingLevel": "Loading Level %level%",
+  "#Status_PlayingLevel": "Playing Level %level%",
+  "#Status_FinishedLevel": "Finished Level %level%",
+  "#Status_TeamWiped": "Team Wiped",
+  "#Status_EndOfEarlyAccess": "Finished Early Access Levels"
+}

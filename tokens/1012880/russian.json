@@ -1,0 +1,8 @@
+{
+  "#PresenceMenu": "Насладиться тишиной перед апокалипсисом.",
+  "#PresenceScavenge": "Обыскать дом до ядерного удара.",
+  "#PresenceChallengeScavenge": "Бросить вызов апокалипсису.",
+  "#PresenceSurvival": "Пережить апокалипсис в бункере. День %SurvivalDay%.",
+  "#PresenceChallengeSurvivalIntro": "Бросить вызов апокалипсису.",
+  "#PresenceChallengeSurvival": "Бросить вызов апокалипсису. День %ChallengeDay%."
+}

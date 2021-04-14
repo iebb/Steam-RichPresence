@@ -1,0 +1,12 @@
+{
+  "#Presence_Base": "기지",
+  "#Presence_Coop_StandBy": "임무 준비 중",
+  "#Presence_Coop_Main": "임무",
+  "#Presence_Coop_Random": "탐사 임무",
+  "#Presence_Coop_Couch": "오프라인 협동",
+  "#Presence_Carnage_Standby": "매치 준비 중",
+  "#Presence_Carnage_Match": "카니지 리그",
+  "#Presence_Carnage_Custom": "비공개 매치",
+  "#Presence_Coop_Local": "로컬 무선 플레이",
+  "#Presence_Carnage_Local": "로컬 무선 PVP"
+}

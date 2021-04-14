@@ -1,0 +1,20 @@
+{
+  "#Status_InLobby": "Tranquille chez lui",
+  "#Status_InOtherLobby": "Chez quelqu'un",
+  "#Status_Play": "S'aventure dans : {#Level_%level%} ({#Players_%players%})",
+  "#Status_Shopping": "Fais des achats à : {#Level_%level%}",
+  "#Status_Winning": "Winning",
+  "#Status_Losing": "Losing",
+  "#Status_Tied": "Tied",
+  "#Status_Dev": "Développe des trucs",
+  "#Level_A1": "La Baie Des Merveilles",
+  "#Level_A2": "Tunnels Sereins",
+  "#Level_A3": "Le Récif Souterrain",
+  "#Level_A4": "Les Profondeurs",
+  "#Level_A5": "Echappée de la Grotte",
+  "#Level_A6": "La Chambre aux Cristaux",
+  "#Level_A7": "Passage du Soubord",
+  "#Level_A99": "Le Bazar du Contrebandier",
+  "#Players_Solo": "Solo",
+  "#Players_Multi": "Multi"
+}

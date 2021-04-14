@@ -1,0 +1,8 @@
+{
+  "#PresenceMenu": "세계 멸망 전야의 고요를 즐기는 중",
+  "#PresenceScavenge": "핵이 떨어지기 전에 집안을 뒤져 물자를 확보하는 중",
+  "#PresenceChallengeScavenge": "세계 멸망에 도전하는 중",
+  "#PresenceSurvival": "세계가 멸망한 뒤 낙진 방공호에서 살아남는 중 %SurvivalDay%일 차",
+  "#PresenceChallengeSurvivalIntro": "세계 멸망에 도전하는 중",
+  "#PresenceChallengeSurvival": "세계 멸망에 도전하는 중 %ChallengeDay%일 차"
+}

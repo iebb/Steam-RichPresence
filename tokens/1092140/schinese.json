@@ -1,0 +1,9 @@
+{
+  "#Status_AtMainMenu": "主菜单",
+  "#Status_Floor": "楼层 №%floor%{#Status_%gamestatus%}",
+  "#Status_Apartment": " - 公寓 №%apartment%",
+  "#Status_Empty": " ",
+  "#Status_Pause": "暂停",
+  "#Status_Complex": "复杂的",
+  "#Status_Ending": "结局"
+}

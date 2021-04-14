@@ -1,0 +1,6 @@
+{
+  "#StatusWithoutScore": "{#Status_%gamestatus%}",
+  "#StatusWithScore": "{#Status_%gamestatus%}: %score%",
+  "#Status_MainMenu": "Looking into space",
+  "#Status_InGame": "Climbing the furniture"
+}

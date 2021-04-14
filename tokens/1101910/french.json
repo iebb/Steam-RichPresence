@@ -1,0 +1,15 @@
+{
+  "#MainMenu": "Menu principal : %WarriorName% - Niv. %WarriorLevel%",
+  "#LookingForMatch": "Recherche d'un digne adversaire...",
+  "#HouseScreen": "Amélioration de la dynastie : niv. de maison %HouseLevel%",
+  "#FFACasual": "CPS détendu : %WarriorName% - Niv. %WarriorLevel%",
+  "#FFABrutal": "CPS brutal : %WarriorName% - Niv. %WarriorLevel%",
+  "#DuelCasual": "Duel détendu : %WarriorName% - Niv. %WarriorLevel%",
+  "#DuelBrutal": "Duel brutal : %WarriorName% - Niv. %WarriorLevel%",
+  "#2VS2Casual": "2c2 détendu : %WarriorName% - Niv. %WarriorLevel%",
+  "#2VS2Brutal": "2c2 brutal : %WarriorName% - Niv. %WarriorLevel%",
+  "#BattleDice": "Tente sa chance aux dés",
+  "#ShopsScreen": "Se constitue une nouvelle garde-robe",
+  "#InventoryScreen": "Essaye de nouveaux vêtements",
+  "#JewleryScreen": "Fabrique des choses brillantes"
+}

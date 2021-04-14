@@ -1,0 +1,11 @@
+{
+  "#StatusSimple": "{#Status_%gamestatus%}",
+  "#Status_LumiaIsland": "필수 튜토리얼 중",
+  "#Status_InTutorialGame": "튜토리얼 중",
+  "#Status_InLobby": "로비",
+  "#Status_InMatching": "매칭 중",
+  "#Status_MatchCompleted": "매칭 완료",
+  "#Status_InGame": "플레이 중",
+  "#Status_InCustomLobby": "사용자 설정 대전 대기 중",
+  "#Status_InCustomGame": "사용자 설정 대전 중"
+}

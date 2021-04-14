@@ -1,0 +1,5 @@
+{
+  "#Status_AtMainMenu": "In the main menu",
+  "#Status_WaitingForMatch": "Queueing for a match",
+  "#Status_InGame": "Playing %gamemode% on map %map%"
+}

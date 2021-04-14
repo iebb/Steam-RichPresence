@@ -1,0 +1,17 @@
+{
+  "#browsing_through_saved_games": "저장된 게임 탐색 중",
+  "#in_game": "게임 플레이 중",
+  "#in_game_settings": "게임 설정",
+  "#in_hotkey_editor": "핫키 편집기",
+  "#in_main_menu": "메인 메뉴",
+  "#in_the_campaign_editor": "캠페인 편집기",
+  "#in_the_campaign_menus": "캠페인 메뉴",
+  "#in_the_scenario_editor": "시나리오 편집기",
+  "#playing_a_campaign": "캠페인 플레이 중",
+  "#playing_a_multiplayer_game": "멀티 플레이어 게임 플레이 중",
+  "#preparing_for_a_custom_game": "사용자 지정 게임 준비 중",
+  "#searching_for_a_multiplayer_match": "멀티 플레이어 매치 검색 중",
+  "#setting_up_a_multiplayer_game": "멀티 플레이어 게임 설정 중",
+  "#spectating_a_multiplayer_game": "멀티 플레이어 게임 관전 중",
+  "#waiting_for_a_quickmatch": "퀵 매치를 기다리는 중"
+}

@@ -1,0 +1,7 @@
+{
+  "#StatusMainMenu": "Huvudmeny",
+  "#StatusArcadeAwards": "Kollar arkadbelöningar",
+  "#StatusStatistics": "Kollar statistik",
+  "#StatusJourney": "Äventyr: %level% (%difficulty%)",
+  "#StatusArcade": "Arkad: %score%"
+}

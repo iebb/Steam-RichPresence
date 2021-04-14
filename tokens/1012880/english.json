@@ -1,0 +1,8 @@
+{
+  "#PresenceMenu": "Enjoying the quiet before the apocalypse.",
+  "#PresenceScavenge": "Scavenging the house before the nukes hit.",
+  "#PresenceChallengeScavenge": "Challenging the apocalypse.",
+  "#PresenceSurvival": "Surviving the apocalypse in a fallout shelter. Day %SurvivalDay%.",
+  "#PresenceChallengeSurvivalIntro": "Challenging the apocalypse.",
+  "#PresenceChallengeSurvival": "Challenging the apocalypse. Day %ChallengeDay%."
+}

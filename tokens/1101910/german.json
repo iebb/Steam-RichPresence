@@ -1,0 +1,15 @@
+{
+  "#MainMenu": "Hauptmenü: %WarriorName% - Lvl %WarriorLevel%",
+  "#LookingForMatch": "Suche nach würdigem Gegner wird durchgeführt...",
+  "#HouseScreen": "Dynastie wird aktualisiert: Haus 1:1 %HouseLevel%",
+  "#FFACasual": "FFA Chillig: %WarriorName% - Lvl %WarriorLevel%",
+  "#FFABrutal": "FFA Brutal: %WarriorName% - Lvl %WarriorLevel%",
+  "#DuelCasual": "Duell Chillig: %WarriorName% - Lvl %WarriorLevel%",
+  "#DuelBrutal": "Duell Brutal: %WarriorName% - Lvl %WarriorLevel%",
+  "#2VS2Casual": "2:2 Chillig: %WarriorName% - Lvl %WarriorLevel%",
+  "#2VS2Brutal": "2:2 Brutal: %WarriorName% - Lvl %WarriorLevel%",
+  "#BattleDice": "Versucht sein Glück mit dem Würfel",
+  "#ShopsScreen": "Neue Garderobe wird gekauft",
+  "#InventoryScreen": "Neue Outfits werden ausprobiert",
+  "#JewleryScreen": "Glänzende Dinge werden hergestellt"
+}

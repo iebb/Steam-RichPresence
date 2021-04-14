@@ -1,0 +1,8 @@
+{
+  "#StatusDungeon": "In Dungeon: %gamestatus%",
+  "#StatusResult": "Result screen",
+  "#StatusGacha": "Summon screen",
+  "#StatusFang": "Fang screen",
+  "#StatusEquipment": "Equipment screen",
+  "#StatusMainMenu": "At the main menu"
+}

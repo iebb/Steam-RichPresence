@@ -1,0 +1,8 @@
+{
+  "#Default": "%RICH_PRESENCE%",
+  "#Status_Menu": "Main Menu",
+  "#Status_Lobby": "%gamemode% - Lobby",
+  "#Status_Workshop": "Workshop",
+  "#status_freedraw": "Free Draw",
+  "#Status_Playing": "%gamemode% - Round %current_round% of %max_rounds%"
+}

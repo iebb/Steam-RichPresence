@@ -1,0 +1,6 @@
+{
+  "#StatusMainMenu": "In Main Menu",
+  "#StatusTutorial": "In Tutorial",
+  "#StatusSpeedrun": "Speedrun: %level%",
+  "#StatusCasual": "Casual: %collection%"
+}

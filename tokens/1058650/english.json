@@ -1,0 +1,7 @@
+{
+  "#Status_InMainMenu": "In Main-Menu",
+  "#Status_InParty": "In a Party",
+  "#Status_Playing": "Playing %map_name%",
+  "#Status_PlayingWithMode": "{#Status_Playing} - %game_mode%",
+  "#Status_PlayingWithServer": "{#Status_PlayingWithMode} as %team_name% | %player_count% / %max_player_count%"
+}
