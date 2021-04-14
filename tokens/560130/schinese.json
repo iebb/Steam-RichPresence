@@ -1,0 +1,5 @@
+{
+  "#InGameDisplay": "%character_name%: %character_level_ord%级%character_class%",
+  "#InMenuDisplay": "菜单",
+  "#InIntroDisplay": "灵界"
+}

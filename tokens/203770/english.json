@@ -1,0 +1,7 @@
+{
+  "#Status_MainMenu": "Main Menu",
+  "#Status_Observing": "Observing, %year%",
+  "#Status_Singleplayer": "%activity%%name% %dynasty%, %title%, %year%",
+  "#status_Multiplayer": "Multiplayer: %activity%%name% %dynasty%, %title%, Year %year%",
+  "#Status_MPLobby": "Multiplayer Lobby"
+}

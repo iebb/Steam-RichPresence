@@ -1,0 +1,15 @@
+{
+  "#GAME": "Wędruje...",
+  "#Menu": "W menu",
+  "#GameLoadingOnStart": "Przybywa na Enoch",
+  "#InLobby": "W lobby",
+  "#MatchmakingWithRandomPlayers": "Szuka graczy do współpracy",
+  "#WaitingForInvitation": "Formowanie drużyny",
+  "#LoadingToLevel": "Podróżuje do celu",
+  "#PlayingAnyMissionWithOpenGame": "Rozgrywa kampanię",
+  "#PlayingAnyMissionWithPrivGame": "Rozgrywa kampanię",
+  "#PlayerInChallengesHUBOpenGame": "Szykuje się do ekspedycji",
+  "#PlayerInChallengesHUBPrivGame": "Szykuje się do ekspedycji",
+  "#PlaylingChallengeOpenGame": "Bierze udział w ekspedycji",
+  "#PlaylingChallengePrivGame": "Bierze udział w ekspedycji"
+}

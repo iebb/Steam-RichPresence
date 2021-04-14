@@ -1,0 +1,22 @@
+{
+  "#STATUS_CUSTOM": "%customstatus%",
+  "#Status_InMenu": "In Menu",
+  "#Status_InLobby": "In Lobby",
+  "#Status_InQueue": "In Queue",
+  "#Status_PreMatch": "{#GameType_%gametype%}",
+  "#Status_Match": "{#GameType_%gametype%}: {#Status_Round}",
+  "#Status_PostMatch": "{#GameType_%gametype%}: Post-Match",
+  "#Status_Round": "Round %roundnumber%",
+  "#GameType_Deathmatch": "Deathmatch",
+  "#GameType_TeamDeathmatch": "Team Deathmatch",
+  "#Arena_Subway": "Subway",
+  "#Arena_Hotel": "Hotel",
+  "#Arena_Overpass": "Overpass",
+  "#Arena_Assembly": "Assembly",
+  "#Arena_Jungle": "Jungle",
+  "#Arena_Tower": "Skyline",
+  "#Character_Yuki": "Yuki",
+  "#Character_Vance": "Vance",
+  "#Character_Ghost": "Ghost",
+  "#Character_Max": "Max"
+}

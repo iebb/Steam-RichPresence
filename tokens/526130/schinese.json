@@ -1,0 +1,17 @@
+{
+  "#StatusExploring": "探索圣庙",
+  "#StatusTutorial": "倾听老师的教诲",
+  "#StatusTemple": "庙中之娱",
+  "#StatusPrecision": "弓道准度 (%score%)",
+  "#StatusDynamic": "弓道动态 (%score%)",
+  "#StatusSkeet": "弓道双向飞碟 (%score%)",
+  "#StatusMemory": "弓道记性 (%score%)",
+  "#StatusTriathlon": "弓道三项全能 (%score%)",
+  "#StatusTameshigiri": "试砍 (%score%)",
+  "#StatusSpeedSlice": "速砍 (%score%)",
+  "#StatusDodgeSlice": "躲闪与砍击 (%score%)",
+  "#StatusWhack": "锤击机器人 (%score%)",
+  "#StatusSharpDarts": "锋利飞镖 (%score%)",
+  "#StatusTaikoFrenzy": "太鼓迷乱 (%score%)",
+  "#StatusPoleChakram": "套住环刃 (%score%)"
+}

@@ -1,0 +1,11 @@
+{
+  "#Status": "{#Status_%gamestatus%}",
+  "#StatusWithValue": "{#Status_%gamestatus%}: %VALUE%",
+  "#StatusPlaying": "%MODE%: %MAP% (%DIFF%)",
+  "#StatusCompetitive": "比赛中: %MAP%",
+  "#Status_Editor": "Hammer编辑器",
+  "#Status_Menu": "主菜单",
+  "#Status_Lobby": "游戏大厅",
+  "#Status_Play": "正在一个服务器内游玩",
+  "#Status_Join": "正在连接至一个服务器"
+}

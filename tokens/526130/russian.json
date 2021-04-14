@@ -1,0 +1,17 @@
+{
+  "#StatusExploring": "Исследование святилища",
+  "#StatusTutorial": "Уроки сенсея",
+  "#StatusTemple": "Отдых в храме",
+  "#StatusPrecision": "Точность кюдо (%score%)",
+  "#StatusDynamic": "Динамика кюдо (%score%)",
+  "#StatusSkeet": "Стендовая стрельба кюдо (%score%)",
+  "#StatusMemory": "Память кюдо (%score%)",
+  "#StatusTriathlon": "Триатлон кюдо (%score%)",
+  "#StatusTameshigiri": "Тамэсигири (%score%)",
+  "#StatusSpeedSlice": "Быстрые удары (%score%)",
+  "#StatusDodgeSlice": "Уклонение и удар (%score%)",
+  "#StatusWhack": "Бей роботов (%score%)",
+  "#StatusSharpDarts": "Острые дротики (%score%)",
+  "#StatusTaikoFrenzy": "Бешеные тайко (%score%)",
+  "#StatusPoleChakram": "Чакры на столбы (%score%)"
+}

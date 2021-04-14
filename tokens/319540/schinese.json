@@ -1,0 +1,10 @@
+{
+  "#Presence_MainMenu": "主菜单",
+  "#Presence_SkirmishOffline": "与电脑进行遭遇战游戏",
+  "#Presence_SkirmishOnline": "与玩家进行遭遇战游戏",
+  "#Presence_CampaignOffline": "战役（单人）",
+  "#Presence_CampaignOnline": "战役（合作）",
+  "#Presence_AgainstAllOdds": "力挽狂澜",
+  "#Presence_CustomGameOffline": "与电脑进行自定义游戏",
+  "#Presence_CustomGameOnline": "与玩家进行自定义游戏"
+}

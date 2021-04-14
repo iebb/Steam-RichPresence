@@ -1,0 +1,4 @@
+{
+  "#Status_InLobby": "Waiting in multiplayer lobby...",
+  "#Status_InMultiplayerGame": "In multiplayer game: %roomname%"
+}

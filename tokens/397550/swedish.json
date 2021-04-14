@@ -1,0 +1,11 @@
+{
+  "#StatusMultiplayer": "Multiplayer: {#Status_%gamestatus%}",
+  "#StatusMultiplayerScore": "Multiplayer: {#Status_%gamestatus%} - %score%",
+  "#Status_InChapter": "Kapitel %chapter%",
+  "#Status_InChallenge": "Utmaning %challenge%",
+  "#Status_AtMainMenu": "Huvudmeny",
+  "#Status_InSurvival": "Överlevnad",
+  "#Status_InDeathMatch": "Dödsmatch",
+  "#Status_InTeamDeathMatch": "Lagdödsmatch",
+  "#Status_InOther": "Okänd"
+}

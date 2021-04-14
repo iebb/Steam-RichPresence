@@ -1,0 +1,13 @@
+{
+  "#Status_IN_MAIN_MENU": "En menú principal",
+  "#Status_WAITING_IN_ONLINE_PRIVATE_LOBBY": "Esperando en la sala en línea",
+  "#Status_PRACTICING_ADVANCED_SKILLS": "Practicando habilidades avanzadas",
+  "#Status_PLAYING_ARCADE_EASY_MATCH": "En la Torre arcade (fácil)",
+  "#Status_PLAYING_ARCADE_MEDIUM_MATCH": "En la Torre arcade (medio)",
+  "#Status_PLAYING_ARCADE_HARD_MATCH": "En la Torre arcade (difícil)",
+  "#Status_PLAYING_COUCH_MATCH": "Combate con tus amigos",
+  "#Status_PLAYING_RANKED_MATCH": "Competir en una partida clasificatoria",
+  "#Status_PLAYING_ONLINE_MATCH": "Jugando partida en línea",
+  "#Status_PLAYING_VS_AI": "Contra la IA",
+  "#Status_PLAYING_TRIALS": "Jugando a Pruebas"
+}

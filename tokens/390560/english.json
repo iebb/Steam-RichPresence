@@ -1,0 +1,14 @@
+{
+  "#offline": "Offline",
+  "#presence_in_menus": "In menus",
+  "#playing_fantasy_strike": "Playing Fantasy Strike",
+  "#presence_local_versus": "Playing local versus",
+  "#presence_casual_online": "In casual play online",
+  "#presence_ranked_online": "In ranked play online",
+  "#presence_friend_match_online": "Playing a friend online",
+  "#presence_tutorial": "In the tutorial",
+  "#presence_survival": "Playing survival mode",
+  "#presence_daily_challenge": "Playing daily challenge",
+  "#presence_arcade": "Playing arcade mode",
+  "#presence_practice": "In practice mode"
+}

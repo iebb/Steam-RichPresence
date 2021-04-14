@@ -1,0 +1,16 @@
+{
+  "#City_cairo": "Kairo",
+  "#ModeUntranslatedCity": "%city% - {#Mode_%mode%}",
+  "#ModeCity": "{#City_%city%} - {#Mode_%mode%}",
+  "#Mode_zen": "Uendelig",
+  "#City_hong_kong": "Hongkong",
+  "#City_new_york_city": "New York",
+  "#ModeUntranslatedCityScore": "%city% - {#Mode_%mode%} (%score%)",
+  "#ModeCityScore": "{#City_%city%} - {#Mode_%mode%} (%score%)",
+  "#AtMenu": "Meny",
+  "#City_new_york_city_1972": "New York 1972",
+  "#Mode_sandbox": "Kreativ",
+  "#Mode_extreme": "Ekstrem",
+  "#City_saint_petersburg": "Sankt Petersburg",
+  "#Mode_daily_challenge": "Daglig utfordring"
+}

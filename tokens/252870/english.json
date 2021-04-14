@@ -1,0 +1,4 @@
+{
+  "#StatusWithoutClass": "Crew Level %LEVEL%",
+  "#StatusWithClass": "%CLASS% - Crew Level %LEVEL%"
+}

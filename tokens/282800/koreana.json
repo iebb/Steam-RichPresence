@@ -1,0 +1,14 @@
+{
+  "#Status_MainMenu": "메인 메뉴에 있음",
+  "#Status_Shop": "상점에 있음",
+  "#Status_Lobby": "%lobbyname% 로비에 있음",
+  "#Status_LobbyPrivate": "로비에 있음",
+  "#Status_InGame": "게임 중",
+  "#Status_Results": "결과 화면",
+  "#Status_CoopMode_Details": "협동전: %bossname%, %difficulty%",
+  "#Status_NormalMode_Details": "일반전: %playername%",
+  "#Status_Spring2020_Details": "현상금 사냥: %playername%",
+  "#Status_Summer2020_Details": "생선 낚시: %playername%",
+  "#Status_Shroom_Details": "버섯아 게섯거라: %playername%",
+  "#Status_Hw2018_Details": "트릭 앤 트리트: %playername%"
+}

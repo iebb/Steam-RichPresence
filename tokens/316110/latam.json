@@ -1,0 +1,17 @@
+{
+  "#InMainMenu": "En el menú Principal",
+  "#Queueing": "En espera como {#%team%}",
+  "#LobbyOne": "En la sala de espera con otro jugador",
+  "#LobbyMore": "En la sala de espera con %lobby_buddies% jugadores más",
+  "#PlayingDiverOne": "Jugando como {#%team%}, le queda una vida",
+  "#PlayingDiverMore": "Jugando como {#%team%}, le quedan %safes% vidas",
+  "#PlayingDiverFinal": "Jugando como {#%team%}, escoltando a S.T.E.V.E.",
+  "#PlayingSharkOne": "Jugando como {#%team%}, le queda un buceador",
+  "#PlayingSharkMore": "Jugando como {#%team%}, le quedan %divers_left% buceadores",
+  "#WaitingForLoaders": "Esperando a que empiece la partida",
+  "#EndGame": "Consultando la puntuación final",
+  "#Team0": "buceador",
+  "#Team1": "tiburón",
+  "#Team2": "buceador o tiburón",
+  "#ConnectingToServer": "Conectando con el servidor"
+}

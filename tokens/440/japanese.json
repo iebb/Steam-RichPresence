@@ -1,0 +1,8 @@
+{
+  "#TF_RichPresence_State_MainMenu": "メインメニュー",
+  "#TF_RichPresence_State_LoadingGeneric": "マッチに参加しています",
+  "#TF_RichPresence_MatchGroup_Competitive6v6": "対戦",
+  "#TF_RichPresence_MatchGroup_Casual": "カジュアル",
+  "#TF_RichPresence_MatchGroup_SpecialEvent": "スペシャルイベント",
+  "#TF_RichPresence_MatchGroup_BootCamp": "ブート・キャンプ"
+}

@@ -1,0 +1,16 @@
+{
+  "#Idle": "Inactif",
+  "#InGame": "En jeu",
+  "#InGameScore": "En jeu %home%: %homescore% vs %away%: %awayscore%",
+  "#LocalMultiplayer": "En Jeu Multijoueur",
+  "#Menus": "Parcourir les menus",
+  "#MultiLobby": "Salle en ligne",
+  "#MultiplayerInGame": "En Match en ligne",
+  "#CareerCoach": "Dans le CENTRE de carrière d'entraîneur",
+  "#CareerCoachInGame": "En match de carrière d'entraîneur",
+  "#CareerPro": "Dans le CENTRE de carrière pro",
+  "#CareerProInGame": "En match de carrière pro",
+  "#Competition": "En Hub Compétition",
+  "#CompetitionInGame": "En Match Compétition",
+  "#Tutorials": "En Tutoriels"
+}

@@ -1,0 +1,12 @@
+{
+  "#City_cairo": "Kairo",
+  "#ModeUntranslatedCity": "%city% - {#Mode_%mode%}",
+  "#ModeCity": "{#City_%city%} - {#Mode_%mode%}",
+  "#Mode_zen": "Uendelig",
+  "#ModeUntranslatedCityScore": "%city% - {#Mode_%mode%} (%score%)",
+  "#ModeCityScore": "{#City_%city%} - {#Mode_%mode%} (%score%)",
+  "#Mode_sandbox": "Kreativ",
+  "#Mode_extreme": "Ekstrem",
+  "#City_saint_petersburg": "Sankt Petersborg",
+  "#Mode_daily_challenge": "Daglig udfordring"
+}

@@ -1,0 +1,7 @@
+{
+  "#Status_Without_Stats": "{#Status_%gamestatus%}",
+  "#Status_With_Stats": "{#Status_%gamestatus%} | Turn: %turn% | Reputation: %reputation% | Score: %score%",
+  "#Status_InMainMenu": "In Main Menu",
+  "#Status_Singleplayer": "Playing Singleplayer",
+  "#status_Multiplayer": "Playing Multiplayer"
+}

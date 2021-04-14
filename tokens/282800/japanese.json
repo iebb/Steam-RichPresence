@@ -1,0 +1,14 @@
+{
+  "#Status_MainMenu": "メインメニュー",
+  "#Status_Shop": "ショップ",
+  "#Status_Lobby": "ロビー：%lobbyname%",
+  "#Status_LobbyPrivate": "ロビー",
+  "#Status_InGame": "ゲーム中",
+  "#Status_Results": "結果",
+  "#Status_CoopMode_Details": "CO-OP：%bossname%・ %difficulty%",
+  "#Status_NormalMode_Details": "ノーマルモード：%playername%",
+  "#Status_Spring2020_Details": "バウンティハント：%playername%",
+  "#Status_Summer2020_Details": "フィッシュ・ア・フィッシュ：%playername%",
+  "#Status_Shroom_Details": "マッシュルーム・ズーム：%playername%",
+  "#Status_Hw2018_Details": "トリック・アンド・トリート：%playername%"
+}

@@ -1,0 +1,17 @@
+{
+  "#InMainMenu": "W menu głównym",
+  "#Queueing": "W kolejce jako {#%team%}",
+  "#LobbyOne": "W poczekalni z 1 innym graczem",
+  "#LobbyMore": "W poczekalni z %lobby_buddies% innymi graczami",
+  "#PlayingDiverOne": "Gra jako {#%team%}, pozostał 1 sejf",
+  "#PlayingDiverMore": "Gra jako {#%team%}, pozostałych sejfów: %safes%",
+  "#PlayingDiverFinal": "Gra jako {#%team%}, eskortuje S.T.E.V.E-a",
+  "#PlayingSharkOne": "Gra jako {#%team%}, pozostał 1 nurek",
+  "#PlayingSharkMore": "Gra jako {#%team%}, pozostałych nurków: %divers_left%",
+  "#WaitingForLoaders": "Oczekiwanie na rozpoczęcie meczu",
+  "#EndGame": "Przegląda końcową tablicę wyników",
+  "#Team0": "nurek",
+  "#Team1": "rekin",
+  "#Team2": "nurek lub rekin",
+  "#ConnectingToServer": "Łączenie z serwerem"
+}

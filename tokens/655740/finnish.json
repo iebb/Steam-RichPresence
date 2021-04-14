@@ -1,0 +1,21 @@
+{
+  "#GameSetupMode_RoomInfo": "{%gameSetupMode%}: {%roomInfo%}",
+  "#MainMenu": "Valikot",
+  "#Singleplayer": "Yksinpeli",
+  "#CouchCoop": "Paikallinen yhteistyöpeli",
+  "#OnlineCoop": "Verkkoyhteistyöpeli",
+  "#TallowmeresKeep": "Tallowmeren Torni",
+  "#RoomX": "Huone %roomNumber%",
+  "#LamentingDeath": "Surukuolema huoneessa %roomNumber%",
+  "#ConfiguringOptions": "Muokkaa asetuksia",
+  "#ViewingHighScores": "Katsoo huipputuloksia",
+  "#ViewingAchievements": "Katsoo saavutuksia",
+  "#BrowsingLeaderboards": "Selaa tulostaulukkoa",
+  "#ViewingTitleScreen": "Tuijottaa aloitusnäyttöä",
+  "#SelectingNewGame": "Harkitsee uutta peliä",
+  "#BrowsingSavedGames": "Selaa tallennettuha pelejä",
+  "#BrowsingOnlineGames": "Selaa verkkopelejä",
+  "#SettingUpOnlineGame": "Aloittamassa verkkopeliä",
+  "#ViewingGameInfo": "Katsoo pelin tietoja",
+  "#ReadingVersionNotes": "Lukee version tietoja"
+}

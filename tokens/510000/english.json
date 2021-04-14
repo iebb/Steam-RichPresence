@@ -1,0 +1,8 @@
+{
+  "#Status_MenuOnline": "👥Menu ♻️%round%",
+  "#Status_InGameOnline": "👥🔎 ♻️%round%",
+  "#Status_InGameCombatOnline": "👥⚔%objProg% ♻️%round%",
+  "#Status_MenuOffline": "👤Menu ♻️%round%",
+  "#Status_InGameOffline": "👤🔎 ♻️%round%",
+  "#Status_InGameCombatOffline": "👤⚔%objProg% ♻️%round%"
+}

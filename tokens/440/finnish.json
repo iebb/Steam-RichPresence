@@ -1,0 +1,17 @@
+{
+  "#TF_RichPresence_Display": "{#TF_RichPresence_State_%state%}",
+  "#TF_RichPresence_State_MainMenu": "Päävalikko",
+  "#TF_RichPresence_State_SearchingGeneric": "Etsii peliä",
+  "#TF_RichPresence_State_SearchingMatchGroup": "Etsii - {#TF_RichPresence_MatchGroup_%matchgrouploc%}",
+  "#TF_RichPresence_State_PlayingGeneric": "Pelissä - %currentmap%",
+  "#TF_RichPresence_State_LoadingGeneric": "Liittymässä peliin",
+  "#TF_RichPresence_State_PlayingMatchGroup": "{#TF_RichPresence_MatchGroup_%matchgrouploc%} - %currentmap%",
+  "#TF_RichPresence_State_LoadingMatchGroup": "Liittyy {#TF_RichPresence_MatchGroup_%matchgrouploc%}",
+  "#TF_RichPresence_State_PlayingCommunity": "Yhteisö - %currentmap%",
+  "#TF_RichPresence_State_LoadingCommunity": "Liittymässä yhteisöpalvelimelle",
+  "#TF_RichPresence_MatchGroup_Competitive6v6": "Kilpailullinen",
+  "#TF_RichPresence_MatchGroup_Casual": "Tavallinen",
+  "#TF_RichPresence_MatchGroup_SpecialEvent": "Erikoistapahtuma",
+  "#TF_RichPresence_MatchGroup_MannUp": "Miehisty-tila",
+  "#TF_RichPresence_MatchGroup_BootCamp": "Harjoitusleiri"
+}

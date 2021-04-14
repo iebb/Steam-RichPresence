@@ -1,0 +1,11 @@
+{
+  "#StatusWithoutScore": "{#Status_%gamestatus%}",
+  "#StatusWithScore": "{#Status_%gamestatus%}: %score%",
+  "#Status_MainMenu": "Main Menu",
+  "#Status_ConnectingToServer": "Connecting to a server",
+  "#Status_SurvivingTheWilderness": "Surviving the wilderness",
+  "#Status_JoiningAGame": "Joining a game",
+  "#Status_StrugglingToSurvive": "Struggling to survive",
+  "#Status_ExploringATown": "Exploring a town",
+  "#Status_SafeAtHome": "Safe at home"
+}

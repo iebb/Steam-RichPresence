@@ -1,0 +1,10 @@
+{
+  "#Status_MainMenu": "Главное меню",
+  "#Status_InGame": "В игре",
+  "#Status_Settings": "Меню настроек",
+  "#Status_Achievements": "Достижения",
+  "#Status_Stats": "Итоги уровня",
+  "#Status_SelLevel": "Выбор уровня",
+  "#Status_GameOver": "Игра окончена",
+  "#Data": "уровень: %level%, очки: %score%"
+}

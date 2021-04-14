@@ -1,0 +1,6 @@
+{
+  "#Status": "{#Status_%gamestatus%}",
+  "#Status_InMenus": "At the Menu",
+  "#Status_InLobby": "In the Lobby",
+  "#Status_InGame": "In Game"
+}

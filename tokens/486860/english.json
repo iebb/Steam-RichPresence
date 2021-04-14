@@ -1,0 +1,6 @@
+{
+  "#Status_Desktop": "At the desktop",
+  "#STATUS_TUTORIAL": "In a tutorial",
+  "#Status_Offline": "Offline",
+  "#Status_Online": "%subscribercount% subscribers, %loggedin% logged in now"
+}

@@ -1,0 +1,22 @@
+{
+  "#STRING_IS_PLAYING_GAMEMODE": "Spielt {TOKEN_GAMEMODE}",
+  "#STRING_IS_PLAYING_LEVEL": "Spielt {TOKEN_LEVELNAME}",
+  "#STRING_IS_SETTING_UP_GAME": "Richtet ein Spiel ein",
+  "#TOKEN_GAMEMODE_0": "Kampagne",
+  "#TOKEN_GAMEMODE_1": "Horde",
+  "#TOKEN_GAMEMODE_2": "Punkteangriff",
+  "#TOKEN_LEVELNAME_0": "Harbins Ausgrabungsstätte",
+  "#TOKEN_LEVELNAME_1": "Pfad der Teiche",
+  "#TOKEN_LEVELNAME_2": "Medusatunnel",
+  "#TOKEN_LEVELNAME_3": "Steinkirche",
+  "#TOKEN_LEVELNAME_4": "Bergdorf",
+  "#TOKEN_LEVELNAME_5": "Heilige Höhle",
+  "#TOKEN_LEVELNAME_6": "Sturmdorf",
+  "#TOKEN_LEVELNAME_7": "Große Pyramide",
+  "#TOKEN_LEVELNAME_8": "Jenseits",
+  "#STRING_IS_PLAYING_GAMEMODE_LEVEL": "Spielt {TOKEN_GAMEMODE} in {TOKEN_LEVELNAME}",
+  "#IN_MENUS": "In Menüs",
+  "#STRING_IN_LOBBY_NOT_FULL": "In einer offenen Lobby",
+  "#STRING_IN_LOBBY_FULL": "In einer geschlossenen Lobby",
+  "#STRING_IN_MENUS": "In den Menüs"
+}

@@ -1,0 +1,17 @@
+{
+  "#TF_RichPresence_Display": "{#TF_RichPresence_State_%state%}",
+  "#TF_RichPresence_State_MainMenu": "Главно меню",
+  "#TF_RichPresence_State_SearchingGeneric": "Търсене за мач",
+  "#TF_RichPresence_State_SearchingMatchGroup": "Търсене — {#TF_RichPresence_MatchGroup_%matchgrouploc%}",
+  "#TF_RichPresence_State_PlayingGeneric": "В мач — %currentmap%",
+  "#TF_RichPresence_State_LoadingGeneric": "Присъединяване към мач",
+  "#TF_RichPresence_State_PlayingMatchGroup": "{#TF_RichPresence_MatchGroup_%matchgrouploc%} — %currentmap%",
+  "#TF_RichPresence_State_LoadingMatchGroup": "Присъединяване — {#TF_RichPresence_MatchGroup_%matchgrouploc%}",
+  "#TF_RichPresence_State_PlayingCommunity": "Общност — %currentmap%",
+  "#TF_RichPresence_State_LoadingCommunity": "Присъединяване към обществен сървър",
+  "#TF_RichPresence_MatchGroup_Competitive6v6": "Съревнователна",
+  "#TF_RichPresence_MatchGroup_Casual": "Неангажираща",
+  "#TF_RichPresence_MatchGroup_SpecialEvent": "Специално събитие",
+  "#TF_RichPresence_MatchGroup_MannUp": "Щателни Манневри",
+  "#TF_RichPresence_MatchGroup_BootCamp": "Тренировъчен лагер"
+}

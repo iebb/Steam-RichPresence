@@ -1,0 +1,10 @@
+{
+  "#Presence_MainMenu": "Menú principal",
+  "#Presence_SkirmishOffline": "Escaramuza contra IA",
+  "#Presence_SkirmishOnline": "Escaramuza contra humanos",
+  "#Presence_CampaignOffline": "Campaña (En solitario)",
+  "#Presence_CampaignOnline": "Campaña (Cooperativa)",
+  "#Presence_AgainstAllOdds": "Contra todo pron.",
+  "#Presence_CustomGameOffline": "Partida personalizada con IA",
+  "#Presence_CustomGameOnline": "Partida personalizada con humanos"
+}

@@ -1,0 +1,17 @@
+{
+  "#TF_RichPresence_Display": "{#TF_RichPresence_State_%state%}",
+  "#TF_RichPresence_State_MainMenu": "В главном меню",
+  "#TF_RichPresence_State_SearchingGeneric": "Ищет игру",
+  "#TF_RichPresence_State_SearchingMatchGroup": "Поиск ({#TF_RichPresence_MatchGroup_%matchgrouploc%})",
+  "#TF_RichPresence_State_PlayingGeneric": "В игре: %currentmap%",
+  "#TF_RichPresence_State_LoadingGeneric": "Заходит на сервер",
+  "#TF_RichPresence_State_PlayingMatchGroup": "{#TF_RichPresence_MatchGroup_%matchgrouploc%}: %currentmap%",
+  "#TF_RichPresence_State_LoadingMatchGroup": "Заходит на сервер ({#TF_RichPresence_MatchGroup_%matchgrouploc%})",
+  "#TF_RichPresence_State_PlayingCommunity": "Сервер сообщества: %currentmap%",
+  "#TF_RichPresence_State_LoadingCommunity": "Заходит на сервер сообщества",
+  "#TF_RichPresence_MatchGroup_Competitive6v6": "Соревновательная игра",
+  "#TF_RichPresence_MatchGroup_Casual": "Обычная игра",
+  "#TF_RichPresence_MatchGroup_SpecialEvent": "Праздничный режим",
+  "#TF_RichPresence_MatchGroup_MannUp": "МАННёвры",
+  "#TF_RichPresence_MatchGroup_BootCamp": "Учебка"
+}

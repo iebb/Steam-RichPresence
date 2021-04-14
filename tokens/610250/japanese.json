@@ -1,0 +1,5 @@
+{
+  "#MainMenu": "メニューで遊びます",
+  "#level": "%levelname% | %deaths%人の死亡",
+  "#leveleditor": "レベルエディタで遊びます"
+}

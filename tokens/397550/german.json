@@ -1,0 +1,11 @@
+{
+  "#StatusMultiplayer": "Mehrspieler: {#Status_%gamestatus%}",
+  "#StatusMultiplayerScore": "Mehrspieler: {#Status_%gamestatus%} - %score%",
+  "#Status_InChapter": "Kapitel %chapter%",
+  "#Status_InChallenge": "Herausforderung %challenge%",
+  "#Status_AtMainMenu": "Hauptmenü",
+  "#Status_InSurvival": "Überleben",
+  "#Status_InDeathMatch": "Deathmatch",
+  "#Status_InTeamDeathMatch": "Team DM",
+  "#Status_InOther": "Unbekannte"
+}

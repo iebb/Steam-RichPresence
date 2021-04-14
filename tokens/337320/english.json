@@ -1,0 +1,14 @@
+{
+  "#StatusSandbox": "In the Sandbox",
+  "#StatusArena": "Fighting in Arena Challenge %arenaChallenge%",
+  "#StatusEndlessArena": "Fighting in the Endless Arena",
+  "#StatusBeneathHub": "Preparing for a Beneath run",
+  "#StatusBeneath": "In Beneath",
+  "#StatusWorkshopLevel": "In a Workshop level",
+  "#StatusLevelEditorTest": "Testing a created level",
+  "#StatusLevelEditor": "Creating a level",
+  "#StatusCustomMusic": "Creating Custom Music packs",
+  "#StatusCustomTextures": "Creating Custom Textures",
+  "#StatusScenario": "In %levelName%",
+  "#StatusMainMenu": "In Main Menu"
+}

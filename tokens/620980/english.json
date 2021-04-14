@@ -1,0 +1,8 @@
+{
+  "#StatusWithMessage": "%StatusMessage%",
+  "#Campaign": "Playing Campaign",
+  "#Tutorial": "Playing Tutorial",
+  "#Menu": "Browsing Menus",
+  "#multiplayer_lobby": "In Multiplayer Lobby",
+  "#multiplayer": "Playing Multiplayer"
+}

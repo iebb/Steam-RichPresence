@@ -1,0 +1,15 @@
+{
+  "#GAME": "散策中...",
+  "#Menu": "メニュー内",
+  "#GameLoadingOnStart": "エノクへ到着",
+  "#InLobby": "ロビー内",
+  "#MatchmakingWithRandomPlayers": "チームメイトを検索中",
+  "#WaitingForInvitation": "チームを編成中",
+  "#LoadingToLevel": "目的地へファストトラベル中",
+  "#PlayingAnyMissionWithOpenGame": "キャンペーンをプレイ中",
+  "#PlayingAnyMissionWithPrivGame": "キャンペーンをプレイ中",
+  "#PlayerInChallengesHUBOpenGame": "遠征の準備中",
+  "#PlayerInChallengesHUBPrivGame": "遠征の準備中",
+  "#PlaylingChallengeOpenGame": "遠征をプレイ中",
+  "#PlaylingChallengePrivGame": "遠征をプレイ中"
+}

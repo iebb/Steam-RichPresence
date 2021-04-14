@@ -1,0 +1,22 @@
+{
+  "#STRING_IS_PLAYING_GAMEMODE": "Joue à {TOKEN_GAMEMODE}",
+  "#STRING_IS_PLAYING_LEVEL": "Joue à {TOKEN_LEVELNAME}",
+  "#STRING_IS_SETTING_UP_GAME": "Paramètre une partie",
+  "#TOKEN_GAMEMODE_0": "Campagne",
+  "#TOKEN_GAMEMODE_1": "Horde",
+  "#TOKEN_GAMEMODE_2": "Course au score",
+  "#TOKEN_LEVELNAME_0": "Site de fouilles de Harbin",
+  "#TOKEN_LEVELNAME_1": "Chemins aux mares",
+  "#TOKEN_LEVELNAME_2": "Tunnels Medusa",
+  "#TOKEN_LEVELNAME_3": "Église de pierre",
+  "#TOKEN_LEVELNAME_4": "Village de montagne",
+  "#TOKEN_LEVELNAME_5": "Grotte sacrée",
+  "#TOKEN_LEVELNAME_6": "Storm Town",
+  "#TOKEN_LEVELNAME_7": "Grande pyramide",
+  "#TOKEN_LEVELNAME_8": "Au-delà",
+  "#STRING_IS_PLAYING_GAMEMODE_LEVEL": "Joue à {TOKEN_GAMEMODE} dans {TOKEN_LEVELNAME}",
+  "#IN_MENUS": "Dans les menus",
+  "#STRING_IN_LOBBY_NOT_FULL": "Dans un salon ouvert",
+  "#STRING_IN_LOBBY_FULL": "Dans un salon fermé",
+  "#STRING_IN_MENUS": "Dans les menus"
+}

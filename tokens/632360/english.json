@@ -1,0 +1,18 @@
+{
+  "#Display_MainMenu": "Main Menu",
+  "#Display_Logbook": "Logbook",
+  "#Display_InLobby": "In Lobby",
+  "#Display_Quickplay": "Quickplay",
+  "#Display_PreGame": "Character Select",
+  "#Display_GameOver": "Post-Game Report",
+  "#Display_InGame": "{#GameMode_%gamemode%}{#Difficulty_%difficulty%}{#PT_%participation_type%} %minutes%m",
+  "#GameMode_ClassicRun": " ",
+  "#GameMode_WeeklyRun": "(Prismatic Trials) ",
+  "#Difficulty_Hard": "👿︎",
+  "#Difficulty_Normal": " ",
+  "#Difficulty_Easy": " ",
+  "#PT_None": " ",
+  "#PT_Alive": "🏃︎",
+  "#PT_Dead": "☠︎",
+  "#PT_Spectator": "🎥︎"
+}

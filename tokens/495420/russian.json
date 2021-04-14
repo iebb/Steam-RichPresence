@@ -1,0 +1,10 @@
+{
+  "#presence_menus": "Готовится бороться за выживание",
+  "#presence_tutorial": "Сбегает из лагеря «Оспри»",
+  "#presence_game_host": "Отвоевывает мир у зомби",
+  "#presence_game_client": "Помогает соседям воевать с зомби",
+  "#presence_daybreak_host": "Возглавляет команду в режиме «Рассвет»",
+  "#presence_daybreak_client": "Участвует в команде в режиме «Рассвет»",
+  "#presence_heartland_host": "Ищет ответы в «Хартланде»",
+  "#presence_heartland_client": "Помогает другу в «Хартланде»"
+}

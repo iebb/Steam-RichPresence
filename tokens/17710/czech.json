@@ -1,0 +1,14 @@
+{
+  "#RP_Playing": "%currentmap% - {#%team%} - {#%class%}",
+  "#RP_Playing_NoClass": "%currentmap% - {#%team%}",
+  "#RP_Connecting": "%currentmap% - Připojení k serveru...",
+  "#RP_MainMenu": "Hlavní menu",
+  "#ND_Assault": "Útočník",
+  "#ND_Support": "Podpora",
+  "#ND_Exo": "Exo",
+  "#ND_Stealth": "Špión",
+  "#ND_Commander": "Vel",
+  "#ND_Consortium": "Konsorcium",
+  "#ND_Empire": "Impérium",
+  "#ND_Spectate": "Divák"
+}

@@ -1,0 +1,12 @@
+{
+  "#StatusMainMenu": "Admiring the main menu",
+  "#StatusOrder": "Working on: %ORDER%",
+  "#StatusOffice": "{#StatusOffice%ACTIVITY%} their office",
+  "#StatusOfficeIdle": "At",
+  "#StatusOfficeReconditioning": "Reconditioning",
+  "#StatusOfficeRefurnishing": "Refurnishing",
+  "#StatusBoughtHouse": "{#StatusBoughtHouse%ACTIVITY%} %HOUSE%",
+  "#StatusBoughtHouseIdle": "Visiting",
+  "#StatusBoughtHouseReconditioning": "Reconditioning",
+  "#StatusBoughtHouseRefurnishing": "Refurnishing"
+}

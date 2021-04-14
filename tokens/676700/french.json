@@ -1,0 +1,14 @@
+{
+  "#Status_MainMenu": "Dans le menu principal",
+  "#Status_Lobby": "Dans un lobby",
+  "#Status_BasicTutorial": "Joue le tutoriel",
+  "#Status_Standard": "Dans une partie classique ({#Difficulty_%difficulty%}) : %time% mins",
+  "#Status_Survival": "Dans une partie infinie ({#Difficulty_%difficulty%}) : %time% mins",
+  "#Status_WeeklySurvival": "Dans une partie infinie classée : %time%",
+  "#Difficulty_-1": "Détendu",
+  "#Difficulty_0": "Normal",
+  "#Difficulty_1": "Difficile",
+  "#Difficulty_2": "Enfer",
+  "#difficulty_3": "Impossible",
+  "#Custom": "%custom%"
+}

@@ -1,0 +1,14 @@
+{
+  "#offline": "Hors ligne",
+  "#presence_in_menus": "À l'écran principal",
+  "#playing_fantasy_strike": "Joue à Fantasy Strike",
+  "#presence_local_versus": "En versus local",
+  "#presence_casual_online": "En match rapide en ligne",
+  "#presence_ranked_online": "En match de compétition en ligne",
+  "#presence_friend_match_online": "En match contre un ami en ligne",
+  "#presence_tutorial": "Dans le tutoriel",
+  "#presence_survival": "En match de survie",
+  "#presence_daily_challenge": "En défi quotidien",
+  "#presence_arcade": "En mode arcade",
+  "#presence_practice": "En mode d'entraînement"
+}

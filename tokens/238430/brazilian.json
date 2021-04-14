@@ -1,0 +1,11 @@
+{
+  "#Status": "{#Status_%gamestatus%}",
+  "#StatusWithValue": "{#Status_%gamestatus%}: %VALUE%",
+  "#StatusPlaying": "%MODE%: %MAP% (%DIFF%)",
+  "#StatusCompetitive": "Competitivo: %MAP%",
+  "#Status_Editor": "Hammer Editor",
+  "#Status_Menu": "Menu Principal",
+  "#Status_Lobby": "Na Sala",
+  "#Status_Play": "Jogando em um servidor",
+  "#Status_Join": "Conectando a um servidor"
+}

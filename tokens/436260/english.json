@@ -1,0 +1,5 @@
+{
+  "#Status_MainMenu": "At the main menu",
+  "#Status_Warmup": "%gamemode% - Match Warmup",
+  "#Status_InProgress": "%gamemode% - Match in progress"
+}

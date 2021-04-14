@@ -1,0 +1,17 @@
+{
+  "#InMainMenu": "メインメニュー",
+  "#Queueing": "{#%team%}として並ぶ",
+  "#LobbyOne": "他のプレイヤーとロビーで一緒になる。",
+  "#LobbyMore": "%lobby_buddies% 人のプレイヤーと一緒にロビーにいる。",
+  "#PlayingDiverOne": "{#%team%} で遊んでいる(残り１つの金庫)",
+  "#PlayingDiverMore": "%safes%の金庫を{#%team%}で遊んでいる",
+  "#PlayingDiverFinal": "{#%team%}で遊びS.T.E.V.E.をエスコートしている",
+  "#PlayingSharkOne": "残り一人のダイバーで遊んでいる 。{#%team%}",
+  "#PlayingSharkMore": "%i 人のダイバーが残っている状態で遊ぶ",
+  "#WaitingForLoaders": "マッチの始まりを待つ",
+  "#EndGame": "エンドゲームのスコアボードを見る",
+  "#Team0": "ダイバー",
+  "#Team1": "サメ",
+  "#Team2": "ダイバーもしくはサメ",
+  "#ConnectingToServer": "サーバーに接続する"
+}

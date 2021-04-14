@@ -1,0 +1,17 @@
+{
+  "#TF_RichPresence_Display": "{#TF_RichPresence_State_%state%}",
+  "#TF_RichPresence_State_MainMenu": "主菜单",
+  "#TF_RichPresence_State_SearchingGeneric": "正在搜索比赛",
+  "#TF_RichPresence_State_SearchingMatchGroup": "正在搜索 - {#TF_RichPresence_MatchGroup_%matchgrouploc%}",
+  "#TF_RichPresence_State_PlayingGeneric": "比赛中 - %currentmap%",
+  "#TF_RichPresence_State_LoadingGeneric": "正在加入比赛",
+  "#TF_RichPresence_State_PlayingMatchGroup": "{#TF_RichPresence_MatchGroup_%matchgrouploc%} - %currentmap%",
+  "#TF_RichPresence_State_LoadingMatchGroup": "正在加入 {#TF_RichPresence_MatchGroup_%matchgrouploc%}",
+  "#TF_RichPresence_State_PlayingCommunity": "社区服务器 - %currentmap%",
+  "#TF_RichPresence_State_LoadingCommunity": "正在加入社区服务器",
+  "#TF_RichPresence_MatchGroup_Competitive6v6": "竞技模式",
+  "#TF_RichPresence_MatchGroup_Casual": "休闲模式",
+  "#TF_RichPresence_MatchGroup_SpecialEvent": "特别活动",
+  "#TF_RichPresence_MatchGroup_MannUp": "曼恩奇现",
+  "#TF_RichPresence_MatchGroup_BootCamp": "新兵训练营"
+}

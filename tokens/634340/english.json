@@ -1,0 +1,4 @@
+{
+  "#StatusWithScore": "Level %level% (%slozhno%) Score: %score%",
+  "#gameover": "GAME OVER (%slozhno%) Score: %score%"
+}

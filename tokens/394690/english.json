@@ -1,0 +1,10 @@
+{
+  "#Playing": "{#Playing_%gameMode%}",
+  "#Playing_Condo": "%gameWorld%-%map%",
+  "#Playing_GameWorld": "%gameWorld%-%map%: Round[%round%/%maxRound%]",
+  "#Playing_Golf": "%gameWorld%-%map%: Hole[%round%/%maxRound%]",
+  "#Playing_Accel": "%gameWorld%-%map%: Lap[%lap%/%maxLap%] Round[%round%/%maxRound%]",
+  "#Playing_Lobby": "In the Plaza: %serverName%",
+  "#Playing_MainMenu": "At Main Menu",
+  "#Waiting": "Waiting for players %gameWorld%-%map%"
+}

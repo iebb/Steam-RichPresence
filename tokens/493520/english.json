@@ -1,0 +1,9 @@
+{
+  "#StatusWithoutScore": "{#Status_%gamestatus%}",
+  "#StatusWithScore": "{#Status_%gamestatus%}: %score%",
+  "#StatusWithExpedition": "{#Status_%gamestatus%}: %expedition%",
+  "#Status_NoLobby": "Deciding what to do..",
+  "#Status_Lobby": "At surface, waiting for drop",
+  "#Status_Generating": "Descending into the complex",
+  "#Status_InLevel": "Somewhere in the darkness"
+}

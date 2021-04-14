@@ -1,0 +1,5 @@
+{
+  "#Status_Playing": "Playing %multi%\n%map% - %gamemode%",
+  "#Status_Generic": "%generic%",
+  "#Status_InMenu": "In Menus"
+}

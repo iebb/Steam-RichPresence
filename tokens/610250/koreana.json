@@ -1,0 +1,5 @@
+{
+  "#MainMenu": "메뉴에서 재생",
+  "#level": "%levelname% | %deaths% 죽음",
+  "#leveleditor": "레벨 편집기에서 재생"
+}

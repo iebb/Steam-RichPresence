@@ -1,0 +1,13 @@
+{
+  "#Faction:AstraMilitarum": "Астра Милитарум",
+  "#Faction:ChaosSpaceMarines": "Космический десант Хаоса",
+  "#Faction:Eldar": "Искусственный мир Эльдар",
+  "#Faction:Necrons": "Некроны",
+  "#Faction:Orks": "Орки",
+  "#Faction:SpaceMarines": "Космический десант",
+  "#Faction:Tau": "Т'ау",
+  "#Faction:Tyranids": "Тираниды",
+  "#InGame": "{#Faction:%factionName%} · %playerName% · Ход %turn%",
+  "#InGameLobby": "В лобби игры",
+  "#InMenus": "В меню"
+}

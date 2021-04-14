@@ -1,0 +1,21 @@
+{
+  "#GameSetupMode_RoomInfo": "{%gameSetupMode%}: {%roomInfo%}",
+  "#MainMenu": "Menüs",
+  "#Singleplayer": "Einzelspieler",
+  "#CouchCoop": "Couch-Koop",
+  "#OnlineCoop": "Online-Koop",
+  "#TallowmeresKeep": "Tallowmeres Residenz",
+  "#RoomX": "Raum %roomNumber%",
+  "#LamentingDeath": "Trauer um den Tod in Raum %roomNumber%",
+  "#ConfiguringOptions": "Einstellungen bearbeiten",
+  "#ViewingHighScores": "Höchstpunktzahlen anzeigen",
+  "#ViewingAchievements": "Errungenschaften anzeigen",
+  "#BrowsingLeaderboards": "Rangliste anzeigen",
+  "#ViewingTitleScreen": "Auf dem Startbildschirm betrachten",
+  "#SelectingNewGame": "Einen neuen Run erwägen",
+  "#BrowsingSavedGames": "Gespeicherte Spiele anzeigen",
+  "#BrowsingOnlineGames": "Onlinespiele anzeigen",
+  "#SettingUpOnlineGame": "Onlinespiel erstellen",
+  "#ViewingGameInfo": "Spielinformation anzeigen",
+  "#ReadingVersionNotes": "Versionsnotizen lesen"
+}

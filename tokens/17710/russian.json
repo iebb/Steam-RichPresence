@@ -1,0 +1,14 @@
+{
+  "#RP_Playing": "%currentmap% - {#%team%} - {#%class%}",
+  "#RP_Playing_NoClass": "%currentmap% - {#%team%}",
+  "#RP_Connecting": "%currentmap% - Подключение к серверу...",
+  "#RP_MainMenu": "В главном меню",
+  "#ND_Assault": "Штурмовик",
+  "#ND_Support": "Поддержка",
+  "#ND_Exo": "Экзо",
+  "#ND_Stealth": "Разведчик",
+  "#ND_Commander": "Командир",
+  "#ND_Consortium": "Консорциум",
+  "#ND_Empire": "Империя",
+  "#ND_Spectate": "Наблюдатель"
+}

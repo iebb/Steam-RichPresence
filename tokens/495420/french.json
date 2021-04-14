@@ -1,0 +1,10 @@
+{
+  "#presence_menus": "Se prépare à la survie",
+  "#presence_tutorial": "S'évade du camp Osprey",
+  "#presence_game_host": "Reprend le monde aux zombies",
+  "#presence_game_client": "Aide des voisins à combattre les zombies",
+  "#presence_daybreak_host": "Dirige une équipe dans Daybreak",
+  "#presence_daybreak_client": "Fait partie d'une équipe dans Daybreak",
+  "#presence_heartland_host": "Cherche des réponses dans Heartland",
+  "#presence_heartland_client": "Aide un ami dans Heartland"
+}

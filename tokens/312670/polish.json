@@ -1,0 +1,22 @@
+{
+  "#STRING_IS_PLAYING_GAMEMODE": "Gra {TOKEN_GAMEMODE}",
+  "#STRING_IS_PLAYING_LEVEL": "Gra {TOKEN_LEVELNAME}",
+  "#STRING_IS_SETTING_UP_GAME": "Tworzy grę",
+  "#TOKEN_GAMEMODE_0": "Kampania",
+  "#TOKEN_GAMEMODE_1": "Horda",
+  "#TOKEN_GAMEMODE_2": "Na punkty",
+  "#TOKEN_LEVELNAME_0": "Wykopaliska Harbina",
+  "#TOKEN_LEVELNAME_1": "Wodne ścieżki",
+  "#TOKEN_LEVELNAME_2": "Tunele meduzy",
+  "#TOKEN_LEVELNAME_3": "Kamienny kościół",
+  "#TOKEN_LEVELNAME_4": "Górska wioska",
+  "#TOKEN_LEVELNAME_5": "Święta jaskinia",
+  "#TOKEN_LEVELNAME_6": "Miasto burz",
+  "#TOKEN_LEVELNAME_7": "Wielka piramida",
+  "#TOKEN_LEVELNAME_8": "Zaświaty",
+  "#STRING_IS_PLAYING_GAMEMODE_LEVEL": "Gra w trybie {TOKEN_GAMEMODE} na poziomie {TOKEN_LEVELNAME}}",
+  "#IN_MENUS": "W menu",
+  "#STRING_IN_LOBBY_NOT_FULL": "W otwartym lobby",
+  "#STRING_IN_LOBBY_FULL": "W zamkniętym lobby",
+  "#STRING_IN_MENUS": "W menu"
+}

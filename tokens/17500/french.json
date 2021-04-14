@@ -1,0 +1,9 @@
+{
+  "#Status": "{#Status_%gamestatus%}",
+  "#StatusPlaying": "%MODE% : %MAP%",
+  "#Status_Menu": "Menu principal",
+  "#Status_Lobby": "Dans un salon",
+  "#Status_Spectator": "Spectateur sur %MAP%",
+  "#Status_Play": "Joue sur un serveur",
+  "#Status_Join": "Se connecte à un serveur"
+}

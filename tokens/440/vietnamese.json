@@ -1,0 +1,17 @@
+{
+  "#TF_RichPresence_Display": "{#TF_RichPresence_State_%state%}",
+  "#TF_RichPresence_State_MainMenu": "Đại sảnh",
+  "#TF_RichPresence_State_SearchingGeneric": "Đang tìm trận đấu",
+  "#TF_RichPresence_State_SearchingMatchGroup": "Đang tìm - {#TF_RichPresence_MatchGroup_%matchgrouploc%}",
+  "#TF_RichPresence_State_PlayingGeneric": "Đang chơi - %currentmap%",
+  "#TF_RichPresence_State_LoadingGeneric": "Đang tham gia trận",
+  "#TF_RichPresence_State_PlayingMatchGroup": "{#TF_RichPresence_MatchGroup_%matchgrouploc%} - %currentmap%",
+  "#TF_RichPresence_State_LoadingMatchGroup": "Đang tham gia {#TF_RichPresence_MatchGroup_%matchgrouploc%}",
+  "#TF_RichPresence_State_PlayingCommunity": "Cộng đồng - %currentmap%",
+  "#TF_RichPresence_State_LoadingCommunity": "Đang tham gia máy chủ cộng đồng",
+  "#TF_RichPresence_MatchGroup_Competitive6v6": "Tranh đấu",
+  "#TF_RichPresence_MatchGroup_Casual": "Đơn giản",
+  "#TF_RichPresence_MatchGroup_SpecialEvent": "Sự kiện đặc biệt",
+  "#TF_RichPresence_MatchGroup_MannUp": "Mann Up",
+  "#TF_RichPresence_MatchGroup_BootCamp": "Boot Camp"
+}

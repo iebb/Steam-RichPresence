@@ -1,0 +1,14 @@
+{
+  "#Status_MainMenu": "主菜单",
+  "#Status_Shop": "商店",
+  "#Status_Lobby": "房间：%lobbyname%",
+  "#Status_LobbyPrivate": "在房间里",
+  "#Status_InGame": "游戏中",
+  "#Status_Results": "结算",
+  "#Status_CoopMode_Details": "合作：%bossname%，%difficulty%",
+  "#Status_NormalMode_Details": "普通：%playername%",
+  "#Status_Spring2020_Details": "赏金猎人：%playername%",
+  "#Status_Summer2020_Details": "捉鱼：%playername%",
+  "#Status_Shroom_Details": "奇异蘑菇：%playername%",
+  "#Status_Hw2018_Details": "拿糖又捣蛋：%playername%"
+}

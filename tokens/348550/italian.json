@@ -1,0 +1,16 @@
+{
+  "#MainMenu": "Nel men? Principale",
+  "#ModeSound": "Modalit? Suono",
+  "#ModeReplay": "Nella modalit? Replay",
+  "#ModeNetworkRanked": "Nella modalit? Partita Classificata Online",
+  "#PlayerRoom": "In una Stanza Giocatore (%playernow%/%playermax%)",
+  "#NetworkMenu": "Nel men? Network",
+  "#ModeStory": "Nella modalit? Storia",
+  "#ModeMission": "Nella modalit? Missione",
+  "#ModeTraining": "Nella modalit? Allenamento",
+  "#ModeSurvival": "Nella modalit? Sopravvivenza",
+  "#ModeMom": "Nella modalit? M.O.M.",
+  "#ModeVersus2P": "Nella modalit? vs 2P",
+  "#ModeVersusCPU": "Nella modalit? vs CPU",
+  "#ModeArcade": "Nella modalit? Arcade"
+}

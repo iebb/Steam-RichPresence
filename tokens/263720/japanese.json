@@ -1,0 +1,13 @@
+{
+  "#Status_IN_MAIN_MENU": "メインメニュー",
+  "#Status_WAITING_IN_ONLINE_PRIVATE_LOBBY": "プライベートロビーオンラインで待ち受け中",
+  "#Status_PRACTICING_ADVANCED_SKILLS": "応用スキルを練習中",
+  "#Status_PLAYING_ARCADE_EASY_MATCH": "アーケードタワー(イージー) プレイ中",
+  "#Status_PLAYING_ARCADE_MEDIUM_MATCH": "アーケードタワー(ノーマル) プレイ中",
+  "#Status_PLAYING_ARCADE_HARD_MATCH": "アーケードタワー(ハード) プレイ中",
+  "#Status_PLAYING_COUCH_MATCH": "カジュアルマッチ中",
+  "#Status_PLAYING_RANKED_MATCH": "ランクマッチ中",
+  "#Status_PLAYING_ONLINE_MATCH": "オンラインマッチをプレイ中",
+  "#Status_PLAYING_VS_AI": "対AI戦中",
+  "#Status_PLAYING_TRIALS": "プレイトライアル"
+}

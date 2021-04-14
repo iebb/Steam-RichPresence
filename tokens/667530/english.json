@@ -1,0 +1,12 @@
+{
+  "#StatusWithoutScore": "{#Status_%gamestatus%}",
+  "#StatusWithScore": "{#Status_%gamestatus%}: %score%",
+  "#Status_MainMenu": "Sitting in the menu",
+  "#Status_Customizing": "Customizing character",
+  "#Status_Playing": "Playing {#Gametype_%gametype%}",
+  "#Status_Endgame": "Played {#Gametype_%gametype%} and got %place% place",
+  "#Status_Replay": "Watching replay",
+  "#Status_Editor": "In mod editor",
+  "#Gametype_Kickboxing": "Kickboxing",
+  "#Gametype_Freestyle": "Turn-based"
+}

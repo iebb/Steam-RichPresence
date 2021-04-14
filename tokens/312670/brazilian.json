@@ -1,0 +1,22 @@
+{
+  "#STRING_IS_PLAYING_GAMEMODE": "está jogando {TOKEN_LEVELNAME}",
+  "#STRING_IS_PLAYING_LEVEL": "está jogando {TOKEN_LEVELNAME}}",
+  "#STRING_IS_SETTING_UP_GAME": "Está configurando uma partida",
+  "#TOKEN_GAMEMODE_0": "Campanha",
+  "#TOKEN_GAMEMODE_1": "Horda",
+  "#TOKEN_GAMEMODE_2": "Ataque por Pontos",
+  "#TOKEN_LEVELNAME_0": "Sítio de Escavação de Harbin",
+  "#TOKEN_LEVELNAME_1": "Caminhos da Lagoa",
+  "#TOKEN_LEVELNAME_2": "Túneis da Medusa",
+  "#TOKEN_LEVELNAME_3": "Igreja de Pedra",
+  "#TOKEN_LEVELNAME_4": "Aldeia das Montanhas",
+  "#TOKEN_LEVELNAME_5": "Caverna Sagrada",
+  "#TOKEN_LEVELNAME_6": "Cidade da Tempestade",
+  "#TOKEN_LEVELNAME_7": "Grande Pirâmide",
+  "#TOKEN_LEVELNAME_8": "Além",
+  "#STRING_IS_PLAYING_GAMEMODE_LEVEL": "Está jogando {TOKEN_GAMEMODE}, em {TOKEN_LEVELNAME}}",
+  "#IN_MENUS": "Nos menus",
+  "#STRING_IN_LOBBY_NOT_FULL": "Em uma Sala Aberta",
+  "#STRING_IN_LOBBY_FULL": "Em uma Sala Fechada",
+  "#STRING_IN_MENUS": "Nos menus"
+}

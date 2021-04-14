@@ -1,0 +1,16 @@
+{
+  "#MainMenu": "No Menu Principal",
+  "#ModeSound": "No Modo de Som",
+  "#ModeReplay": "No Modo de Reprodu??o",
+  "#ModeNetworkRanked": "No Modo Competitivo Online",
+  "#PlayerRoom": "Numa Sala de Jogo (%playernow%/%playermax%)",
+  "#NetworkMenu": "No Menu Online",
+  "#ModeStory": "No Modo de Hist?ria",
+  "#ModeMission": "No Modo de Miss?o",
+  "#ModeTraining": "No Modo de Treino",
+  "#ModeSurvival": "No Modo de Sobreviv?ncia",
+  "#ModeMom": "No Modo M.O.M.",
+  "#ModeVersus2P": "No Modo Versus contra P2",
+  "#ModeVersusCPU": "No Modo Versus contra CPU",
+  "#ModeArcade": "No Modo Arcade"
+}

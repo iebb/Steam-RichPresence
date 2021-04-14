@@ -1,0 +1,15 @@
+{
+  "#GAME": "Бродит по планете...",
+  "#Menu": "В меню",
+  "#GameLoadingOnStart": "Направляется на Енох",
+  "#InLobby": "В лобби",
+  "#MatchmakingWithRandomPlayers": "Ищет напарников для совместной игры",
+  "#WaitingForInvitation": "Формирует отряд",
+  "#LoadingToLevel": "Перемещается",
+  "#PlayingAnyMissionWithOpenGame": "Проходит кампанию",
+  "#PlayingAnyMissionWithPrivGame": "Проходит кампанию",
+  "#PlayerInChallengesHUBOpenGame": "Готовится к экспедиции",
+  "#PlayerInChallengesHUBPrivGame": "Готовится к экспедиции",
+  "#PlaylingChallengeOpenGame": "Участвует в экспедиции",
+  "#PlaylingChallengePrivGame": "Участвует в экспедиции"
+}

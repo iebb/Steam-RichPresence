@@ -1,0 +1,10 @@
+{
+  "#Presence_MainMenu": "Main Menu",
+  "#Presence_SkirmishOffline": "Skirmish vs. AI",
+  "#Presence_SkirmishOnline": "Skirmish vs. Humans",
+  "#Presence_CampaignOffline": "Campaign (Solo)",
+  "#Presence_CampaignOnline": "Campaign (Co-Op)",
+  "#Presence_AgainstAllOdds": "Against All Odds",
+  "#Presence_CustomGameOffline": "Custom Match with AI",
+  "#Presence_CustomGameOnline": "Custom Match with Humans"
+}

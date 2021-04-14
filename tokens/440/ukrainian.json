@@ -1,0 +1,17 @@
+{
+  "#TF_RichPresence_Display": "{#TF_RichPresence_State_%state%}",
+  "#TF_RichPresence_State_MainMenu": "Головне меню",
+  "#TF_RichPresence_State_SearchingGeneric": "Пошук матчу",
+  "#TF_RichPresence_State_SearchingMatchGroup": "Пошук — {#TF_RichPresence_MatchGroup_%matchgrouploc%}",
+  "#TF_RichPresence_State_PlayingGeneric": "У матчі — %currentmap%",
+  "#TF_RichPresence_State_LoadingGeneric": "Приєднується до матчу",
+  "#TF_RichPresence_State_PlayingMatchGroup": "{#TF_RichPresence_MatchGroup_%matchgrouploc%} — %currentmap%",
+  "#TF_RichPresence_State_LoadingMatchGroup": "Приєднується до {#TF_RichPresence_MatchGroup_%matchgrouploc%}",
+  "#TF_RichPresence_State_PlayingCommunity": "Спільнота — %currentmap%",
+  "#TF_RichPresence_State_LoadingCommunity": "Приєднується до сервера спільноти",
+  "#TF_RichPresence_MatchGroup_Competitive6v6": "Змагальний режим",
+  "#TF_RichPresence_MatchGroup_Casual": "Звичайний режим",
+  "#TF_RichPresence_MatchGroup_SpecialEvent": "Особлива подія",
+  "#TF_RichPresence_MatchGroup_MannUp": "«Манневри»",
+  "#TF_RichPresence_MatchGroup_BootCamp": "«Тренувальний табір»"
+}

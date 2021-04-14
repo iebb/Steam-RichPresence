@@ -1,0 +1,14 @@
+{
+  "#RP_Playing": "%currentmap% - {#%team%} - {#%class%}",
+  "#RP_Playing_NoClass": "%currentmap% - {#%team%}",
+  "#RP_Connecting": "%currentmap% - Connecting to server...",
+  "#RP_MainMenu": "Main Menu",
+  "#ND_Assault": "Assault",
+  "#ND_Support": "Support",
+  "#ND_Exo": "Exo",
+  "#ND_Stealth": "Stealth",
+  "#ND_Commander": "Cmdr",
+  "#ND_Consortium": "Consortium",
+  "#ND_Empire": "Empire",
+  "#ND_Spectate": "Spectator"
+}

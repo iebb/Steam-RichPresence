@@ -1,0 +1,17 @@
+{
+  "#StatusExploring": "성소 둘러보기",
+  "#StatusTutorial": "사부님의 말씀 듣기",
+  "#StatusTemple": "사원에서 느긋하게 지내기",
+  "#StatusPrecision": "궁도 정확도 (%score%)",
+  "#StatusDynamic": "궁도 역동성 (%score%)",
+  "#StatusSkeet": "궁도 스키트 (%score%)",
+  "#StatusMemory": "궁도 기억력 (%score%)",
+  "#StatusTriathlon": "궁도 트라이애슬론 (%score%)",
+  "#StatusTameshigiri": "타메시기리 (%score%)",
+  "#StatusSpeedSlice": "빠른 자르기 (%score%)",
+  "#StatusDodgeSlice": "피하기 및 자르기 (%score%)",
+  "#StatusWhack": "로봇 후려치기 (%score%)",
+  "#StatusSharpDarts": "날카로운 다트 (%score%)",
+  "#StatusTaikoFrenzy": "광란의 태고 (%score%)",
+  "#StatusPoleChakram": "차크람 장대 넣기 (%score%)"
+}

@@ -1,0 +1,22 @@
+{
+  "#STRING_IS_PLAYING_GAMEMODE": "Играет в: {TOKEN_GAMEMODE}",
+  "#STRING_IS_PLAYING_LEVEL": "Проходит уровень: {TOKEN_LEVELNAME}",
+  "#STRING_IS_SETTING_UP_GAME": "Настраивает игру",
+  "#TOKEN_GAMEMODE_0": "Кампания",
+  "#TOKEN_GAMEMODE_1": "Орда",
+  "#TOKEN_GAMEMODE_2": "Погоня за очками",
+  "#TOKEN_LEVELNAME_0": "Место раскопок Харбина",
+  "#TOKEN_LEVELNAME_1": "Ветвистые тропы",
+  "#TOKEN_LEVELNAME_2": "Коридоры медузы",
+  "#TOKEN_LEVELNAME_3": "Каменная церковь",
+  "#TOKEN_LEVELNAME_4": "Горная деревня",
+  "#TOKEN_LEVELNAME_5": "Священная пещера",
+  "#TOKEN_LEVELNAME_6": "Город штормов",
+  "#TOKEN_LEVELNAME_7": "Великая пирамида",
+  "#TOKEN_LEVELNAME_8": "Загробная жизнь",
+  "#STRING_IS_PLAYING_GAMEMODE_LEVEL": "Режим: {TOKEN_GAMEMODE}. Уровень: {TOKEN_LEVELNAME}",
+  "#IN_MENUS": "В меню",
+  "#STRING_IN_LOBBY_NOT_FULL": "В открытом лобби",
+  "#STRING_IN_LOBBY_FULL": "В закрытом лобби",
+  "#STRING_IN_MENUS": "В меню"
+}

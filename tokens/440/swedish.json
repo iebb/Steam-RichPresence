@@ -1,0 +1,17 @@
+{
+  "#TF_RichPresence_Display": "{#TF_RichPresence_State_%state%}",
+  "#TF_RichPresence_State_MainMenu": "Huvudmeny",
+  "#TF_RichPresence_State_SearchingGeneric": "Söker efter en match",
+  "#TF_RichPresence_State_SearchingMatchGroup": "Söker - {#TF_RichPresence_MatchGroup_%matchgrouploc%}",
+  "#TF_RichPresence_State_PlayingGeneric": "I match - %currentmap%",
+  "#TF_RichPresence_State_LoadingGeneric": "Går med i match",
+  "#TF_RichPresence_State_PlayingMatchGroup": "{#TF_RichPresence_MatchGroup_%matchgrouploc%} - %currentmap%",
+  "#TF_RichPresence_State_LoadingMatchGroup": "Går med i {#TF_RichPresence_MatchGroup_%matchgrouploc%}",
+  "#TF_RichPresence_State_PlayingCommunity": "Gemenskap - %currentmap%",
+  "#TF_RichPresence_State_LoadingCommunity": "Går med i gemenskapserver",
+  "#TF_RichPresence_MatchGroup_Competitive6v6": "Tävlingsinriktat",
+  "#TF_RichPresence_MatchGroup_Casual": "Vanligt",
+  "#TF_RichPresence_MatchGroup_SpecialEvent": "Specialevent",
+  "#TF_RichPresence_MatchGroup_MannUp": "Mann Up",
+  "#TF_RichPresence_MatchGroup_BootCamp": "Träningsläger"
+}

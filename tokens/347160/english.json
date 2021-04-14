@@ -1,0 +1,13 @@
+{
+  "#Menu": "Preparing for combat",
+  "#Tutorial": "Training in virtual mode",
+  "#Scores": "Checking the best pilots",
+  "#BossRush": "Boss Rush",
+  "#DailyRun": "Daily Run",
+  "#GAME": "Fighting space pirates",
+  "#Game_With_Level": "Fighting space pirates %loop%-%level%",
+  "#Game_With_Score": "Fighting space pirates. Score: %score%",
+  "#Game_Boss": "Fighting the %boss%",
+  "#Arena": "Practicing in arena",
+  "#Arena_Boss": "Practicing against the %boss% in arena"
+}

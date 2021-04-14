@@ -1,0 +1,13 @@
+{
+  "#Status_IN_MAIN_MENU": "Est dans le menu principal",
+  "#Status_WAITING_IN_ONLINE_PRIVATE_LOBBY": "Attend dans un salon",
+  "#Status_PRACTICING_ADVANCED_SKILLS": "S'exerce aux capacités avancées",
+  "#Status_PLAYING_ARCADE_EASY_MATCH": "Monte dans la tour d'arcade facile",
+  "#Status_PLAYING_ARCADE_MEDIUM_MATCH": "Monte dans la tour d'arcade moyenne",
+  "#Status_PLAYING_ARCADE_HARD_MATCH": "Monte dans la tour d'arcade difficile",
+  "#Status_PLAYING_COUCH_MATCH": "Fait une partie relax",
+  "#Status_PLAYING_RANKED_MATCH": "Joue à un match classé",
+  "#Status_PLAYING_ONLINE_MATCH": "Joue à un match en ligne",
+  "#Status_PLAYING_VS_AI": "Affronte l'IA",
+  "#Status_PLAYING_TRIALS": "Joue aux épreuves"
+}

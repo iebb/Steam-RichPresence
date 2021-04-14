@@ -1,0 +1,11 @@
+{
+  "#Status_MainMenu": "In Main Menu",
+  "#Status_InMaze": "In {%maze%}",
+  "#Proto": "Prototype Maze",
+  "#Scifi": "Sci-fi Maze",
+  "#Scifi2": "Dark Maze",
+  "#Ancient": "Ancient Maze",
+  "#Editor": "Maze Editor",
+  "#Challenge": "Challenge Mode",
+  "#multiplayer": "Multiplayer"
+}

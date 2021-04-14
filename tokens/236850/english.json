@@ -1,0 +1,8 @@
+{
+  "#MainMenu": "Main Menu",
+  "#SpLobby": "In Singleplayer Lobby",
+  "#MpLobby": "In Multiplayer Lobby",
+  "#PlayingAs": "Ruling as %title% of %country% in %year%",
+  "#AtWarWith": "Leading as %title% of %country% in war against %enemy% in %year%",
+  "#Observing": "Observing the world in %year%"
+}

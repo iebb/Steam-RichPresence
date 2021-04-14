@@ -1,0 +1,20 @@
+{
+  "#City_cairo": "Le Caire",
+  "#ModeUntranslatedCity": "%city% - {#Mode_%mode%}",
+  "#ModeCity": "{#City_%city%} - {#Mode_%mode%}",
+  "#Mode_zen": "Sans fin",
+  "#City_new_york_city": "New York",
+  "#City_london_1960": "Londres, 1960",
+  "#ModeUntranslatedCityScore": "%city% - {#Mode_%mode%} (%score%)",
+  "#City_new_york_city_1972": "New York, 1972",
+  "#ModeCityScore": "{#City_%city%} - {#Mode_%mode%} (%score%)",
+  "#City_seoul": "Séoul",
+  "#City_singapore": "Singapour",
+  "#City_london": "Londres",
+  "#City_paris_1937": "Paris, 1937",
+  "#Mode_sandbox": "Création",
+  "#Mode_extreme": "Extrême",
+  "#City_barcelona": "Barcelone",
+  "#City_saint_petersburg": "Saint-Pétersbourg",
+  "#Mode_daily_challenge": "Défi quotidien"
+}

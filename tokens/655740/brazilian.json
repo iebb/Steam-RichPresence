@@ -1,0 +1,21 @@
+{
+  "#GameSetupMode_RoomInfo": "{%gameSetupMode%}: {%roomInfo%}",
+  "#MainMenu": "Menus",
+  "#Singleplayer": "Single-player",
+  "#CouchCoop": "Multiplayer Local",
+  "#OnlineCoop": "Multiplayer Online",
+  "#TallowmeresKeep": "Posto da Tallowmere",
+  "#RoomX": "Sala %roomNumber%",
+  "#LamentingDeath": "Lamentando a morte na sala %roomNumber%",
+  "#ConfiguringOptions": "Configurando opções",
+  "#ViewingHighScores": "Vendo recordes",
+  "#ViewingAchievements": "Vendo conquistas",
+  "#BrowsingLeaderboards": "Navegando pelos recordes",
+  "#ViewingTitleScreen": "Encarando o menu principal",
+  "#SelectingNewGame": "Contemplando uma nova rodada",
+  "#BrowsingSavedGames": "Navegando nos jogos salvos",
+  "#BrowsingOnlineGames": "Navegando nos jogos online",
+  "#SettingUpOnlineGame": "Criando um jogo online",
+  "#ViewingGameInfo": "Vendo as informações do jogo",
+  "#ReadingVersionNotes": "Lendo as notas da versão"
+}

@@ -1,0 +1,21 @@
+{
+  "#GameSetupMode_RoomInfo": "{%gameSetupMode%}: {%roomInfo%}",
+  "#MainMenu": "Menus",
+  "#Singleplayer": "Solo",
+  "#CouchCoop": "Co-op local",
+  "#OnlineCoop": "Co-op en ligne",
+  "#TallowmeresKeep": "Donjon de Tallowmere",
+  "#RoomX": "Salle %roomNumber%",
+  "#LamentingDeath": "Deuil dans la salle %roomNumber%",
+  "#ConfiguringOptions": "Configuration des options",
+  "#ViewingHighScores": "Voir les meilleurs scores",
+  "#ViewingAchievements": "Voir les succès",
+  "#BrowsingLeaderboards": "Parcourir les classements",
+  "#ViewingTitleScreen": "Regarder l'écran-titre",
+  "#SelectingNewGame": "Comtempler une nouvelle partie",
+  "#BrowsingSavedGames": "Parcourir les parties sauvegardées",
+  "#BrowsingOnlineGames": "Parcourir les parties en ligne",
+  "#SettingUpOnlineGame": "Créer une partie en ligne",
+  "#ViewingGameInfo": "Voir les infos de partie",
+  "#ReadingVersionNotes": "Lire les notes de version"
+}

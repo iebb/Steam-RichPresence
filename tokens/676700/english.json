@@ -1,0 +1,14 @@
+{
+  "#Status_MainMenu": "In Main Menus",
+  "#Status_Lobby": "In a Lobby",
+  "#Status_BasicTutorial": "Playing Tutorial",
+  "#Status_Standard": "Playing Classic ({#Difficulty_%difficulty%}): %time% mins",
+  "#Status_Survival": "Playing Endless ({#Difficulty_%difficulty%}): %time% mins",
+  "#Status_WeeklySurvival": "Playing Endless Ranked: %time%",
+  "#Difficulty_-1": "Casual",
+  "#Difficulty_0": "Normal",
+  "#Difficulty_1": "Hard",
+  "#Difficulty_2": "Hell",
+  "#difficulty_3": "Impossible",
+  "#Custom": "%custom%"
+}

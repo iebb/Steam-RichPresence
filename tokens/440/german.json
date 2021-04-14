@@ -1,0 +1,17 @@
+{
+  "#TF_RichPresence_Display": "{#TF_RichPresence_State_%state%}",
+  "#TF_RichPresence_State_MainMenu": "Hauptmenü",
+  "#TF_RichPresence_State_SearchingGeneric": "Suche nach Spiel läuft",
+  "#TF_RichPresence_State_SearchingMatchGroup": "Suche läuft – {#TF_RichPresence_MatchGroup_%matchgrouploc%}",
+  "#TF_RichPresence_State_PlayingGeneric": "Im Spiel – %currentmap%",
+  "#TF_RichPresence_State_LoadingGeneric": "Spielbeitritt erfolgt",
+  "#TF_RichPresence_State_PlayingMatchGroup": "{#TF_RichPresence_MatchGroup_%matchgrouploc%} – %currentmap%",
+  "#TF_RichPresence_State_LoadingMatchGroup": "Sie treten {#TF_RichPresence_MatchGroup_%matchgrouploc%} bei",
+  "#TF_RichPresence_State_PlayingCommunity": "Community – %currentmap%",
+  "#TF_RichPresence_State_LoadingCommunity": "Verbindung zum Communityserver erfolgt",
+  "#TF_RichPresence_MatchGroup_Competitive6v6": "Wettkampf",
+  "#TF_RichPresence_MatchGroup_Casual": "Gelegenheitsspiel",
+  "#TF_RichPresence_MatchGroup_SpecialEvent": "Sonderevent",
+  "#TF_RichPresence_MatchGroup_MannUp": "Mann-Up",
+  "#TF_RichPresence_MatchGroup_BootCamp": "Training"
+}

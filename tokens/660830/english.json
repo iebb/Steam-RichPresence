@@ -1,0 +1,7 @@
+{
+  "#Status_Hangar": "In the garage",
+  "#Status_WaitingForMatch": "Waiting for match",
+  "#Status_Battle": "Playing %tank% on %map%",
+  "#Status_Losing": "Losing",
+  "#Status_Winning": "Winning"
+}

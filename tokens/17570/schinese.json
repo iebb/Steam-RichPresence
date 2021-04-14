@@ -1,0 +1,10 @@
+{
+  "#Status_JoiningServer": "正在加入服务器…",
+  "#Status_MainMenu": "主菜单",
+  "#Status_PlayingTeamDeathmatch": "正在玩团队死亡竞赛 - %map%",
+  "#Status_PlayingBooty": "正在玩宝藏模式 - %map%",
+  "#Status_PlayingTrinketWars": "正在玩圣物战争 - %map%",
+  "#Status_PlayingTerritory": "正在玩领地模式 - %map%",
+  "#Status_PlayingLastTeamStanding": "正在玩团队生存模式 - %map%",
+  "#Status_PlayingObjectivePush": "正在玩目标推进模式 - %map%"
+}

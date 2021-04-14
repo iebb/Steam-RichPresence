@@ -1,0 +1,15 @@
+{
+  "#Map_Lab": "Lab",
+  "#Map_Dojo": "Dojo",
+  "#Map_Thundercreek": "Thundercreek",
+  "#Map_Junkyard": "Junkyard",
+  "#Map_Germany": "Germany",
+  "#Map_Assembly": "Assembly",
+  "#Map_Molten Steel": "Molten Steel",
+  "#Test": "Testing Richpresence",
+  "#Hideout": "In Hideout",
+  "#Idle": "In Mainmenu",
+  "#Match": "On {#Map_%map%}",
+  "#Hosting": "Hosting on {#Map_%map%}",
+  "#LOBBY": "In Lobby"
+}

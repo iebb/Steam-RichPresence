@@ -1,0 +1,17 @@
+{
+  "#InMainMenu": "메인 메뉴에서",
+  "#Queueing": "{#%team%}로서 대기 중",
+  "#LobbyOne": "다른 플레이어와 함께 로비에서",
+  "#LobbyMore": "다른 플레이어 %lobby_buddies%명과 함께 로비에서",
+  "#PlayingDiverOne": "금고 1개 남은 채 {#%team%} 플레이 중",
+  "#PlayingDiverMore": "금고 %safes%개 남은 채 {#%team%} 플레이 중",
+  "#PlayingDiverFinal": "S.T.E.V.E. 경호하며 {#%team%} 플레이 중",
+  "#PlayingSharkOne": "다이버 1명 남은 채 {#%team%} 플레이 중",
+  "#PlayingSharkMore": "다이버 %divers_left%명 남은 채 {#%team%} 플레이 중",
+  "#WaitingForLoaders": "시작할 매치 찾는 중",
+  "#EndGame": "게임 후 점수판 보는 중",
+  "#Team0": "다이버",
+  "#Team1": "상어",
+  "#Team2": "다이버 혹은 상어",
+  "#ConnectingToServer": "서버 연결 중"
+}

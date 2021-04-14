@@ -1,0 +1,12 @@
+{
+  "#StatusWithoutScore": "{#Status_%gamestatus%}",
+  "#StatusWithScore": "{#Status_%gamestatus%}: %score%",
+  "#Status_ViewingReplay": "Watching a replay",
+  "#Status_AtMainMenu": "Main Menu",
+  "#Status_InQueue": "Finding a match",
+  "#Status_InQueueForType": "In queue for %playlisttitle%",
+  "#Status_Playing": "Playing a match",
+  "#Status_PlayingMapMode": "Playing %mapmodename%",
+  "#Status_PlayingPlaylistMapMode": "Playing %playlisttitle% %mapmodename%",
+  "#Status_ViewingMatchResults": "Viewing post-match results"
+}

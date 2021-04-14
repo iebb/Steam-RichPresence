@@ -1,0 +1,10 @@
+{
+  "#Status_Connecting": "Connecting...",
+  "#Status_Grooving": "Grooving in the menus",
+  "#Status_Chilling": "Chilling in the menus",
+  "#Status_Hacking": "Hacking in Unity",
+  "#Status_NoGameWithSeats": "No game loaded (%seated%/%max_seats%)",
+  "#Status_NoGame": "No game loaded",
+  "#Status_GameWithSeats": "Playing %game% (%seated%/%max_seats%)",
+  "#Status_Game": "Playing %game%"
+}

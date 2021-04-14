@@ -1,0 +1,17 @@
+{
+  "#StatusExploring": "聖域を探検する",
+  "#StatusTutorial": "先生の話を聞く",
+  "#StatusTemple": "寺でくつろぐ",
+  "#StatusPrecision": "弓道の精度 (%score%)",
+  "#StatusDynamic": "弓道の動き (%score%)",
+  "#StatusSkeet": "弓道のスキート射撃 (%score%)",
+  "#StatusMemory": "弓道の記憶 (%score%)",
+  "#StatusTriathlon": "弓道の三種競技 (%score%)",
+  "#StatusTameshigiri": "試し斬り (%score%)",
+  "#StatusSpeedSlice": "高速斬り (%score%)",
+  "#StatusDodgeSlice": "かわし斬り (%score%)",
+  "#StatusWhack": "カラクリ人形破壊 (%score%)",
+  "#StatusSharpDarts": "鋭利なダーツ (%score%)",
+  "#StatusTaikoFrenzy": "太鼓乱打 (%score%)",
+  "#StatusPoleChakram": "戦輪通し (%score%)"
+}

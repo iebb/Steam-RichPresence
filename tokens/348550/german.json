@@ -1,0 +1,16 @@
+{
+  "#MainMenu": "Im Hauptmen?",
+  "#ModeSound": "Im Soundmen?",
+  "#ModeReplay": "Im Wiedergabemodus",
+  "#ModeNetworkRanked": "Im Netzwerk-Kompetitiver Modus",
+  "#PlayerRoom": "Im Spielerraum (%playernow%/%playermax%)",
+  "#NetworkMenu": "Im Netzwerkmen?",
+  "#ModeStory": "Im Storymodus",
+  "#ModeMission": "Im Missionsmodus",
+  "#ModeTraining": "Im Trainingsmodus",
+  "#ModeSurvival": "Im ?berlebensmodus",
+  "#ModeMom": "Im M.O.M.-Modus",
+  "#ModeVersus2P": "Im Versus-Zweispielermodus",
+  "#ModeVersusCPU": "Im Versus-CPU-Modus",
+  "#ModeArcade": "Im Arcade-Modus"
+}

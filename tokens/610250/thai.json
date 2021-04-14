@@ -1,0 +1,5 @@
+{
+  "#MainMenu": "การเล่นในเมนู",
+  "#level": "%levelname% | %deaths% ตาย",
+  "#leveleditor": "การเล่นในการแก้ไขระดับ"
+}

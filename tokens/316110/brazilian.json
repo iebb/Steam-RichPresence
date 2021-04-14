@@ -1,0 +1,17 @@
+{
+  "#InMainMenu": "No menu principal",
+  "#Queueing": "Na fila com {#%team%}",
+  "#LobbyOne": "No lobby com 1 outro jogador",
+  "#LobbyMore": "No lobby com %lobby_buddies% outros jogadores",
+  "#PlayingDiverOne": "Jogando {#%team%} com 1 cofre restante",
+  "#PlayingDiverMore": "Jogando {#%team%} com %safes% cofres restantes",
+  "#PlayingDiverFinal": "Jogando {#%team%} acompanhando S.T.E.V.E",
+  "#PlayingSharkOne": "Jogando {#%team%} com 1 mergulhador restante",
+  "#PlayingSharkMore": "Jogando {#%team%} com %divers_left% mergulhadores restantes",
+  "#WaitingForLoaders": "Aguardando o início da partida",
+  "#EndGame": "Vendo pontuação do fim do jogo",
+  "#Team0": "mergulhador",
+  "#Team1": "tubarão",
+  "#Team2": "mergulhador ou tubarão",
+  "#ConnectingToServer": "Conectando ao servidor"
+}

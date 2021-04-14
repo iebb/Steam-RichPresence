@@ -1,0 +1,22 @@
+{
+  "#City_mumbai": "Bombay",
+  "#ModeUntranslatedCity": "%city% - {#Mode_%mode%}",
+  "#ModeCity": "{#City_%city%} - {#Mode_%mode%}",
+  "#Mode_zen": "Eindeloos",
+  "#City_berlin": "Berlijn",
+  "#ModeUntranslatedCityScore": "%city% - {#Mode_%mode%} (%score%)",
+  "#City_istanbul": "Istanboel",
+  "#City_london_1960": "Londen, 1960",
+  "#City_new_york_city_1972": "New York City, 1972",
+  "#ModeCityScore": "{#City_%city%} - {#Mode_%mode%} (%score%)",
+  "#City_paris": "Parijs",
+  "#City_seoul": "Seoel",
+  "#Mode_classic": "Normaal",
+  "#City_london": "Londen",
+  "#City_paris_1937": "Parijs, 1937",
+  "#Mode_sandbox": "Creatief",
+  "#Mode_extreme": "Extreem",
+  "#City_cairo": "Caïro",
+  "#City_saint_petersburg": "Sint-Petersburg",
+  "#Mode_daily_challenge": "Dagelijkse Uitdaging"
+}

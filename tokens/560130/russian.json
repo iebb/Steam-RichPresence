@@ -1,0 +1,5 @@
+{
+  "#InGameDisplay": "%character_name%: %character_class% %character_level_ord% уровня",
+  "#InMenuDisplay": "Меню",
+  "#InIntroDisplay": "«Там»"
+}

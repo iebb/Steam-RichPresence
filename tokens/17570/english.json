@@ -1,0 +1,10 @@
+{
+  "#Status_JoiningServer": "Joining a server...",
+  "#Status_MainMenu": "Main Menu",
+  "#Status_PlayingTeamDeathmatch": "Playing Team Deathmatch - %map%",
+  "#Status_PlayingBooty": "Playing Booty - %map%",
+  "#Status_PlayingTrinketWars": "Playing Trinket Wars - %map%",
+  "#Status_PlayingTerritory": "Playing Territory - %map%",
+  "#Status_PlayingLastTeamStanding": "Playing Last Team Standing - %map%",
+  "#Status_PlayingObjectivePush": "Playing Objective Push - %map%"
+}

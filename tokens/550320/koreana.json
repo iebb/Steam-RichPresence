@@ -1,0 +1,14 @@
+{
+  "#Status_Menu": "메뉴에서",
+  "#STATUS_FREEROAM": "{#%location%}에서 자유 주행하는 중",
+  "#STATUS_CUSTOM": "{#%location%}에서 커스텀 랠리 진행 중",
+  "#STATUS_TIME_ATTACK": "{#%location%}에서 타임 어택중",
+  "#STATUS_CAREER": "{#%location%}에서 커리어 랠리 진행 중",
+  "#STATUS_DAILY": "{#%location%}에서 일간 이벤트 진행 중",
+  "#STATUS_WEEKLY": "{#%location%}에서 주간 이벤트 진행 중",
+  "#FINLAND": "핀란드",
+  "#SARDINIA": "사르데냐",
+  "#JAPAN": "일본",
+  "#NORWAY": "노르웨이",
+  "#GERMANY": "독일"
+}

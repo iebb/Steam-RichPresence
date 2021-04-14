@@ -1,0 +1,14 @@
+{
+  "#Status_MainMenu": "Im Hauptmenü",
+  "#Status_Lobby": "In einem Lobby",
+  "#Status_BasicTutorial": "Spielt die Anleitung",
+  "#Status_Standard": "Spielt Klassisch ({#Difficulty_%difficulty%}): %time% Min.",
+  "#Status_Survival": "Spielt Unendlich ({#Difficulty_%difficulty%}): %time% Min.",
+  "#Status_WeeklySurvival": "Spielt Unendlich Ladder: %time%",
+  "#Difficulty_-1": "Entspannt",
+  "#Difficulty_0": "Normal",
+  "#Difficulty_1": "Schwierig",
+  "#Difficulty_2": "Hell",
+  "#difficulty_3": "Unmöglich",
+  "#Custom": "%custom%"
+}

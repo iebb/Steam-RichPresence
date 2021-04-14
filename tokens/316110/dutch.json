@@ -1,0 +1,17 @@
+{
+  "#InMainMenu": "In main menu",
+  "#Queueing": "Queueing as a {#%team%}",
+  "#LobbyOne": "In lobby with 1 other player",
+  "#LobbyMore": "In lobby with %lobby_buddies% other players",
+  "#PlayingDiverOne": "Playing {#%team%} with 1 safe left",
+  "#PlayingDiverMore": "Playing {#%team%} with %safes% safes left",
+  "#PlayingDiverFinal": "Playing {#%team%} escorting S.T.E.V.E.",
+  "#PlayingSharkOne": "Playing {#%team%} with 1 diver left",
+  "#PlayingSharkMore": "Playing {#%team%} with %divers_left% divers left",
+  "#WaitingForLoaders": "Waiting for match to start",
+  "#EndGame": "Viewing end game scoreboard",
+  "#Team0": "diver",
+  "#Team1": "shark",
+  "#Team2": "diver or shark",
+  "#ConnectingToServer": "Connecting to server"
+}

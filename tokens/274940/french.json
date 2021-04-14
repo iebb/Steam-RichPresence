@@ -1,0 +1,17 @@
+{
+  "#InMainMenu": "Dans le menu principal",
+  "#Queueing": "Dans la file d'attente en tant que {#%team%}",
+  "#LobbyOne": "Au salon avec 1 autre joueur",
+  "#LobbyMore": "Au salon avec %lobby_buddies% autres joueurs",
+  "#PlayingDiverOne": "Joue en tant que {#%team%} avec 1 coffre restant",
+  "#PlayingDiverMore": "Joue en tant que {#%team%} avec %safes% coffres restants",
+  "#PlayingDiverFinal": "Joue en tant que {#%team%} et escorte S.T.E.V.E.",
+  "#PlayingSharkOne": "Joue en tant que {#%team%} avec 1 plongeur restant",
+  "#PlayingSharkMore": "Joue en tant que {#%team%} avec %divers_left% plongeurs restants",
+  "#WaitingForLoaders": "En attente du début de la partie",
+  "#EndGame": "Regarde le tableau des scores de fin de partie",
+  "#Team0": "plongeur",
+  "#Team1": "requin",
+  "#Team2": "plongeur ou requin",
+  "#ConnectingToServer": "Connexion au serveur"
+}

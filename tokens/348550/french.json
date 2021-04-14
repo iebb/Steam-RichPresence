@@ -1,0 +1,16 @@
+{
+  "#MainMenu": "Dans le Menu principal",
+  "#ModeSound": "Dans le mode Sound",
+  "#ModeReplay": "Dans le mode Replay",
+  "#ModeNetworkRanked": "Dans le mode Network Ranked",
+  "#PlayerRoom": "Dans une Player Room (%playernow%/%playermax%)",
+  "#NetworkMenu": "Dans le Network Menu",
+  "#ModeStory": "Dans le mode Story",
+  "#ModeMission": "Dans le mode Mission",
+  "#ModeTraining": "Dans le mode Training",
+  "#ModeSurvival": "Dans le mode Survival",
+  "#ModeMom": "Dans le mode M.O.M.",
+  "#ModeVersus2P": "Dans le mode Versus 2P",
+  "#ModeVersusCPU": "Dans le mode Versus CPU",
+  "#ModeArcade": "Dans le mode Arcade"
+}

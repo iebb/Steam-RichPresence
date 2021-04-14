@@ -1,0 +1,17 @@
+{
+  "#TF_RichPresence_Display": "{#TF_RichPresence_State_%state%}",
+  "#TF_RichPresence_State_MainMenu": "Κύριο μενού",
+  "#TF_RichPresence_State_SearchingGeneric": "Αναζήτηση αγώνα",
+  "#TF_RichPresence_State_SearchingMatchGroup": "Αναζήτηση - {#TF_RichPresence_MatchGroup_%matchgrouploc%}",
+  "#TF_RichPresence_State_PlayingGeneric": "Σε αγώνα - %currentmap%",
+  "#TF_RichPresence_State_LoadingGeneric": "Σύνδεση σε αγώνα",
+  "#TF_RichPresence_State_PlayingMatchGroup": "{#TF_RichPresence_MatchGroup_%matchgrouploc%} - %currentmap%",
+  "#TF_RichPresence_State_LoadingMatchGroup": "Σύνδεση σε {#TF_RichPresence_MatchGroup_%matchgrouploc%}",
+  "#TF_RichPresence_State_PlayingCommunity": "Κοινότητα - %currentmap%",
+  "#TF_RichPresence_State_LoadingCommunity": "Σύνδεση σε διακομιστή κοινότητας",
+  "#TF_RichPresence_MatchGroup_Competitive6v6": "Competitive",
+  "#TF_RichPresence_MatchGroup_Casual": "Casual",
+  "#TF_RichPresence_MatchGroup_SpecialEvent": "Ειδικό συμβάν",
+  "#TF_RichPresence_MatchGroup_MannUp": "Mann Up",
+  "#TF_RichPresence_MatchGroup_BootCamp": "Boot Camp"
+}

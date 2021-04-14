@@ -1,0 +1,13 @@
+{
+  "#Status_IN_MAIN_MENU": "In Main Menu",
+  "#Status_WAITING_IN_ONLINE_PRIVATE_LOBBY": "Waiting in Online Lobby",
+  "#Status_PRACTICING_ADVANCED_SKILLS": "Practicing advanced skills",
+  "#Status_PLAYING_ARCADE_EASY_MATCH": "Climbing Easy Arcade Tower",
+  "#Status_PLAYING_ARCADE_MEDIUM_MATCH": "Climbing Medium Arcade Tower",
+  "#Status_PLAYING_ARCADE_HARD_MATCH": "Climbing Hard Arcade Tower",
+  "#Status_PLAYING_COUCH_MATCH": "Couch Fighting",
+  "#Status_PLAYING_RANKED_MATCH": "Competing in Ranked Match",
+  "#Status_PLAYING_ONLINE_MATCH": "Playing Online Match",
+  "#Status_PLAYING_VS_AI": "Fighting the AI",
+  "#Status_PLAYING_TRIALS": "Playing Trials"
+}

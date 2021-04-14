@@ -1,0 +1,17 @@
+{
+  "#StatusLoginScreen": "At the main menu",
+  "#StatusSelectingCharacter": "Selecting a character",
+  "#StatusDevelopingNoCharacter": "Working hard developing new things",
+  "#StatusPlayingSquadANDTeam": "%characterName% | Level %characterLevel% (%levelNameString%) | %teamName% | In a squad led by %squadLeader% | {#%flavortext%} ",
+  "#StatusPlayingTeam": "%characterName% | Level %characterLevel% (%levelNameString%) | %teamName% | {#%flavortext%} ",
+  "#StatusPlayingSquad": "%characterName% | Level %characterLevel% (%levelNameString%) | In a squad led by %squadLeader% | {#%flavortext%} ",
+  "#StatusPlayingNoGroup": "%characterName% | Level %characterLevel% (%levelNameString%) | {#%flavortext%} ",
+  "#Flavor_dev": "Working hard developing new things",
+  "#Flavor_w0": "Exploring the safe parts of the universe",
+  "#Flavor_w1": "Exploring the universe",
+  "#Flavor_w2": "Exploring the reaches of the universe",
+  "#Flavor_w3": "Exploring the dangerous fringe of the universe",
+  "#Flavor_w4": "Exploring the deepest depths of the universe",
+  "#Flavor_sol": "Hanging out in Sol",
+  "#Flavor_fm": "Shopping"
+}

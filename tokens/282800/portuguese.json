@@ -1,0 +1,14 @@
+{
+  "#Status_MainMenu": "No Menu Principal",
+  "#Status_Shop": "Na Loja",
+  "#Status_Lobby": "Em uma Sala: %lobbyname%",
+  "#Status_LobbyPrivate": "Em uma Sala",
+  "#Status_InGame": "Em uma Partida",
+  "#Status_Results": "Resultados",
+  "#Status_CoopMode_Details": "Cooperativo: %bossname%, %difficulty%",
+  "#Status_NormalMode_Details": "Modo Normal: %playername%",
+  "#Status_Spring2020_Details": "Caça de Recompensa: %playername%",
+  "#Status_Summer2020_Details": "Pesque-Um-Peixe: %playername%",
+  "#Status_Shroom_Details": "Zoom do Cogumelo: %playername%",
+  "#Status_Hw2018_Details": "Gostosuras e Travessuras: %playername%"
+}

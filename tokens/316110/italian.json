@@ -1,0 +1,17 @@
+{
+  "#InMainMenu": "Nel menu principale",
+  "#Queueing": "In coda come {#%team%}",
+  "#LobbyOne": "Nella lobby con un altro giocatore",
+  "#LobbyMore": "Nella lobby con altri %lobby_buddies% giocatori",
+  "#PlayingDiverOne": "Gioca come {#%team%} con 1 cassaforte rimasta",
+  "#PlayingDiverMore": "Gioca come {#%team%} con %safes% casseforti rimaste",
+  "#PlayingDiverFinal": "Gioca come {#%team%} e scorta S.T.E.V.E.",
+  "#PlayingSharkOne": "Gioca come {#%team%} con 1 sub rimasto",
+  "#PlayingSharkMore": "Gioca come {#%team%} con %divers_left% sub rimasti",
+  "#WaitingForLoaders": "In attesa che inizi la partita",
+  "#EndGame": "Guarda la classifica di fine partita",
+  "#Team0": "sommozzatore",
+  "#Team1": "squalo",
+  "#Team2": "sommozzatore o squalo",
+  "#ConnectingToServer": "Si connette al server"
+}

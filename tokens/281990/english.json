@@ -1,0 +1,11 @@
+{
+  "#InMainMenu": "In the Main Menu, pondering what to play",
+  "#InMPLobby": "In the Multiplayer Lobby, scheming against their friends",
+  "#PlayingAs": "Playing %Empire% (%Ethics1% %Ethics2%) in %Year%",
+  "#PlayingAsNew": "Playing %Empire% (%Ethics%) in %Year%",
+  "#PlayingAsNoEthics": "Playing %Empire% in %Year%",
+  "#ObservingGalaxy": "Observing the development of the Galaxy in %Year%",
+  "#ObservingAs": "Observing %Empire% (%Ethics1% %Ethics2%) in %Year%",
+  "#ObservingAsNew": "Observing %Empire% (%Ethics%) in %Year%",
+  "#ObservingAsNoEthics": "Observing %Empire% in %Year%"
+}

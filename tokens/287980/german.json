@@ -1,0 +1,17 @@
+{
+  "#City_cairo": "Kairo",
+  "#ModeUntranslatedCity": "%city% - {#Mode_%mode%}",
+  "#ModeCity": "{#City_%city%} - {#Mode_%mode%}",
+  "#City_singapore": "Singapur",
+  "#Mode_zen": "Endlos",
+  "#City_montreal": "Montreal",
+  "#ModeUntranslatedCityScore": "%city% - {#Mode_%mode%} (%score%)",
+  "#ModeCityScore": "{#City_%city%} - {#Mode_%mode%} (%score%)",
+  "#AtMenu": "Menü",
+  "#Mode_classic": "Standard",
+  "#Mode_sandbox": "Kreativmodus",
+  "#Mode_extreme": "Extrem",
+  "#City_washington_dc": "Washington D.C.",
+  "#City_saint_petersburg": "Sankt Petersburg",
+  "#Mode_daily_challenge": "Tägliche Herausforderung"
+}

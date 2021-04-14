@@ -1,0 +1,5 @@
+{
+  "#InGameDisplay": "%character_name%: %character_level_ord% 레벨 %character_class%",
+  "#InMenuDisplay": "메뉴",
+  "#InIntroDisplay": "저승"
+}

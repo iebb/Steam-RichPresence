@@ -1,0 +1,12 @@
+{
+  "#StatusWithoutScore": "{#Status_%gamestatus%}",
+  "#StatusWithScore": "{#Status_%gamestatus%}: %score%",
+  "#Status_ViewingReplay": "观看回放",
+  "#Status_AtMainMenu": "主菜单",
+  "#Status_InQueue": "正在寻找比赛",
+  "#Status_InQueueForType": "In queue for %playlisttitle%",
+  "#Status_Playing": "进行一局比赛",
+  "#Status_PlayingMapMode": "玩%mapmodename%",
+  "#Status_PlayingPlaylistMapMode": "Playing %playlisttitle% %mapmodename%",
+  "#Status_ViewingMatchResults": "正在查看赛后结果"
+}

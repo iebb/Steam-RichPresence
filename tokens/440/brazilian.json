@@ -1,0 +1,17 @@
+{
+  "#TF_RichPresence_Display": "{#TF_RichPresence_State_%state%}",
+  "#TF_RichPresence_State_MainMenu": "Menu principal",
+  "#TF_RichPresence_State_SearchingGeneric": "Buscando partida",
+  "#TF_RichPresence_State_SearchingMatchGroup": "Buscando — {#TF_RichPresence_MatchGroup_%matchgrouploc%}",
+  "#TF_RichPresence_State_PlayingGeneric": "Em partida — %currentmap%",
+  "#TF_RichPresence_State_LoadingGeneric": "Entrando em partida",
+  "#TF_RichPresence_State_PlayingMatchGroup": "{#TF_RichPresence_MatchGroup_%matchgrouploc%} — %currentmap%",
+  "#TF_RichPresence_State_LoadingMatchGroup": "Entrando em: {#TF_RichPresence_MatchGroup_%matchgrouploc%}",
+  "#TF_RichPresence_State_PlayingCommunity": "Servidor da comunidade — %currentmap%",
+  "#TF_RichPresence_State_LoadingCommunity": "Entrando em servidor da comunidade",
+  "#TF_RichPresence_MatchGroup_Competitive6v6": "Competitivo",
+  "#TF_RichPresence_MatchGroup_Casual": "Casual",
+  "#TF_RichPresence_MatchGroup_SpecialEvent": "Evento especial",
+  "#TF_RichPresence_MatchGroup_MannUp": "Mann Up",
+  "#TF_RichPresence_MatchGroup_BootCamp": "Treino (MvM)"
+}

@@ -1,0 +1,22 @@
+{
+  "#City_cairo": "Kairo",
+  "#ModeUntranslatedCity": "%city% - {#Mode_%mode%}",
+  "#ModeCity": "{#City_%city%} - {#Mode_%mode%}",
+  "#Mode_zen": "Loputon",
+  "#City_hong_kong": "Hongkong",
+  "#City_berlin": "Berliini",
+  "#ModeUntranslatedCityScore": "%city% - {#Mode_%mode%} (%score%)",
+  "#City_london_1960": "Lontoo 1960",
+  "#ModeCityScore": "{#City_%city%} - {#Mode_%mode%} (%score%)",
+  "#AtMenu": "Valikko",
+  "#City_paris": "Pariisi",
+  "#City_seoul": "Soul",
+  "#Mode_classic": "Tavallinen",
+  "#City_london": "Lontoo",
+  "#City_stockholm": "Tukholma",
+  "#Mode_sandbox": "Luova",
+  "#City_paris_1937": "Pariisi 1937",
+  "#Mode_extreme": "Äärimmäinen",
+  "#City_saint_petersburg": "Pietari",
+  "#Mode_daily_challenge": "Päivittäinen haaste"
+}

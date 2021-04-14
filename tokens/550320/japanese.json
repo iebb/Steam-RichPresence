@@ -1,0 +1,14 @@
+{
+  "#Status_Menu": "メニュー",
+  "#STATUS_FREEROAM": "自由走行 {#%location%}",
+  "#STATUS_CUSTOM": "カスタムラリー {#%location%}",
+  "#STATUS_TIME_ATTACK": "タイムアタック {#%location%}",
+  "#STATUS_CAREER": "キャリアラリー {#%location%}",
+  "#STATUS_DAILY": "デイリーイベント {#%location%}",
+  "#STATUS_WEEKLY": "ウィークリーイベント {#%location%}",
+  "#FINLAND": "フィンランド",
+  "#SARDINIA": "サルディニア",
+  "#JAPAN": "日本",
+  "#NORWAY": "ノルウェー",
+  "#GERMANY": "ドイツ"
+}

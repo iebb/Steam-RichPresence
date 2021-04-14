@@ -1,0 +1,22 @@
+{
+  "#STRING_IS_PLAYING_GAMEMODE": "Está jugando en {TOKEN_GAMEMODE}",
+  "#STRING_IS_PLAYING_LEVEL": "Está jugando en {TOKEN_LEVELNAME}",
+  "#STRING_IS_SETTING_UP_GAME": "Está preparando la partida",
+  "#TOKEN_GAMEMODE_0": "Campaña",
+  "#TOKEN_GAMEMODE_1": "Horda",
+  "#TOKEN_GAMEMODE_2": "Contrarreloj",
+  "#TOKEN_LEVELNAME_0": "Excavación de Harbin",
+  "#TOKEN_LEVELNAME_1": "Sendas Estanquiles",
+  "#TOKEN_LEVELNAME_2": "Túneles de la medusa",
+  "#TOKEN_LEVELNAME_3": "Iglesia de piedra",
+  "#TOKEN_LEVELNAME_4": "Aldea de las montañas",
+  "#TOKEN_LEVELNAME_5": "Cueva sagrada",
+  "#TOKEN_LEVELNAME_6": "Pueblo tormentoso",
+  "#TOKEN_LEVELNAME_7": "GLa Gran Pirámide",
+  "#TOKEN_LEVELNAME_8": "El más allá",
+  "#STRING_IS_PLAYING_GAMEMODE_LEVEL": "Está jugando a {TOKEN_GAMEMODE}, en {TOKEN_LEVELNAME}}",
+  "#IN_MENUS": "En los menús",
+  "#STRING_IN_LOBBY_NOT_FULL": "En una sala abierta",
+  "#STRING_IN_LOBBY_FULL": "IEn una sala cerrada",
+  "#STRING_IN_MENUS": "En los menús"
+}

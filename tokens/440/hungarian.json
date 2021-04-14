@@ -1,0 +1,17 @@
+{
+  "#TF_RichPresence_Display": "{#TF_RichPresence_State_%state%}",
+  "#TF_RichPresence_State_MainMenu": "Főmenüben",
+  "#TF_RichPresence_State_SearchingGeneric": "Meccset keres",
+  "#TF_RichPresence_State_SearchingMatchGroup": "Keres - {#TF_RichPresence_MatchGroup_%matchgrouploc%}",
+  "#TF_RichPresence_State_PlayingGeneric": "Meccsen - %currentmap%",
+  "#TF_RichPresence_State_LoadingGeneric": "Meccshez csatlakozik",
+  "#TF_RichPresence_State_PlayingMatchGroup": "{#TF_RichPresence_MatchGroup_%matchgrouploc%} - %currentmap%",
+  "#TF_RichPresence_State_LoadingMatchGroup": "Csatlakozik: {#TF_RichPresence_MatchGroup_%matchgrouploc%}",
+  "#TF_RichPresence_State_PlayingCommunity": "Közösség - %currentmap%",
+  "#TF_RichPresence_State_LoadingCommunity": "Közösségi szerverhez csatlakozik",
+  "#TF_RichPresence_MatchGroup_Competitive6v6": "Versengő",
+  "#TF_RichPresence_MatchGroup_Casual": "Könnyed",
+  "#TF_RichPresence_MatchGroup_SpecialEvent": "Különleges esemény",
+  "#TF_RichPresence_MatchGroup_MannUp": "„Mannj rá”",
+  "#TF_RichPresence_MatchGroup_BootCamp": "Kiképzés"
+}

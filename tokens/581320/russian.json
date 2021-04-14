@@ -1,0 +1,12 @@
+{
+  "#StatusWithoutScore": "{#Status_%gamestatus%}",
+  "#StatusWithScore": "{#Status_%gamestatus%}: %score%",
+  "#Status_ViewingReplay": "Смотрит повтор",
+  "#Status_AtMainMenu": "Главное меню",
+  "#Status_InQueue": "Поиск матча",
+  "#Status_InQueueForType": "Найдена игра: {#Type_%type%}",
+  "#Status_Playing": "Участвует в матче",
+  "#Status_PlayingMapMode": "Участвует в матче: %mapmodename%",
+  "#Status_PlayingPlaylistMapMode": "Playing %playlisttitle% %mapmodename%",
+  "#Status_ViewingMatchResults": "Смотрит результаты матча"
+}

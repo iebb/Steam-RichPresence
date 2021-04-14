@@ -1,0 +1,14 @@
+{
+  "#Status_MainMenu": "Au Menu Principal",
+  "#Status_Shop": "A la Boutique",
+  "#Status_Lobby": "Dans un Salon: %lobbyname%",
+  "#Status_LobbyPrivate": "Dans un Salon",
+  "#Status_InGame": "En Jeu",
+  "#Status_Results": "Résultats",
+  "#Status_CoopMode_Details": "Coopération: %bossname%, %difficulty%",
+  "#Status_NormalMode_Details": "Mode Normal: %playername%",
+  "#Status_Spring2020_Details": "Chasseur de primes: %playername%",
+  "#Status_Summer2020_Details": "Pêche un Poisson: %playername%",
+  "#Status_Shroom_Details": "Shroom Zoom: %playername%",
+  "#Status_Hw2018_Details": "Trick and Treat: %playername%"
+}

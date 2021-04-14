@@ -1,0 +1,8 @@
+{
+  "#CargoDelivery": "{#JobType_%job_type%} | %cargo% | Near %closest_city% | %source_city% > %target_city% | %vehicle%",
+  "#JobType_Quick": "Quick job",
+  "#JobType_Freight": "Freight job",
+  "#JobType_Online": "World of Trucks job",
+  "#FreeRoam": "Free roam | Near %closest_city%",
+  "#NotAvailable": "N/A"
+}

@@ -1,0 +1,19 @@
+{
+  "#at_menus": "Messing with the menus",
+  "#classic": "Playing The Dope Game Classic",
+  "#at_setup": "Setting up a game",
+  "#at_alley": "Creeping the alleyway",
+  "#at_loanshark": "Hangin' in the crackhouse",
+  "#at_bank": "Shuffling cash at the bank",
+  "#at_lab": "Bartering with clones",
+  "#at_brewery": "Checking out the top shelf",
+  "#at_bar": "Getting henchmen.. or sauced",
+  "#at_funpark": "At the Finnigans' Fun Park",
+  "#at_gunstore": "Perusing some weapons",
+  "#at_hospital": "Getting medical attention",
+  "#at_streets": "In the streets of Starkham",
+  "#in_combat": "Fighting %COMBATANT%",
+  "#in_gameover": "Finished a game, good or bad",
+  "#in_transit": "Chatting with the old lady",
+  "#in_lobby": "Waiting in a lobby"
+}

@@ -1,0 +1,10 @@
+{
+  "#Presence_MainMenu": "Главное меню",
+  "#Presence_SkirmishOffline": "Схватка против ИИ",
+  "#Presence_SkirmishOnline": "Схватка пр. людей",
+  "#Presence_CampaignOffline": "Кампания (соло)",
+  "#Presence_CampaignOnline": "Кампания (кооп.)",
+  "#Presence_AgainstAllOdds": "Вопреки всему",
+  "#Presence_CustomGameOffline": "Своя игра с ИИ",
+  "#Presence_CustomGameOnline": "Своя игра с людьми"
+}

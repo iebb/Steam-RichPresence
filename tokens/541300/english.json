@@ -1,0 +1,16 @@
+{
+  "#Status_OutOfGame": "{#State_%gameState%}",
+  "#Status_InGame": "{#State_%gameState%} {#Nights_Body} %nightsScore% {#Char_Body} {#Status_%charState%}",
+  "#State_Menu": "In the menu",
+  "#State_Solo": "Playing solo",
+  "#State_Hosting": "Hosting a server",
+  "#State_Public": "Public server",
+  "#Nights_Body": " | Nights survived: ",
+  "#Char_Body": " | Currently: ",
+  "#Status_Eat": "eating",
+  "#Status_Weak": "feeling weak",
+  "#Status_Strong": "feeling strong",
+  "#Status_Fortifying": "Currently fortifying!",
+  "#Status_Driving": "Currently driving!",
+  "#Status_Passenger": "Currently riding shotgun!"
+}

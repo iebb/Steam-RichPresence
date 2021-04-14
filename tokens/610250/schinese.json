@@ -1,0 +1,5 @@
+{
+  "#MainMenu": "效力于菜单",
+  "#level": "%levelname% | %deaths%名死亡",
+  "#leveleditor": "打在关卡编辑器"
+}

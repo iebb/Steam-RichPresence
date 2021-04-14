@@ -1,0 +1,6 @@
+{
+  "#Status_MainMenu": "In Main Menu",
+  "#Status_MainMenu_Coop": "In Coop Lobby",
+  "#Status_WL": "World %WORLD% - Level %LEVEL%",
+  "#Status_WL_Coop": "Coop - {#Status_WL}"
+}

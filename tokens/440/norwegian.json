@@ -1,0 +1,17 @@
+{
+  "#TF_RichPresence_Display": "{#TF_RichPresence_State_%state%}",
+  "#TF_RichPresence_State_MainMenu": "Hovedmeny",
+  "#TF_RichPresence_State_SearchingGeneric": "Søker etter en kamp",
+  "#TF_RichPresence_State_SearchingMatchGroup": "Søker – {#TF_RichPresence_MatchGroup_%matchgrouploc%}",
+  "#TF_RichPresence_State_PlayingGeneric": "I kamp – %currentmap%",
+  "#TF_RichPresence_State_LoadingGeneric": "Blir med i en kamp",
+  "#TF_RichPresence_State_PlayingMatchGroup": "{#TF_RichPresence_MatchGroup_%matchgrouploc%} – %currentmap%",
+  "#TF_RichPresence_State_LoadingMatchGroup": "Blir med i {#TF_RichPresence_MatchGroup_%matchgrouploc%}",
+  "#TF_RichPresence_State_PlayingCommunity": "Samfunn – %currentmap%",
+  "#TF_RichPresence_State_LoadingCommunity": "Blir med på samfunnstjener",
+  "#TF_RichPresence_MatchGroup_Competitive6v6": "Konkurransespilling",
+  "#TF_RichPresence_MatchGroup_Casual": "Avslappet",
+  "#TF_RichPresence_MatchGroup_SpecialEvent": "Spesielt arrangement",
+  "#TF_RichPresence_MatchGroup_MannUp": "Mann deg opp",
+  "#TF_RichPresence_MatchGroup_BootCamp": "Treningsleir"
+}

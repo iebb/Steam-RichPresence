@@ -1,0 +1,13 @@
+{
+  "#Status_IN_MAIN_MENU": "È nel menu",
+  "#Status_WAITING_IN_ONLINE_PRIVATE_LOBBY": "In attesa nella lobby online",
+  "#Status_PRACTICING_ADVANCED_SKILLS": "Pratica con le abilità avanzate",
+  "#Status_PLAYING_ARCADE_EASY_MATCH": "Torre arcade arrampicata facile",
+  "#Status_PLAYING_ARCADE_MEDIUM_MATCH": "Torre arcade arrampicata medio",
+  "#Status_PLAYING_ARCADE_HARD_MATCH": "Torre arcade arrampicata difficile",
+  "#Status_PLAYING_COUCH_MATCH": "Combattimento da divano",
+  "#Status_PLAYING_RANKED_MATCH": "Gareggiare il una partita classificata",
+  "#Status_PLAYING_ONLINE_MATCH": "È in un incontro online",
+  "#Status_PLAYING_VS_AI": "Combattimento contro l'AI",
+  "#Status_PLAYING_TRIALS": "Giocare Trials"
+}

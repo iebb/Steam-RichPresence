@@ -1,0 +1,20 @@
+{
+  "#MainMenu": "In the Main Menu",
+  "#PlayingStage": "{#Stage_%stage%}",
+  "#PlayingStageWithTime": "{#PlayingStage} - %time% - 🏆 %rank%%rank_postfix%",
+  "#PlayingStageWithProgress": "{#PlayingStage} - %progress%",
+  "#Stage_intro": "Neophyte",
+  "#Stage_octopus": "Kraken",
+  "#Stage_mech": "Guardian",
+  "#Stage_trench": "Overgrowth",
+  "#Stage_fuse": "Execution",
+  "#Stage_onion": "Anomaly",
+  "#Stage_hunter": "Phobia",
+  "#Stage_claw": "Claw",
+  "#Stage_tentacle": "Medusa",
+  "#Stage_frame": "Monarch",
+  "#Stage_laser": "Prospector",
+  "#Stage_orb": "Hermit",
+  "#Stage_storm": "Storm",
+  "#Stage_invasion": "Xulgon"
+}

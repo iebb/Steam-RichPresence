@@ -1,0 +1,6 @@
+{
+  "#Status_MainMenu": "Main Menu",
+  "#Status_LocalMatch": "Local Match",
+  "#Status_OnlineMatchBasic": "Online Match",
+  "#Status_OnlineMatch": "%mordhau_game_mode% - %mordhau_map_name%"
+}

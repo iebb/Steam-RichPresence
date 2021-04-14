@@ -1,0 +1,11 @@
+{
+  "#StatusMultiplayer": "Мультиплеер: {#Status_%gamestatus%}",
+  "#StatusMultiplayerScore": "Мультиплеер: {#Status_%gamestatus%} - %score%",
+  "#Status_InChapter": "сюжет %chapter%",
+  "#Status_InChallenge": "проблема %challenge%",
+  "#Status_AtMainMenu": "Главное меню",
+  "#Status_InSurvival": "выживание",
+  "#Status_InDeathMatch": "Deathmatch",
+  "#Status_InTeamDeathMatch": "бригада DM",
+  "#Status_InOther": "неизвестное"
+}

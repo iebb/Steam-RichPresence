@@ -1,0 +1,22 @@
+{
+  "#InMainMenu": "Lurking in the main menu",
+  "#BrowsingCustom": "Browsing community levels",
+  "#BrowsingRush": "Browsing Rush Modes",
+  "#InRoom": "Is back in the room",
+  "#IntroLevel": "Just woke up in a new world aboce the clouds...",
+  "#Secret": "Found a secret...",
+  "#NewSkin": "Unlocked a brand new character skin!",
+  "#NewLevel": "Is pushing ahead to new places",
+  "#NewBest": "Got a new personal best on '%levelName%'!",
+  "#AllEndings": "Got their eyes wide open!",
+  "#Ending": "Beat one of the endings!",
+  "#FavoriteSpot": "Is in their favorite spot",
+  "#PlayingRush": "Playing Rush Mode: %RushName% [%nbCleared%/%nbTotal%]",
+  "#ExploringLevel": "Exploring %levelName% [Difficulty: %Difficulty%]",
+  "#PlayingLevel": "Playing %levelName%: %mode% [Difficulty: %Difficulty%]",
+  "#PlayingNewCustomLevel": "Playing a new community level!",
+  "#PlayingCustomLevel": "Playing a community level.",
+  "#CreatingCustomLevel": "Creating a community level: World crafting!",
+  "#CreatingCustomLevelTest": "Creating a community level: Test Playing",
+  "#Dev": "Doing development, mainainance, or testing"
+}

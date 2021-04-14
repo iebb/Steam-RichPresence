@@ -1,0 +1,5 @@
+{
+  "#MainMenu": "Játék a menük",
+  "#level": "%levelname% | %deaths% Halálozások",
+  "#leveleditor": "Játék a Level Editor"
+}

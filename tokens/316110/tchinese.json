@@ -1,0 +1,17 @@
+{
+  "#InMainMenu": "在主菜單內",
+  "#Queueing": "等待加入{#%team%}團隊",
+  "#LobbyOne": "與另外 1 名玩家在大廳裡",
+  "#LobbyMore": "與另外 %lobby_buddies% 名玩家在大廳裡",
+  "#PlayingDiverOne": "扮演{#%team%}，剩下 1 個保險箱",
+  "#PlayingDiverMore": "扮演{#%team%}，剩下 %safes% 個保險箱",
+  "#PlayingDiverFinal": "扮演{#%team%}，保護著 S.T.E.V.E",
+  "#PlayingSharkOne": "扮演{#%team%}，剩下 1 名潛水員",
+  "#PlayingSharkMore": "扮演{#%team%}，剩下 %divers_left% 名潛水員",
+  "#WaitingForLoaders": "等待比賽開始",
+  "#EndGame": "查看遊戲得分板",
+  "#Team0": "潛水員",
+  "#Team1": "鯊魚",
+  "#Team2": "潛水員或鯊魚",
+  "#ConnectingToServer": "正連接伺服器"
+}

@@ -1,0 +1,17 @@
+{
+  "#TF_RichPresence_Display": "{#TF_RichPresence_State_%state%}",
+  "#TF_RichPresence_State_MainMenu": "เมนูหลัก",
+  "#TF_RichPresence_State_SearchingGeneric": "กำลังค้นหาแมตช์",
+  "#TF_RichPresence_State_SearchingMatchGroup": "กำลังค้นหา - {#TF_RichPresence_MatchGroup_%matchgrouploc%}",
+  "#TF_RichPresence_State_PlayingGeneric": "อยู่ในแมตช์ - %currentmap%",
+  "#TF_RichPresence_State_LoadingGeneric": "กำลังเข้าร่วมแมตช์",
+  "#TF_RichPresence_State_PlayingMatchGroup": "{#TF_RichPresence_MatchGroup_%matchgrouploc%} - %currentmap%",
+  "#TF_RichPresence_State_LoadingMatchGroup": "กำลังเข้าร่วม {#TF_RichPresence_MatchGroup_%matchgrouploc%}",
+  "#TF_RichPresence_State_PlayingCommunity": "ชุมชน - %currentmap%",
+  "#TF_RichPresence_State_LoadingCommunity": "กำลังเข้าร่วมเซิร์ฟเวอร์ชุมชน",
+  "#TF_RichPresence_MatchGroup_Competitive6v6": "การแข่งขัน",
+  "#TF_RichPresence_MatchGroup_Casual": "แคชชวล",
+  "#TF_RichPresence_MatchGroup_SpecialEvent": "กิจกรรมพิเศษ",
+  "#TF_RichPresence_MatchGroup_MannUp": "Mann Up",
+  "#TF_RichPresence_MatchGroup_BootCamp": "บูทแคมป์"
+}

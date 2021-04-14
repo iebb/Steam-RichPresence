@@ -1,0 +1,22 @@
+{
+  "#STRING_IS_PLAYING_GAMEMODE": "正在玩{TOKEN_GAMEMODE}",
+  "#STRING_IS_PLAYING_LEVEL": "正在玩{TOKEN_LEVELNAME}",
+  "#STRING_IS_SETTING_UP_GAME": "正在设置游戏",
+  "#TOKEN_GAMEMODE_0": "战役",
+  "#TOKEN_GAMEMODE_1": "群攻",
+  "#TOKEN_GAMEMODE_2": "得分进攻",
+  "#TOKEN_LEVELNAME_0": "哈宾的挖掘场地",
+  "#TOKEN_LEVELNAME_1": "池塘小路",
+  "#TOKEN_LEVELNAME_2": "美杜莎隧道",
+  "#TOKEN_LEVELNAME_3": "石头教堂",
+  "#TOKEN_LEVELNAME_4": "山村",
+  "#TOKEN_LEVELNAME_5": "神圣洞穴",
+  "#TOKEN_LEVELNAME_6": "风暴镇",
+  "#TOKEN_LEVELNAME_7": "宏伟金字塔",
+  "#TOKEN_LEVELNAME_8": "来生",
+  "#STRING_IS_PLAYING_GAMEMODE_LEVEL": "正在{TOKEN_LEVELNAME}中玩{TOKEN_GAMEMODE}",
+  "#IN_MENUS": "菜单中",
+  "#STRING_IN_LOBBY_NOT_FULL": "开放大厅中",
+  "#STRING_IN_LOBBY_FULL": "关闭大厅中",
+  "#STRING_IN_MENUS": "菜单中"
+}

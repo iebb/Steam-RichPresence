@@ -1,0 +1,14 @@
+{
+  "#Status_MainMenu": "En el menú principal",
+  "#Status_Shop": "En la tienda",
+  "#Status_Lobby": "En una sala: %lobbyname%",
+  "#Status_LobbyPrivate": "En una sala",
+  "#Status_InGame": "En una partida",
+  "#Status_Results": "Terminando una partida",
+  "#Status_CoopMode_Details": "CO-OP: %bossname%, %difficulty%",
+  "#Status_NormalMode_Details": "Modo Normal: %playername%",
+  "#Status_Spring2020_Details": "Caza-Recompensas: %playername%",
+  "#Status_Summer2020_Details": "Pesca-un-pez: %playername%",
+  "#Status_Shroom_Details": "Hongo Bongo: %playername%",
+  "#Status_Hw2018_Details": "Truco y Trato: %playername%"
+}

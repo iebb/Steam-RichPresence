@@ -1,0 +1,14 @@
+{
+  "#RP_Playing": "%currentmap% - {#%team%} - {#%class%}",
+  "#RP_Playing_NoClass": "%currentmap% - {#%team%}",
+  "#RP_Connecting": "%currentmap% - Verbindung zum Server wird hergestellt...",
+  "#RP_MainMenu": "Hauptmenü",
+  "#ND_Assault": "Assault",
+  "#ND_Support": "Support",
+  "#ND_Exo": "Exo",
+  "#ND_Stealth": "Stealth",
+  "#ND_Commander": "Kmdt",
+  "#ND_Consortium": "Konsortium",
+  "#ND_Empire": "Imperium",
+  "#ND_Spectate": "Aufpassen"
+}

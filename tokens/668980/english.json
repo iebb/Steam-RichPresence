@@ -1,0 +1,5 @@
+{
+  "#Singleplayer": "Playing Singleplayer - %map% - %character%",
+  "#multiplayer": "Playing Multiplayer (%steam_player_group_size%/%max_group_size%) - %map% - %character%",
+  "#MainMenu": "In Main menu"
+}

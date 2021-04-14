@@ -1,0 +1,13 @@
+{
+  "#Faction:AstraMilitarum": "Astra Militarum",
+  "#Faction:ChaosSpaceMarines": "Marines Espaciales del Caos",
+  "#Faction:Eldar": "Eldar",
+  "#Faction:Necrons": "Necrones",
+  "#Faction:Orks": "Orkos",
+  "#Faction:SpaceMarines": "Marines Espaciales",
+  "#Faction:Tau": "T'au",
+  "#Faction:Tyranids": "Tiránidos",
+  "#InGame": "{#Faction:%factionName%} · %playerName% · Turno %turn%",
+  "#InGameLobby": "Lobby",
+  "#InMenus": "Menús"
+}

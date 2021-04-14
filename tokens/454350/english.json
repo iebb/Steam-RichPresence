@@ -1,0 +1,5 @@
+{
+  "#InMenu": "In Menu",
+  "#Playing_NoScore": "Playing on %friendlymapname%",
+  "#Playing_WithScore": "%scoreallies%:%scoreaxis% on %friendlymapname%"
+}

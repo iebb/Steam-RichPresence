@@ -1,0 +1,9 @@
+{
+  "#Status_MainMenu": "Main Menu",
+  "#Status_CoopMenu": "Loot Co-op Menu",
+  "#Status_Adventure": "Adventure: %score%",
+  "#Status_Monolith": "Monolith: %score%",
+  "#Status_DungeonSolo": "Loot: Solo @ %score%",
+  "#Status_DungeonCoop": "Loot: Co-op @ %score%",
+  "#Status_Skate": "Skateboarding"
+}

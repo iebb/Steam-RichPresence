@@ -1,0 +1,9 @@
+{
+  "#Status": "{#Status_%gamestatus%}",
+  "#StatusWithValue": "{#Status_%gamestatus%}: %VALUE%",
+  "#StatusPlaying": "%MODE%: %MAP% (%DIFF%)",
+  "#Status_Menu": "Main Menu",
+  "#Status_Lobby": "In Lobby",
+  "#Status_Play": "Playing on a server",
+  "#Status_Join": "Connecting to a server"
+}

@@ -1,0 +1,5 @@
+{
+  "#MainMenu": "Giocando nel menu",
+  "#level": "%levelname% | %deaths% Morti",
+  "#leveleditor": "Giocare in l'editor di livelli"
+}

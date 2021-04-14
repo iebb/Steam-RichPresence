@@ -1,0 +1,17 @@
+{
+  "#InMainMenu": "Ana Menüde",
+  "#Queueing": "{#%team%} olarak sıraya giriliyor",
+  "#LobbyOne": "1 Diğer oyuncu lobide",
+  "#LobbyMore": "%lobby_buddies% diğer oyuncuyla lobide",
+  "#PlayingDiverOne": "{#%team%} olarak oynuyor, 1 kasa kalmış",
+  "#PlayingDiverMore": "{#%team%} olarak oynuyor %safes% kasa kalmış",
+  "#PlayingDiverFinal": "{#%team%} olarak oynuyor S.T.E.V.E. 'e eşlik ediyor",
+  "#PlayingSharkOne": "{#%team%} olarak oynuyor, 1 dalgıç kalmış",
+  "#PlayingSharkMore": "{#%team%} olarak oynuyor %divers_left% dalgıç kalmış",
+  "#WaitingForLoaders": "Maçın başlamasını bekliyor",
+  "#EndGame": "Oyun sonu skor tablosunu görüntülüyor",
+  "#Team0": "dalgıç",
+  "#Team1": "köpekbalığı",
+  "#Team2": "dalgıç veya köpekbalığı",
+  "#ConnectingToServer": "Sunucuya bağlanıyor"
+}

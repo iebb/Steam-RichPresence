@@ -1,0 +1,17 @@
+{
+  "#InMainMenu": "Im Hauptmenü",
+  "#Queueing": "In der Warteschleife als {#%team%}",
+  "#LobbyOne": "In der Lobby mit 1 anderen Spieler",
+  "#LobbyMore": "In der Lobby mit %lobby_buddies% anderen Spielern",
+  "#PlayingDiverOne": "Spielt {#%team%} mit 1 verbleibenden Safe",
+  "#PlayingDiverMore": "Spielt {#%team%} mit %safes% verbleibenden Safes",
+  "#PlayingDiverFinal": "Spielt {#%team%} und eskortiert S.T.E.V.E",
+  "#PlayingSharkOne": "Spielt {#%team%} mit 1 verbleibenden Taucher",
+  "#PlayingSharkMore": "Spielt {#%team%} mit %divers_left% verbleibenden Tauchern",
+  "#WaitingForLoaders": "Warte auf Spielbeginn ...",
+  "#EndGame": "Punktestand zu Spielende wird angezeigt",
+  "#Team0": "Taucher",
+  "#Team1": "Hai",
+  "#Team2": "Taucher oder Hai",
+  "#ConnectingToServer": "Verbindung zum Server wird hergestellt"
+}

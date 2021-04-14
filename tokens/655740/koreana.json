@@ -1,0 +1,21 @@
+{
+  "#GameSetupMode_RoomInfo": "{%gameSetupMode%}: {%roomInfo%}",
+  "#MainMenu": "메뉴",
+  "#Singleplayer": "싱글 플레이",
+  "#CouchCoop": "카우치 Co-op",
+  "#OnlineCoop": "온라인 Co-op",
+  "#TallowmeresKeep": "탈로우메어의 저장함",
+  "#RoomX": "%roomNumber%층",
+  "#LamentingDeath": "%roomNumber% 호실에서 애도하는 죽음",
+  "#ConfiguringOptions": "옵션 구성",
+  "#ViewingHighScores": "하이스코어 보기",
+  "#ViewingAchievements": "업적 보기",
+  "#BrowsingLeaderboards": "리더보드 검색",
+  "#ViewingTitleScreen": "메인 화면 응시",
+  "#SelectingNewGame": "새로운 게임 고려 중",
+  "#BrowsingSavedGames": "저장된 게임 검색",
+  "#BrowsingOnlineGames": "온라인 게임 검색",
+  "#SettingUpOnlineGame": "온라인 게임 설정",
+  "#ViewingGameInfo": "게임 정보 보기",
+  "#ReadingVersionNotes": "버전 노트 읽기"
+}

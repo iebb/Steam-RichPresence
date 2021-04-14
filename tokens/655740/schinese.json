@@ -1,0 +1,21 @@
+{
+  "#GameSetupMode_RoomInfo": "{%gameSetupMode%}：{%roomInfo%}",
+  "#MainMenu": "菜单",
+  "#Singleplayer": "单人游戏",
+  "#CouchCoop": "沙发合作",
+  "#OnlineCoop": "在线合作",
+  "#TallowmeresKeep": "Tallowmere的城堡",
+  "#RoomX": "第%roomNumber%个房间",
+  "#LamentingDeath": "在房间%roomNumber%中哀悼死亡",
+  "#ConfiguringOptions": "正在配置选项",
+  "#ViewingHighScores": "正在查看高分榜",
+  "#ViewingAchievements": "正在查看成就",
+  "#BrowsingLeaderboards": "正在浏览排行榜",
+  "#ViewingTitleScreen": "正在盯着标题界面发呆",
+  "#SelectingNewGame": "正在考虑开始新游戏",
+  "#BrowsingSavedGames": "正在浏览游戏存档",
+  "#BrowsingOnlineGames": "正在浏览在线游戏",
+  "#SettingUpOnlineGame": "正在创建在线游戏",
+  "#ViewingGameInfo": "正在查看游戏信息",
+  "#ReadingVersionNotes": "正在浏览版本说明"
+}

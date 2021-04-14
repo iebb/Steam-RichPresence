@@ -1,0 +1,9 @@
+{
+  "#StatusWithoutData": "{#Status_%gamestatus%}",
+  "#StatusWithData": "{#Status_%gamestatus%}: {#Data}",
+  "#Status_MainMenu": "Main menu",
+  "#Status_InGame": "In game",
+  "#Status_Settings": "Settings menu",
+  "#Status_GameOver": "Game Over",
+  "#Data": "mode: %mode%, score: %score%, moves: %moves%"
+}

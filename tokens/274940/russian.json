@@ -1,0 +1,17 @@
+{
+  "#InMainMenu": "В главном меню",
+  "#Queueing": "Встал в очередь в качестве {#%team%}",
+  "#LobbyOne": "В лобби с 1 игроком",
+  "#LobbyMore": "В лобби с %lobby_buddies% игроками",
+  "#PlayingDiverOne": "{#%team%}. Сейфов осталось: 1",
+  "#PlayingDiverMore": "{#%team%}. Сейфов осталось: %safes%",
+  "#PlayingDiverFinal": "Играет на карте {#%team%}, сопровождает S.T.E.V.E",
+  "#PlayingSharkOne": "{#%team%}. Осталось дайверов: 1",
+  "#PlayingSharkMore": "{#%team%}. Осталось дайверов: %divers_left%",
+  "#WaitingForLoaders": "Ожидание начала матча",
+  "#EndGame": "Смотрит таблицу результатов матча",
+  "#Team0": "водолаз",
+  "#Team1": "акула",
+  "#Team2": "водолаз или акула",
+  "#ConnectingToServer": "Соединение с сервером"
+}

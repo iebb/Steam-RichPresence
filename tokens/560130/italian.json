@@ -1,0 +1,5 @@
+{
+  "#InGameDisplay": "%character_name%: %character_class% di %character_level_ord% livello",
+  "#InMenuDisplay": "Menu",
+  "#InIntroDisplay": "L'Aldilà"
+}

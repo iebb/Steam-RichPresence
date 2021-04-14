@@ -1,0 +1,11 @@
+{
+  "#StatusStandalone": "%map%",
+  "#StatusMultiplayerNoTeam": "%gamemode% - %map%, %playercount% players",
+  "#StatusMultiplayer": "%gamemode% - %map%, %team% %role%, %playercount% players",
+  "#StatusCampaign": "Campaign - %campaignyear%, %gamemode% - %map%, %team%, %playercount% players",
+  "#StatusMultiplayerNoTeamXP": "%XP%, %gamemode% - %map%, %playercount% players",
+  "#StatusMultiplayerXP": "%XP%, %gamemode% - %map%, %team% %role%, %playercount% players",
+  "#StatusCampaignXP": "%XP%, Campaign - %campaignyear%, %gamemode% - %map%, %team%, %playercount% players",
+  "#StatusMultiplayerQueuedForServer": "Queued to join %servername%",
+  "#StatusMultiplayerConnectingToServer": "Connecting to %servername%"
+}

@@ -1,0 +1,17 @@
+{
+  "#StatusExploring": "Explore le sanctuaire",
+  "#StatusTutorial": "Écoute le sensei",
+  "#StatusTemple": "Se repose au Temple",
+  "#StatusPrecision": "Kyudo Precision (%score%)",
+  "#StatusDynamic": "Kyudo Dynamic (%score%)",
+  "#StatusSkeet": "Kyudo Skeet (%score%)",
+  "#StatusMemory": "Kyudo Memory (%score%)",
+  "#StatusTriathlon": "Kyudo Triathlon (%score%)",
+  "#StatusTameshigiri": "Tameshigiri (%score%)",
+  "#StatusSpeedSlice": "Speed Slice (%score%)",
+  "#StatusDodgeSlice": "Dodge and Slice (%score%)",
+  "#StatusWhack": "Whac a robot (%score%)",
+  "#StatusSharpDarts": "Sharp Darts (%score%)",
+  "#StatusTaikoFrenzy": "Taiko Frenzy (%score%)",
+  "#StatusPoleChakram": "Pole Chakram (%score%)"
+}

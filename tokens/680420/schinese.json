@@ -1,0 +1,15 @@
+{
+  "#GAME": "到处游荡……",
+  "#Menu": "在菜单中",
+  "#GameLoadingOnStart": "正在抵达伊诺克星",
+  "#InLobby": "在游戏大厅里",
+  "#MatchmakingWithRandomPlayers": "正在寻找合作玩家",
+  "#WaitingForInvitation": "正在组建队伍",
+  "#LoadingToLevel": "正在前往目的地",
+  "#PlayingAnyMissionWithOpenGame": "正在进行战役模式",
+  "#PlayingAnyMissionWithPrivGame": "正在进行战役模式",
+  "#PlayerInChallengesHUBOpenGame": "正在为探险做准备",
+  "#PlayerInChallengesHUBPrivGame": "正在为探险做准备",
+  "#PlaylingChallengeOpenGame": "正在进行探险",
+  "#PlaylingChallengePrivGame": "正在进行探险"
+}

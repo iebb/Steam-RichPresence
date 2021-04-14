@@ -1,0 +1,10 @@
+{
+  "#Presence_MainMenu": "Hauptmenü",
+  "#Presence_SkirmishOffline": "Gefecht (KI)",
+  "#Presence_SkirmishOnline": "Gefecht (Spieler)",
+  "#Presence_CampaignOffline": "Kampagne (Solo)",
+  "#Presence_CampaignOnline": "Kampagne (Koop)",
+  "#Presence_AgainstAllOdds": "Gegen den Strom",
+  "#Presence_CustomGameOffline": "Individuelles Spiel (KI)",
+  "#Presence_CustomGameOnline": "Individuelles Spiel (Spieler)"
+}

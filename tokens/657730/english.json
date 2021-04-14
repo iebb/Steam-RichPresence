@@ -1,0 +1,10 @@
+{
+  "#StatusMenu": "%gamestatus%",
+  "#StatusWithScore": "{#Status_%gamestatus%}: %SCORE%",
+  "#Status_AtMainMenu": "At the main menu",
+  "#Status_WaitingForMatch": "Waiting for match",
+  "#Status_LookingForMorePlayers": "Looking for more players",
+  "#Status_Winning": "Winning",
+  "#Status_Losing": "Losing",
+  "#Status_Tied": "Tied"
+}

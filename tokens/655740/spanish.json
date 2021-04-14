@@ -1,0 +1,21 @@
+{
+  "#GameSetupMode_RoomInfo": "{%gameSetupMode%}: {%roomInfo%}",
+  "#MainMenu": "Menus",
+  "#Singleplayer": "Un jugador",
+  "#CouchCoop": "Cooperativa de sofá",
+  "#OnlineCoop": "Cooperativo en línea",
+  "#TallowmeresKeep": "Fortaleza de Tallowmere",
+  "#RoomX": "Sala %roomNumber%",
+  "#LamentingDeath": "Luto por la muerte en la sala %roomNumber%",
+  "#ConfiguringOptions": "Configurando opciones",
+  "#ViewingHighScores": "Ver puntuaciones altas",
+  "#ViewingAchievements": "Ver logros",
+  "#BrowsingLeaderboards": "Navegar por tablas de clasificación",
+  "#ViewingTitleScreen": "Mirando la pantalla de título",
+  "#SelectingNewGame": "Contemplando una nueva carrera",
+  "#BrowsingSavedGames": "Navegando partidas guardadas",
+  "#BrowsingOnlineGames": "Navegando juegos en línea",
+  "#SettingUpOnlineGame": "Configurar juego en línea",
+  "#ViewingGameInfo": "Ver información del juego",
+  "#ReadingVersionNotes": "Leer notas de la versión"
+}

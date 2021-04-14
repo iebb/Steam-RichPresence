@@ -1,0 +1,8 @@
+{
+  "#hero_level": "1",
+  "#location": "лок",
+  "#health_status": " ",
+  "#on_location": "%location% [Ур.%hero_level%]",
+  "#on_map": "Путешествует по миру [Ур.%hero_level%]",
+  "#on_menu": "Готовится к приключениям"
+}

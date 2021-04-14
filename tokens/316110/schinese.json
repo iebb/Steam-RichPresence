@@ -1,0 +1,17 @@
+{
+  "#InMainMenu": "在主菜单",
+  "#Queueing": "{#%team%} 队伍排队中",
+  "#LobbyOne": "大厅中还有1名玩家",
+  "#LobbyMore": "大厅中还有%lobby_buddies%名玩家",
+  "#PlayingDiverOne": "选择 {#%team%} 保留1个保险箱",
+  "#PlayingDiverMore": "选择 {#%team%} 保留%safes%个保险箱",
+  "#PlayingDiverFinal": "选择 {#%team%} 护送S.T.E.V.E",
+  "#PlayingSharkOne": "选择 {#%team%} 剩余1个潜水员",
+  "#PlayingSharkMore": "选择 {#%team%} 剩余%divers_left%个潜水员",
+  "#WaitingForLoaders": "等待比赛开始",
+  "#EndGame": "查看游戏结果排行榜",
+  "#Team0": "潜水员",
+  "#Team1": "鲨鱼",
+  "#Team2": "潜水员或鲨鱼",
+  "#ConnectingToServer": "连接服务器"
+}

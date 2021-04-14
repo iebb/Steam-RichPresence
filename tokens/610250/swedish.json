@@ -1,0 +1,5 @@
+{
+  "#MainMenu": "Att spela i menyerna",
+  "#level": "%levelname% | %deaths% Dödsfall",
+  "#leveleditor": "Att spela i Level Editor"
+}

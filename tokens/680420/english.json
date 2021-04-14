@@ -1,0 +1,15 @@
+{
+  "#GAME": "Roaming...",
+  "#Menu": "In Menu",
+  "#GameLoadingOnStart": "Arriving on Enoch",
+  "#InLobby": "In Lobby",
+  "#MatchmakingWithRandomPlayers": "Looking for Co-op Players",
+  "#WaitingForInvitation": "Forming a Team",
+  "#LoadingToLevel": "Traveling to a Destination",
+  "#PlayingAnyMissionWithOpenGame": "Playing Campaign",
+  "#PlayingAnyMissionWithPrivGame": "Playing Campaign",
+  "#PlayerInChallengesHUBOpenGame": "Preparing for an Expedition",
+  "#PlayerInChallengesHUBPrivGame": "Preparing for an Expedition",
+  "#PlaylingChallengeOpenGame": "Playing Expedition",
+  "#PlaylingChallengePrivGame": "Playing Expedition"
+}

@@ -1,0 +1,14 @@
+{
+  "#TF_RichPresence_Display": "{#TF_RichPresence_State_%state%}",
+  "#TF_RichPresence_State_MainMenu": "Hoofdmenu",
+  "#TF_RichPresence_State_SearchingGeneric": "Naar een spel aan het zoeken",
+  "#TF_RichPresence_State_SearchingMatchGroup": "Zoeken - {#TF_RichPresence_MatchGroup_%matchgrouploc%}",
+  "#TF_RichPresence_State_PlayingGeneric": "In spel - %currentmap%",
+  "#TF_RichPresence_State_PlayingMatchGroup": "{#TF_RichPresence_MatchGroup_%matchgrouploc%} - %currentmap%",
+  "#TF_RichPresence_State_PlayingCommunity": "Community - %currentmap%",
+  "#TF_RichPresence_MatchGroup_Competitive6v6": "Competitief",
+  "#TF_RichPresence_MatchGroup_Casual": "Casual",
+  "#TF_RichPresence_MatchGroup_SpecialEvent": "Speciaal evenement",
+  "#TF_RichPresence_MatchGroup_MannUp": "Vermann je",
+  "#TF_RichPresence_MatchGroup_BootCamp": "Trainingskamp"
+}

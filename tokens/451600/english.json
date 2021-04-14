@@ -1,0 +1,11 @@
+{
+  "#StatusWithoutScore": "{#Status_%gamestatus%}",
+  "#StatusWithScore": "{#Status_%gamestatus%}: %score%",
+  "#Status_AtMainMenu": "Main Menu",
+  "#Status_LookingForMatch": "Looking For Match",
+  "#Status_Campaign": "Campaign",
+  "#Status_Survival": "Survival",
+  "#Status_Editor": "Editor",
+  "#Status_Starting": "Starting New Game",
+  "#Status_GameOver": "Game Over"
+}

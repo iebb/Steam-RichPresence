@@ -1,0 +1,17 @@
+{
+  "#TF_RichPresence_Display": "{#TF_RichPresence_State_%state%}",
+  "#TF_RichPresence_State_MainMenu": "Hlavní menu",
+  "#TF_RichPresence_State_SearchingGeneric": "Vyhledávání zápasu",
+  "#TF_RichPresence_State_SearchingMatchGroup": "Vyhledávání – {#TF_RichPresence_MatchGroup_%matchgrouploc%}",
+  "#TF_RichPresence_State_PlayingGeneric": "Zápas – %currentmap%",
+  "#TF_RichPresence_State_LoadingGeneric": "Připojování do zápasu",
+  "#TF_RichPresence_State_PlayingMatchGroup": "{#TF_RichPresence_MatchGroup_%matchgrouploc%} – %currentmap%",
+  "#TF_RichPresence_State_LoadingMatchGroup": "Připojování – {#TF_RichPresence_MatchGroup_%matchgrouploc%}",
+  "#TF_RichPresence_State_PlayingCommunity": "Komunitní server – %currentmap%",
+  "#TF_RichPresence_State_LoadingCommunity": "Připojování ke komunitnímu serveru",
+  "#TF_RichPresence_MatchGroup_Competitive6v6": "Kompetitivní",
+  "#TF_RichPresence_MatchGroup_Casual": "Nenáročný",
+  "#TF_RichPresence_MatchGroup_SpecialEvent": "Speciální událost",
+  "#TF_RichPresence_MatchGroup_MannUp": "Mann Up",
+  "#TF_RichPresence_MatchGroup_BootCamp": "Boot Camp"
+}

@@ -1,0 +1,14 @@
+{
+  "#offline": "オフライン",
+  "#presence_in_menus": "メニュー内",
+  "#playing_fantasy_strike": "Fantasy Strikeをプレイ中",
+  "#presence_local_versus": "ローカル対戦中",
+  "#presence_casual_online": "カジュアルマッチ中",
+  "#presence_ranked_online": "ランクマッチ中",
+  "#presence_friend_match_online": "フレンドマッチ中",
+  "#presence_tutorial": "チュートリアル中",
+  "#presence_survival": "サバイバル中",
+  "#presence_daily_challenge": "デイリーチャレンジ中",
+  "#presence_arcade": "アーケードモード中",
+  "#presence_practice": "トレーニングモード中"
+}

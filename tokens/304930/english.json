@@ -1,0 +1,7 @@
+{
+  "#Status_EditingLevel": "Editing: %level_name%",
+  "#Status_PlayingMultiplayer": "Playing multiplayer: %level_name%",
+  "#Status_PlayingSingleplayer": "Playing singleplayer: %level_name%",
+  "#Status_WaitingInLobby": "Waiting in lobby",
+  "#Status_AtMainMenu": "At the main menu"
+}

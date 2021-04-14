@@ -1,0 +1,21 @@
+{
+  "#Status_Default": "In game",
+  "#Status_AtMainMenu": "At the main menu",
+  "#Status_InGameInUnit": "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%, {#Team_%Team%}, %UCount%/%UMax%",
+  "#Status_InGameCommander": "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%, {#Team_%Team%} Commander",
+  "#Status_InGame": "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%, {#Team_%Team%}",
+  "#Status_InGameNotPlaying": "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%",
+  "#Mode_WRFR": "Warfare",
+  "#Mode_OFFNSV": "Offensive",
+  "#Team_AL": "Allied",
+  "#Team_AX": "Axis",
+  "#Map_StMarie": "St Marie Du Mont",
+  "#Map_Hurtgen": "Hürtgen Forest",
+  "#Map_Foy": "Foy",
+  "#Map_Utah": "Utah Beach",
+  "#Map_Omaha": "Omaha Beach",
+  "#Map_SME": "Sainte-Mère-Église",
+  "#Map_PHL": "Purple Heart Lane",
+  "#Map_Hill400": "Hill 400",
+  "#Map_CT": "Carentan"
+}

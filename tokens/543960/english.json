@@ -1,0 +1,16 @@
+{
+  "#Idle": "Idle",
+  "#InGame": "In Game",
+  "#InGameScore": "In Game %home%: %homescore% vs %away%: %awayscore%",
+  "#LocalMultiplayer": "Playing Multiplayer",
+  "#Menus": "Navigating Menus",
+  "#MultiLobby": "In Online Lobby",
+  "#MultiplayerInGame": "In Online Match",
+  "#CareerCoach": "In Coach Career HUB",
+  "#CareerCoachInGame": "In Coach Career Match",
+  "#CareerPro": "In Pro Career HUB",
+  "#CareerProInGame": "In Pro Career Match",
+  "#Competition": "In Competition HUB",
+  "#CompetitionInGame": "In Competition Match",
+  "#Tutorials": "In Tutorials"
+}

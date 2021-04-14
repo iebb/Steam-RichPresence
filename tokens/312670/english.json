@@ -1,0 +1,22 @@
+{
+  "#STRING_IS_PLAYING_GAMEMODE": "Is playing {TOKEN_GAMEMODE}",
+  "#STRING_IS_PLAYING_LEVEL": "Is playing {TOKEN_LEVELNAME}",
+  "#STRING_IS_SETTING_UP_GAME": "Is setting up game",
+  "#TOKEN_GAMEMODE_0": "Campaign",
+  "#TOKEN_GAMEMODE_1": "Horde",
+  "#TOKEN_GAMEMODE_2": "Score Attack",
+  "#TOKEN_LEVELNAME_0": "Harbin's Dig Site",
+  "#TOKEN_LEVELNAME_1": "Pond Paths",
+  "#TOKEN_LEVELNAME_2": "Medusa Tunnels",
+  "#TOKEN_LEVELNAME_3": "Stone Church",
+  "#TOKEN_LEVELNAME_4": "Mountain Village",
+  "#TOKEN_LEVELNAME_5": "Sacred Cave",
+  "#TOKEN_LEVELNAME_6": "Storm Town",
+  "#TOKEN_LEVELNAME_7": "Great Pyramid",
+  "#TOKEN_LEVELNAME_8": "Afterlife",
+  "#STRING_IS_PLAYING_GAMEMODE_LEVEL": "Is playing {TOKEN_GAMEMODE} in {TOKEN_LEVELNAME}",
+  "#IN_MENUS": "In menus",
+  "#STRING_IN_LOBBY_NOT_FULL": "In an Open Lobby",
+  "#STRING_IN_LOBBY_FULL": "In a Closed Lobby",
+  "#STRING_IN_MENUS": "In menus"
+}

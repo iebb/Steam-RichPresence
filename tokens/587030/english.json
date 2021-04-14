@@ -1,0 +1,9 @@
+{
+  "#StatusWithoutScore": "{#Status_%gamestatus%}: BOOP",
+  "#StatusWithScore": "{#Status_%gamestatus%}: %score%",
+  "#Status_AtMainMenu": "At the main menu",
+  "#Status_WaitingForMatch": "Waiting for match",
+  "#Status_Winning": "Winning",
+  "#Status_Losing": "Losing",
+  "#Status_Tied": "Tied"
+}

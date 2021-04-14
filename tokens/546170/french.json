@@ -1,0 +1,7 @@
+{
+  "#Status_MainMenu": "Главное меню",
+  "#Status_InGame": "В игре",
+  "#Status_Settings": "Меню настроек",
+  "#Status_GameOver": "Игра окончена",
+  "#Data": "режим: %mode%, очки: %score%, ходы: %moves%"
+}

@@ -1,0 +1,15 @@
+{
+  "#GAME": "Vagando...",
+  "#Menu": "En el menú",
+  "#GameLoadingOnStart": "Llegando a Enoch",
+  "#InLobby": "En la sala",
+  "#MatchmakingWithRandomPlayers": "Buscando jugadores para el modo cooperativo",
+  "#WaitingForInvitation": "Formando equipo",
+  "#LoadingToLevel": "Viajando a destino",
+  "#PlayingAnyMissionWithOpenGame": "Jugando la campaña",
+  "#PlayingAnyMissionWithPrivGame": "Jugando la campaña",
+  "#PlayerInChallengesHUBOpenGame": "Preparándose para una Expedición",
+  "#PlayerInChallengesHUBPrivGame": "Preparándose para una Expedición",
+  "#PlaylingChallengeOpenGame": "Jugando en una Expedición",
+  "#PlaylingChallengePrivGame": "Jugando en una Expedición"
+}

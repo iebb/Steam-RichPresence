@@ -1,0 +1,15 @@
+{
+  "#GAME": "In giro...",
+  "#Menu": "Nel menu",
+  "#GameLoadingOnStart": "In arrivo su Enoch",
+  "#InLobby": "Nella lobby",
+  "#MatchmakingWithRandomPlayers": "Alla ricerca di giocatori per co-op",
+  "#WaitingForInvitation": "Forma una squadra",
+  "#LoadingToLevel": "In viaggio verso la destinazione",
+  "#PlayingAnyMissionWithOpenGame": "Partecipa alla campagna",
+  "#PlayingAnyMissionWithPrivGame": "Partecipa alla campagna",
+  "#PlayerInChallengesHUBOpenGame": "In preparazione per una Spedizione",
+  "#PlayerInChallengesHUBPrivGame": "In preparazione per una Spedizione",
+  "#PlaylingChallengeOpenGame": "Partecipa alla Spedizione",
+  "#PlaylingChallengePrivGame": "Partecipa alla Spedizione"
+}

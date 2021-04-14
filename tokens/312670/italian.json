@@ -1,0 +1,22 @@
+{
+  "#STRING_IS_PLAYING_GAMEMODE": "sta giocando a {TOKEN_GAMEMODE}",
+  "#STRING_IS_PLAYING_LEVEL": "sta giocando a {TOKEN_LEVELNAME}",
+  "#STRING_IS_SETTING_UP_GAME": "Sta preparando una partita",
+  "#TOKEN_GAMEMODE_0": "Campagna",
+  "#TOKEN_GAMEMODE_1": "Orda",
+  "#TOKEN_GAMEMODE_2": "Sfida a punti",
+  "#TOKEN_LEVELNAME_0": "Scavi di Harbin",
+  "#TOKEN_LEVELNAME_1": "Sentieri dello stagno",
+  "#TOKEN_LEVELNAME_2": "Tunnel di Medusa",
+  "#TOKEN_LEVELNAME_3": "Chiesa in pietra",
+  "#TOKEN_LEVELNAME_4": "Villaggio montano",
+  "#TOKEN_LEVELNAME_5": "Caverna sacra",
+  "#TOKEN_LEVELNAME_6": "Città tempestosa",
+  "#TOKEN_LEVELNAME_7": "Grande piramide",
+  "#TOKEN_LEVELNAME_8": "Aldilà",
+  "#STRING_IS_PLAYING_GAMEMODE_LEVEL": "Sta giocando {TOKEN_GAMEMODE} in {TOKEN_LEVELNAME}",
+  "#IN_MENUS": "Nei menu",
+  "#STRING_IN_LOBBY_NOT_FULL": "In una lobby aperta",
+  "#STRING_IN_LOBBY_FULL": "In una lobby chiusa",
+  "#STRING_IN_MENUS": "Nei menu"
+}

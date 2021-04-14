@@ -1,0 +1,14 @@
+{
+  "#RP_Playing": "%currentmap% - {#%team%} - {#%class%}",
+  "#RP_Playing_NoClass": "%currentmap% - {#%team%}",
+  "#RP_Connecting": "%currentmap% - 서버 연결 중...",
+  "#RP_MainMenu": "메인 메뉴",
+  "#ND_Assault": "돌격병",
+  "#ND_Support": "지원병",
+  "#ND_Exo": "중화기병",
+  "#ND_Stealth": "암살병",
+  "#ND_Commander": "지휘관",
+  "#ND_Consortium": "연합군",
+  "#ND_Empire": "제국군",
+  "#ND_Spectate": "관전"
+}

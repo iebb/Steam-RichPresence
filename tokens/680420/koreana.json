@@ -1,0 +1,15 @@
+{
+  "#GAME": "배회 중...",
+  "#Menu": "메뉴에서",
+  "#GameLoadingOnStart": "에녹에 도착 중",
+  "#InLobby": "로비에서",
+  "#MatchmakingWithRandomPlayers": "협동 모드 플레이어를 찾는 중",
+  "#WaitingForInvitation": "팀 구성",
+  "#LoadingToLevel": "목적지로 이동 중",
+  "#PlayingAnyMissionWithOpenGame": "캠페인 플레이 중",
+  "#PlayingAnyMissionWithPrivGame": "캠페인 플레이 중",
+  "#PlayerInChallengesHUBOpenGame": "탐험 준비 중",
+  "#PlayerInChallengesHUBPrivGame": "탐험 준비 중",
+  "#PlaylingChallengeOpenGame": "탐험 중",
+  "#PlaylingChallengePrivGame": "탐험 중"
+}

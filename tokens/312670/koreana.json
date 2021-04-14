@@ -1,0 +1,22 @@
+{
+  "#STRING_IS_PLAYING_GAMEMODE": "님이 {TOKEN_GAMEMODE}을(를) 플레이 중입니다}",
+  "#STRING_IS_PLAYING_LEVEL": "님이 {TOKEN_LEVELNAME}을(를) 플레이 중입니다",
+  "#STRING_IS_SETTING_UP_GAME": "님이 게임을 설정 중입니다",
+  "#TOKEN_GAMEMODE_0": "캠페인",
+  "#TOKEN_GAMEMODE_1": "호드",
+  "#TOKEN_GAMEMODE_2": "스코어 어택",
+  "#TOKEN_LEVELNAME_0": "하빈의 발굴지",
+  "#TOKEN_LEVELNAME_1": "연못 길",
+  "#TOKEN_LEVELNAME_2": "메두사 터널",
+  "#TOKEN_LEVELNAME_3": "석조 교회",
+  "#TOKEN_LEVELNAME_4": "산악 마을",
+  "#TOKEN_LEVELNAME_5": "신성한 동굴",
+  "#TOKEN_LEVELNAME_6": "폭풍의 마을",
+  "#TOKEN_LEVELNAME_7": "피라미드",
+  "#TOKEN_LEVELNAME_8": "사후세계",
+  "#STRING_IS_PLAYING_GAMEMODE_LEVEL": "님이 {TOKEN_LEVELNAME}에서 {TOKEN_GAMEMODE}을(를) 플레이하고 있습니다",
+  "#IN_MENUS": "메뉴",
+  "#STRING_IN_LOBBY_NOT_FULL": "공개 로비",
+  "#STRING_IN_LOBBY_FULL": "비공개 로비",
+  "#STRING_IN_MENUS": "님이 메뉴에 있습니다"
+}

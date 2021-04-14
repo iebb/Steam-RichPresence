@@ -1,0 +1,14 @@
+{
+  "#Status_MainMenu": "At the Main Menu",
+  "#Status_Shop": "At the Shop",
+  "#Status_Lobby": "In a Lobby: %lobbyname%",
+  "#Status_LobbyPrivate": "In a Lobby",
+  "#Status_InGame": "In-Game",
+  "#Status_Results": "Results",
+  "#Status_CoopMode_Details": "Co-op: %bossname%, %difficulty%",
+  "#Status_NormalMode_Details": "Normal Mode: %playername%",
+  "#Status_Spring2020_Details": "Bounty Hunt: %playername%",
+  "#Status_Summer2020_Details": "Fish-a-Fish: %playername%",
+  "#Status_Shroom_Details": "Shroom Zoom: %playername%",
+  "#Status_Hw2018_Details": "Trick and Treat: %playername%"
+}

@@ -1,0 +1,13 @@
+{
+  "#Status_IN_MAIN_MENU": "im Hauptmenü",
+  "#Status_WAITING_IN_ONLINE_PRIVATE_LOBBY": "wartet in Online Lobby",
+  "#Status_PRACTICING_ADVANCED_SKILLS": "übt fortgeschrittene Moves",
+  "#Status_PLAYING_ARCADE_EASY_MATCH": "erklimmt einfachen Arcade Turm",
+  "#Status_PLAYING_ARCADE_MEDIUM_MATCH": "erklimmt mittleren Arcade Turm",
+  "#Status_PLAYING_ARCADE_HARD_MATCH": "erklimmt schweren Arcade Turm",
+  "#Status_PLAYING_COUCH_MATCH": "spielt ein lokales Match",
+  "#Status_PLAYING_RANKED_MATCH": "spielt ein Ranglistenmatch",
+  "#Status_PLAYING_ONLINE_MATCH": "Spielt ein Online Match",
+  "#Status_PLAYING_VS_AI": "spielt gegen die KI",
+  "#Status_PLAYING_TRIALS": "Spielt Herausforderungen"
+}

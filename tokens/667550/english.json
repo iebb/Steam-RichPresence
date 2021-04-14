@@ -1,0 +1,8 @@
+{
+  "#Status_MainMenu": "Main menu",
+  "#Status_Loadout": "Loadout",
+  "#Status_Options": "Options",
+  "#Status_Leaderboards": "Leaderboards",
+  "#Status_Paused": "Paused: %pilot% - %ship% - M%level% : %location% - %score%",
+  "#Status_Game": "%pilot% : %ship% - M%level% : %location% - %score%"
+}

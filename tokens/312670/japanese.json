@@ -1,0 +1,22 @@
+{
+  "#STRING_IS_PLAYING_GAMEMODE": "は {TOKEN_GAMEMODE} をプレイ中",
+  "#STRING_IS_PLAYING_LEVEL": "は {TOKEN_LEVELNAME} をプレイ中",
+  "#STRING_IS_SETTING_UP_GAME": "はゲーム設定中",
+  "#TOKEN_GAMEMODE_0": "ストーリーモード",
+  "#TOKEN_GAMEMODE_1": "ホード",
+  "#TOKEN_GAMEMODE_2": "スコアアタック",
+  "#TOKEN_LEVELNAME_0": "ハービンの発掘現場",
+  "#TOKEN_LEVELNAME_1": "水辺の道々",
+  "#TOKEN_LEVELNAME_2": "メデューサ地下道",
+  "#TOKEN_LEVELNAME_3": "石の教会",
+  "#TOKEN_LEVELNAME_4": "山村",
+  "#TOKEN_LEVELNAME_5": "聖なる洞窟",
+  "#TOKEN_LEVELNAME_6": "ストームタウン",
+  "#TOKEN_LEVELNAME_7": "大ピラミッド",
+  "#TOKEN_LEVELNAME_8": "死後の世界",
+  "#STRING_IS_PLAYING_GAMEMODE_LEVEL": "が {TOKEN_GAMEMODE} の {TOKEN_LEVELNAME} をプレイ中",
+  "#IN_MENUS": "メニュー内",
+  "#STRING_IN_LOBBY_NOT_FULL": "オープンロビー内",
+  "#STRING_IN_LOBBY_FULL": "クローズロビー内",
+  "#STRING_IN_MENUS": "メニュー内"
+}

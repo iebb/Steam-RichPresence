@@ -1,0 +1,10 @@
+{
+  "#presence_menus": "Prepárate para sobrevivir",
+  "#presence_tutorial": "Escape del Campamento Osprey",
+  "#presence_game_host": "Recupera el mundo contra los zombis",
+  "#presence_game_client": "Ayúdale a tus vecinos contra los zombis",
+  "#presence_daybreak_host": "Dirige a un equipo en Amanecer",
+  "#presence_daybreak_client": "Integrante de un equipo en Amanecer",
+  "#presence_heartland_host": "Busca respuestas en Heartland",
+  "#presence_heartland_client": "Ayuda a tus amigos en Heartland"
+}

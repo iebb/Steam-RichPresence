@@ -1,0 +1,12 @@
+{
+  "#StatusWithoutScore": "{#Status_%gamestatus%}",
+  "#StatusWithScore": "{#Status_%gamestatus%}: %score%",
+  "#Status_MainMenu": "Сидит в меню",
+  "#Status_Customizing": "Одевает персонажа",
+  "#Status_Playing": "Играет в {#Gametype_%gametype%}",
+  "#Status_Endgame": "Сыграл в {#Gametype_%gametype%} и занял %place% место",
+  "#Status_Replay": "Смотрит повтор",
+  "#Status_Editor": "В редакторе модов",
+  "#Gametype_Kickboxing": "Кикбоксинг",
+  "#Gametype_Freestyle": "Пошаговый"
+}

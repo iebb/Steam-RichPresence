@@ -1,0 +1,17 @@
+{
+  "#TF_RichPresence_Display": "{#TF_RichPresence_State_%state%}",
+  "#TF_RichPresence_State_MainMenu": "Main Menu",
+  "#TF_RichPresence_State_SearchingGeneric": "Searching for a Match",
+  "#TF_RichPresence_State_SearchingMatchGroup": "Searching - {#TF_RichPresence_MatchGroup_%matchgrouploc%}",
+  "#TF_RichPresence_State_PlayingGeneric": "In Match - %currentmap%",
+  "#TF_RichPresence_State_LoadingGeneric": "Joining Match",
+  "#TF_RichPresence_State_PlayingMatchGroup": "{#TF_RichPresence_MatchGroup_%matchgrouploc%} - %currentmap%",
+  "#TF_RichPresence_State_LoadingMatchGroup": "Joining {#TF_RichPresence_MatchGroup_%matchgrouploc%}",
+  "#TF_RichPresence_State_PlayingCommunity": "Community - %currentmap%",
+  "#TF_RichPresence_State_LoadingCommunity": "Joining Community Server",
+  "#TF_RichPresence_MatchGroup_Competitive6v6": "Competitive",
+  "#TF_RichPresence_MatchGroup_Casual": "Casual",
+  "#TF_RichPresence_MatchGroup_SpecialEvent": "Special Event",
+  "#TF_RichPresence_MatchGroup_MannUp": "Mann Up",
+  "#TF_RichPresence_MatchGroup_BootCamp": "Boot Camp"
+}

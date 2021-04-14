@@ -1,0 +1,10 @@
+{
+  "#ActivityMapPlayers": "{#activity_%activity%} %map% - (%num_players%/%max_players%)",
+  "#ActivityMap": "{#activity_%activity%} %map%",
+  "#Map": "%map%",
+  "#MapPlayers": "%map% - (%num_players%/%max_players%)",
+  "#activity_replaying": "Replaying",
+  "#activity_watching": "Watching",
+  "#MainMenu": "Main Menu",
+  "#Loading": "Loading..."
+}
