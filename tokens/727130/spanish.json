@@ -1,0 +1,8 @@
+{
+  "#Status_AtMainMenu": "En el menú principal",
+  "#StatusCaptain": "Capitán nivel %level%",
+  "#StatusLucha": "En una batalla espacial",
+  "#StatusInventario": "Gestionando la nave",
+  "#StatusStation": "En la estación espacial de %sector%",
+  "#StatusPlanet": "En el planeta %sector%"
+}

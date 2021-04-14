@@ -1,0 +1,14 @@
+{
+  "#StatusWithoutScore": "{#Status%gamestatus%}",
+  "#StatusWithScore": "{#Status%gamestatus%}: %score%",
+  "#Status_AtMainMenu": "Im Hauptmenü",
+  "#Status_WaitingForMatch": "Wartet auf ein Spiel",
+  "#Status_Winning": "Am Gewinnen ",
+  "#Status_Losing": "Am Verlieren",
+  "#Status_Tied": "Ausgeglichen",
+  "#Status_Matchmaking": "Sucht ein Spiel",
+  "#Status_Lobby": "{#Lobby%lobbystatus%}: %player%",
+  "#Status_MapWithMode": "Spielt %Gamemode% auf %Map%",
+  "#Status_Customization": "Bastelt an sich rum",
+  "#Status_L4P": "Sucht Mitspieler"
+}

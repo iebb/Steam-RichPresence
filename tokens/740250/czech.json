@@ -1,0 +1,4 @@
+{
+  "#StatusInPrivateWorld": "Je v privátním světě (má celkem %total_worlds% otevřených světů)",
+  "#StatusInWorld": "Je v '%current_world_name%' s %current_world_users% ostatními uživateli (má celkem %total_worlds% otevřených světů)"
+}

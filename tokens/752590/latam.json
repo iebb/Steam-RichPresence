@@ -1,0 +1,22 @@
+{
+  "#StatusIdle": "Inactivo",
+  "#StatusMenu": "En el menú",
+  "#StatusPlaying": "Jugando a {#%chapter%}",
+  "#CHAP01": "El legado de Rune",
+  "#CHAP02": "Los desconocidos",
+  "#CHAP03": "Castigo",
+  "#CHAP04": "El aprendiz",
+  "#CHAP05": "El botín de los cuervos",
+  "#CHAP06": "Mercancía dañada",
+  "#CHAP07": "El camino que nos espera",
+  "#CHAP08": "Nuestro hogar",
+  "#CHAP09": "A la sombra de las murallas",
+  "#CHAP10": "La senda de las rosas",
+  "#CHAP11": "Con vida",
+  "#CHAP12": "Todo lo que queda",
+  "#CHAP13": "Penitencia",
+  "#CHAP14": "Lazos de sangre",
+  "#CHAP15": "Reminiscencia",
+  "#CHAP16": "Coronación",
+  "#CHAP17": "El uno para el otro"
+}

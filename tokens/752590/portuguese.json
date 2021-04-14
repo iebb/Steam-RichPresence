@@ -1,0 +1,22 @@
+{
+  "#StatusIdle": "Ocioso",
+  "#StatusMenu": "No menu",
+  "#StatusPlaying": "Jogando {#%chapter%}",
+  "#CHAP01": "O Legado De Rune",
+  "#CHAP02": "Os Estranhos",
+  "#CHAP03": "Retaliação",
+  "#CHAP04": "O Aprendiz",
+  "#CHAP05": "Os Espólios dos Corvos",
+  "#CHAP06": "Bens Danificados",
+  "#CHAP07": "O Caminho Diante de Nós",
+  "#CHAP08": "Nosso Lar",
+  "#CHAP09": "À Sombra das Ameias",
+  "#CHAP10": "O Caminho das Rosas",
+  "#CHAP11": "Vivo",
+  "#CHAP12": "Tudo que Restou",
+  "#CHAP13": "Penitência",
+  "#CHAP14": "Laços de Sangue",
+  "#CHAP15": "Lembranças",
+  "#CHAP16": "Coroação",
+  "#CHAP17": "Um Pelo Outro"
+}

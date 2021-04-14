@@ -1,0 +1,22 @@
+{
+  "#StatusIdle": "Inaktiv",
+  "#StatusMenu": "Im Menü",
+  "#StatusPlaying": "Spielt „{#%chapter%}“",
+  "#CHAP01": "Das Erbe der de Runes",
+  "#CHAP02": "Die Fremden",
+  "#CHAP03": "Vergeltung",
+  "#CHAP04": "Der Lehrling",
+  "#CHAP05": "Die Beute der Raben",
+  "#CHAP06": "Beschädigte Güter",
+  "#CHAP07": "Der Pfad vor uns",
+  "#CHAP08": "Unser Zuhause",
+  "#CHAP09": "Im Schatten des Walls",
+  "#CHAP10": "Der Weg der Rosen",
+  "#CHAP11": "Am Leben",
+  "#CHAP12": "Alles, was bleibt",
+  "#CHAP13": "Buße",
+  "#CHAP14": "Blutlinien",
+  "#CHAP15": "Andenken",
+  "#CHAP16": "Krönung",
+  "#CHAP17": "Füreinander!"
+}

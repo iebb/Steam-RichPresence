@@ -1,0 +1,22 @@
+{
+  "#StatusIdle": "Idle",
+  "#StatusMenu": "In the menu",
+  "#StatusPlaying": "Playing {#%chapter%}",
+  "#CHAP01": "The de Rune Legacy",
+  "#CHAP02": "The Strangers",
+  "#CHAP03": "Retribution",
+  "#CHAP04": "The Apprentice",
+  "#CHAP05": "The Ravens' Spoils",
+  "#CHAP06": "Damaged Goods",
+  "#CHAP07": "The Path Before Us",
+  "#CHAP08": "Our Home",
+  "#CHAP09": "In the Shadow of Ramparts",
+  "#CHAP10": "The Way of Roses",
+  "#CHAP11": "Alive",
+  "#CHAP12": "All That Remains",
+  "#CHAP13": "Penance",
+  "#CHAP14": "Blood Ties",
+  "#CHAP15": "Remembrance",
+  "#CHAP16": "Coronation",
+  "#CHAP17": "For Each Other"
+}

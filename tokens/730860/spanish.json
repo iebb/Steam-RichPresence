@@ -1,0 +1,10 @@
+{
+  "#rich_presence_main_menu": "En el menú principal",
+  "#rich_presence_campaign": "Jugando al modo campaña",
+  "#rich_presence_online_lobby": "En una sala de espera en línea",
+  "#rich_presence_online_match": "Jugando una partida en línea",
+  "#rich_presence_skirmish_lobby": "Creando partida de pelea",
+  "#rich_presence_skirmish_match": "Jugando partida de pelea",
+  "#rich_presence_lan_lobby": "En una sala de espera de red local",
+  "#rich_presence_lan_match": "Jugando una partida en red local"
+}

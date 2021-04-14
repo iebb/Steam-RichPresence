@@ -1,0 +1,12 @@
+{
+  "#StatusWithoutScore": "{#Status%gamestatus%}",
+  "#StatusWithScore": "{#Status%gamestatus%}: %score%",
+  "#Status_AtMainMenu": "At the main menu",
+  "#Status_WaitingForMatch": "Waiting for match",
+  "#Status_Winning": "Winning",
+  "#Status_Losing": "Losing",
+  "#Status_Tied": "Tied",
+  "#Status_Matchmaking": "Matchmaking",
+  "#Status_Lobby": "{#Lobby%Lobbystatus%}: %player%",
+  "#Status_MapWithMode": "Playing %Gamemode% on %Map%"
+}

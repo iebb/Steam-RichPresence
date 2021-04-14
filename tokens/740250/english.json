@@ -1,0 +1,4 @@
+{
+  "#StatusInPrivateWorld": "In a private world (has %total_worlds% worlds open in total)",
+  "#StatusInWorld": "In '%current_world_name%' with %current_world_users% others (has %total_worlds% worlds open in total)"
+}

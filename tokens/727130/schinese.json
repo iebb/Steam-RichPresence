@@ -1,0 +1,8 @@
+{
+  "#Status_AtMainMenu": "在主菜单",
+  "#StatusCaptain": "舰长等级%level%",
+  "#StatusLucha": "在舰船战斗中",
+  "#StatusInventario": "管理舰船",
+  "#StatusStation": "在%sector%空间站",
+  "#StatusPlanet": "在%sector%星球"
+}

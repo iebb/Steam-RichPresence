@@ -1,0 +1,10 @@
+{
+  "#rich_presence_main_menu": "In main menu",
+  "#rich_presence_campaign": "Playing campaign",
+  "#rich_presence_online_lobby": "In online lobby",
+  "#rich_presence_online_match": "Playing online match",
+  "#rich_presence_skirmish_lobby": "Creating skirmish match",
+  "#rich_presence_skirmish_match": "Playing skirmish match",
+  "#rich_presence_lan_lobby": "In LAN lobby",
+  "#rich_presence_lan_match": "Playing LAN match"
+}

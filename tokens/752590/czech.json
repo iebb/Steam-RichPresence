@@ -1,0 +1,22 @@
+{
+  "#StatusIdle": "Neaktivní",
+  "#StatusMenu": "V nabídce",
+  "#StatusPlaying": "Hraje {#%chapter%}",
+  "#CHAP01": "Odkaz rodiny de Rune",
+  "#CHAP02": "Cizinci",
+  "#CHAP03": "Odplata",
+  "#CHAP04": "Učedník",
+  "#CHAP05": "Krkavčí kořist",
+  "#CHAP06": "Poškozené zboží",
+  "#CHAP07": "Cesta před námi",
+  "#CHAP08": "Náš domov",
+  "#CHAP09": "Ve stínu hradeb",
+  "#CHAP10": "Cesta růží",
+  "#CHAP11": "Naživu",
+  "#CHAP12": "Vše, co zůstalo",
+  "#CHAP13": "Pokání",
+  "#CHAP14": "Krvavé pouto",
+  "#CHAP15": "Rozpomenutí",
+  "#CHAP16": "Korunovace",
+  "#CHAP17": "Všichni za jednoho"
+}

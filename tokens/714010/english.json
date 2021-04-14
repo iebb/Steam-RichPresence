@@ -1,0 +1,4 @@
+{
+  "#MapStatus": "%SCORE%  on %MAP%",
+  "#MapStatusWithGun": "%SCORE% on %MAP% with %GUN%"
+}

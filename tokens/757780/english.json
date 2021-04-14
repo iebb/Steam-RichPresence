@@ -1,0 +1,7 @@
+{
+  "#Status_InMainMenu": "In the main menu",
+  "#Status_InALobby": "In a Lobby",
+  "#Status_InGameMultiplayer": "Playing on %MapName%",
+  "#Status_InGameSingleplayer": "Playing the Campaign",
+  "#Status_InGameCO_OP": "Playing the Campaign with friends"
+}

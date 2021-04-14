@@ -1,0 +1,7 @@
+{
+  "#CollapseConfiguring": "Configuring the Collapse",
+  "#CollapseInGame": "%agents% Survivors | %datetime%",
+  "#CollapseGameOver": "Colony Destroyed | %datetime%",
+  "#CollapseDefault": "Surviving the Collapse",
+  "#CollapseCustomString": "%string%"
+}

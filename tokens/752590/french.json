@@ -1,0 +1,22 @@
+{
+  "#StatusIdle": "Sans activité",
+  "#StatusMenu": "Dans les menus",
+  "#StatusPlaying": "Joue : {#%chapter%}",
+  "#CHAP01": "L'héritage des de Rune",
+  "#CHAP02": "Les étrangers",
+  "#CHAP03": "Châtiment",
+  "#CHAP04": "L'apprenti",
+  "#CHAP05": "Le butin des corbeaux",
+  "#CHAP06": "Marchandise endommagée",
+  "#CHAP07": "Le chemin qui nous attend",
+  "#CHAP08": "Chez nous",
+  "#CHAP09": "Dans l'ombre des remparts",
+  "#CHAP10": "Le chemin des roses",
+  "#CHAP11": "En vie",
+  "#CHAP12": "Tout ce qu'il reste",
+  "#CHAP13": "Pénitence",
+  "#CHAP14": "Les liens du sang",
+  "#CHAP15": "Réminiscence",
+  "#CHAP16": "Le sacre",
+  "#CHAP17": "L'un pour l'autre"
+}

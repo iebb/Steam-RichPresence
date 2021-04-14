@@ -1,0 +1,10 @@
+{
+  "#rich_presence_main_menu": "Dans le menu principal",
+  "#rich_presence_campaign": "Joue en mode campagne",
+  "#rich_presence_online_lobby": "Dans le hall en ligne",
+  "#rich_presence_online_match": "Joue à une partie en ligne",
+  "#rich_presence_skirmish_lobby": "Crée une escarmouche",
+  "#rich_presence_skirmish_match": "Joue à une escarmouche",
+  "#rich_presence_lan_lobby": "Dans le hall LAN",
+  "#rich_presence_lan_match": "Joue une partie LAN"
+}

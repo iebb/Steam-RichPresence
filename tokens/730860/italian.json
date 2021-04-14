@@ -1,0 +1,10 @@
+{
+  "#rich_presence_main_menu": "Nel menu principale",
+  "#rich_presence_campaign": "Campagna in corso",
+  "#rich_presence_online_lobby": "Nella lobby online",
+  "#rich_presence_online_match": "Partita online in corso",
+  "#rich_presence_skirmish_lobby": "Creazione schermaglia in corso",
+  "#rich_presence_skirmish_match": "Partita con schermaglia in corso",
+  "#rich_presence_lan_lobby": "Nella lobby LAN",
+  "#rich_presence_lan_match": "Partita LAN in corso"
+}

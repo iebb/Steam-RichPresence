@@ -1,0 +1,22 @@
+{
+  "#StatusIdle": "Brak aktywności",
+  "#StatusMenu": "W menu",
+  "#StatusPlaying": "W trakcie gry: {#%chapter%}",
+  "#CHAP01": "Dziedzictwo rodu de Rune",
+  "#CHAP02": "Nieznajomi",
+  "#CHAP03": "Odwet",
+  "#CHAP04": "Uczeń",
+  "#CHAP05": "Czas kruków",
+  "#CHAP06": "Wybrakowany towar",
+  "#CHAP07": "Droga przed nami",
+  "#CHAP08": "Nasz dom",
+  "#CHAP09": "W cieniu zamkowych murów",
+  "#CHAP10": "Ścieżka wśród róż",
+  "#CHAP11": "Żyjemy",
+  "#CHAP12": "Okruchy przeszłości",
+  "#CHAP13": "Pokuta",
+  "#CHAP14": "Więzy krwi",
+  "#CHAP15": "Ku pamięci",
+  "#CHAP16": "Koronacja",
+  "#CHAP17": "Wszyscy za jednego"
+}

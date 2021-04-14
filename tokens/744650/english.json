@@ -1,0 +1,12 @@
+{
+  "#Status_MainMenu": "Main Menu",
+  "#Status_PreGame": "Pre-Game - {%difficulty%} - %map%",
+  "#Status_GameInProgress": "Wave %wavenum% - {%difficulty%} - %map%",
+  "#Status_GameEnd": "{%winlose%} - Wave %wavenum% - {%difficulty%} - %map%",
+  "#Win": "Won",
+  "#Lose": "Lost",
+  "#Easy": "Easy",
+  "#Normal": "Normal",
+  "#Hard": "Hard",
+  "#Nightmare": "Serious"
+}
