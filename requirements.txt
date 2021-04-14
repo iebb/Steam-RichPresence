@@ -1,0 +1,17 @@
+cachetools==4.2.1
+certifi==2020.12.5
+chardet==4.0.0
+gevent==21.1.2
+gevent-eventemitter==2.1
+greenlet==1.0.0
+idna==2.10
+protobuf==3.15.8
+pycryptodomex==3.10.1
+requests==2.25.1
+six==1.15.0
+steam==1.2.0
+tqdm==4.60.0
+urllib3==1.26.4
+vdf==3.3
+zope.event==4.5.0
+zope.interface==5.3.0
