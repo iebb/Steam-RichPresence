@@ -1,0 +1,5 @@
+{
+  "#Status_MainMenu": "Main Menu",
+  "#Status_PreGameLobby": "Pregame: %map%",
+  "#Status_InGame": "In Game: %map% %round%/%totalround%"
+}

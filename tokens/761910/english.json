@@ -1,0 +1,15 @@
+{
+  "#AtMainMenu": "Main Menu",
+  "#WaitingForMatch": "Waiting in Lobby: Quickplay",
+  "#WaitingForCustom": "Waiting in Lobby: Custom Match",
+  "#PlayingLocalMatch": "Playing: Local Match",
+  "#PlayingCustomMatch": "Playing: Custom Match",
+  "#PlayingTutorial": "Playing: Tutorial",
+  "#PlayingCampaign": "Playing: Campaign",
+  "#PlayingPractice": "Playing: Practice Mode",
+  "#PlayingMode": "Playing: {#Mode_%mode%}",
+  "#PlayingAIMode": "Playing: AI {#Mode_%mode%}",
+  "#Mode_Duel": "Duel",
+  "#Mode_Chaos": "Chaos",
+  "#Mode_Alliance": "Alliance"
+}
