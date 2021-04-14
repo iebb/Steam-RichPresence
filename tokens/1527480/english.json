@@ -1,0 +1,6 @@
+{
+  "#MainMenu": "Main Menu",
+  "#LevelSelect": "Level Select - %star_count% stars",
+  "#InLevel": "In level: %level_name%",
+  "#WatchingReplay": "Watching a replay"
+}
