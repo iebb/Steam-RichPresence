@@ -1,0 +1,12 @@
+{
+  "#Status_Menu": "{#Menus}",
+  "#Menus": "Preparing the ride.",
+  "#Status_Riding": "{#Riding}- {#Progress}",
+  "#Section": "Section",
+  "#Riding": "Riding down '%trail%'{#tod_%tod%}",
+  "#Progress": "%csec%/%tsec% in %eltime%",
+  "#Status_Finished": "{#Finished}",
+  "#Finished": "Finished %trail% in %ttime%{#time_%tod%}",
+  "#time_day": " ",
+  "#time_night": " at night "
+}
