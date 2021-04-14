@@ -1,0 +1,13 @@
+{
+  "#Status_LastMoobaStanding": "Последний выживший",
+  "#Status_Deathmatch": "Каждый за себя",
+  "#Status_TeamDeathmatch": "Командный бой",
+  "#Status_PlayingOrbRush": "Охота за сферами",
+  "#Status_PlayingTeamOrbRush": "Командная охота за сферами",
+  "#Status_Adventure": "Режим приключения",
+  "#Status_Adventuresanity": "Режим безумного приключения",
+  "#Status_Survival": "Выживание",
+  "#Status_OnlinePlay": "Сетевая игра",
+  "#Status_LocalPlay": "Локальная игра",
+  "#Status_CustomRoom": "Сетевая игра"
+}

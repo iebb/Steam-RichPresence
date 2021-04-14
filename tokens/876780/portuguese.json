@@ -1,0 +1,14 @@
+{
+  "#Status_AtMainMenu": "No menu principal",
+  "#Status_InLobby": "No lobby - Esperando",
+  "#Status_InLobbyStarting": "No lobby - Iniciar",
+  "#Status_MatchStatus": "Em jogo - %map% [{#Status_%team%} - {#Status_%class%}]",
+  "#Status_Won": "A partida terminou - VITÓRIA - %map%",
+  "#Status_Lost": "A partida terminou: DERROTA - %map%",
+  "#Status_Draw": "Match ended: DRAW - %map%",
+  "#Status_TeamBlue": "Azul",
+  "#Status_TeamRed": "Vermelho",
+  "#Status_ClassArcher": "Arqueiro",
+  "#Status_ClassWarrior": "Guerreiro",
+  "#Status_MakingMatch": "Criando uma correspondência personalizada"
+}

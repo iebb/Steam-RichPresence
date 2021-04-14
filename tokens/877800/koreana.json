@@ -1,0 +1,13 @@
+{
+  "#Status_LastMoobaStanding": "최후의 생존 무바",
+  "#Status_Deathmatch": "데스매치",
+  "#Status_TeamDeathmatch": "팀 데스매치",
+  "#Status_PlayingOrbRush": "구슬 러시",
+  "#Status_PlayingTeamOrbRush": "팀 구슬 러시",
+  "#Status_Adventure": "모험",
+  "#Status_Adventuresanity": "광란의 모험",
+  "#Status_Survival": "생존",
+  "#Status_OnlinePlay": "온라인 플레이",
+  "#Status_LocalPlay": "로컬 플레이",
+  "#Status_CustomRoom": "온라인 플레이"
+}

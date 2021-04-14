@@ -1,0 +1,6 @@
+{
+  "#InTitleScreen": "Op het titelscherm",
+  "#InPauseScreen": "Gepauzeerd",
+  "#InStageSelectScreen": "Niveau selecteren",
+  "#Playing": "Poging %attempt% van Niveau %world%-%level%"
+}

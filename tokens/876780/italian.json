@@ -1,0 +1,14 @@
+{
+  "#Status_AtMainMenu": "Nella menu principale",
+  "#Status_InLobby": "Nella lobby - Aspeta",
+  "#Status_InLobbyStarting": "Nella lobby - Iniziare",
+  "#Status_MatchStatus": "In gioco - %map% [{#Status_%team%} - {#Status_%class%}]",
+  "#Status_Won": "Il gioco è conclusa: VITTORIA - %map%",
+  "#Status_Lost": "Il gioco è conclusa: SCONFITTA - %map%",
+  "#Status_Draw": "Match ended: DRAW - %map%",
+  "#Status_TeamBlue": "Blu",
+  "#Status_TeamRed": "Rosso",
+  "#Status_ClassArcher": "Arciere",
+  "#Status_ClassWarrior": "Combattente",
+  "#Status_MakingMatch": "Creazione di un incontro personalizzato"
+}

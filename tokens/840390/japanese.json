@@ -1,0 +1,10 @@
+{
+  "#RP_InMainMenu": "スタートピアをプレイする",
+  "#RP_PlayingCampaign": "スタートピアキャンペーンをプレイする",
+  "#RP_PlayingCampaignMultiplayer": "スタートピアキャンペーンをCo-opでプレイする",
+  "#RP_PlayingSkirmish": "スタートピア攻防戦マップをプレイする",
+  "#RP_PlayingSkirmishMultiplayer": "スタートピア攻防戦マップをマルチプレイでプレイする",
+  "#RP_WaitingForPlayersSkirmish": "スタートピア攻防戦マップの追加プレーヤーを待機中",
+  "#RP_WaitingForPlayersCoop": "スタートピアキャンペーンのCo-opプレーヤーを待機中",
+  "#RP_WaitingForQuickgame": "マルチプレイゲームの追加プレーヤーを待機中"
+}

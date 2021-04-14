@@ -1,0 +1,10 @@
+{
+  "#RP_InMainMenu": "Joga Startopia",
+  "#RP_PlayingCampaign": "Joga a campanha Startopia",
+  "#RP_PlayingCampaignMultiplayer": "Joga a campanha Startopia no cooperativo",
+  "#RP_PlayingSkirmish": "Joga um mapa de conflito de Startopia",
+  "#RP_PlayingSkirmishMultiplayer": "Joga um mapa de conflito de Startopia em multijogador",
+  "#RP_WaitingForPlayersSkirmish": "Aguardando jogadores adicionais para um mapa de conflito de Startopia",
+  "#RP_WaitingForPlayersCoop": "Aguardando jogadores em cooperação para a campanha Startopia",
+  "#RP_WaitingForQuickgame": "Aguardando jogadores adicionais para um jogo multijogador"
+}

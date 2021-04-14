@@ -1,0 +1,22 @@
+{
+  "#StatusMainMenu": "I huvudmeny",
+  "#StatusVersusMode": "Spelar i Matchläge",
+  "#StatusFantasyDraftMode": "Spelar i Fantasy draft läge",
+  "#statusChallengeMode": "Spelar i Utmanarläge",
+  "#StatusCreateClubMode": "Spelar i Skapa-en-klubb läge",
+  "#StatusCareerMode": "Spelar karriärläge",
+  "#StatusCareerModeUnemployed": "Spelar karriärläge - arbetslös",
+  "#StatusCareerModeOneTeam": "Spelar karriärläge - Manager för %TeamOne%",
+  "#StatusCareerModeTwoTeams": "Spelar karriärläge - Manager för %TeamOne% och %TeamTwo%",
+  "#StatusNegotiatingBuyingPlayer": "Förhandlar om att köpa %PersonOne%",
+  "#StatusNegotiatingSellingPlayer": "Förhandlar om att säljal %PersonOne%",
+  "#StatusNegotiatingContract": "Diskuterar kontrakt med %PersonOne%",
+  "#StatusMatchWatching": "Tittar på en match - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWatchingPenalties": "Tittar på straffsparksläggning - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchDrawing": "Spelar oavgjort - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchDrawingPenalties": "Lika i straffsparksläggning - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWinning": "I ledning - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWinningPenalties": "Vinner på extrastraffar - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchLosing": "Förlorar - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchLosingPenalties": "Ligger efter på extrastraffar - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
+}

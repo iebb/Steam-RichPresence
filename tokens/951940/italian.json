@@ -1,0 +1,6 @@
+{
+  "#InTitleScreen": "Sulla schermata del titolo",
+  "#InPauseScreen": "In pausa",
+  "#InStageSelectScreen": "Selezione livello",
+  "#Playing": "Al tentativo %attempt% del livello %world%-%level%"
+}

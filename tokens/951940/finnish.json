@@ -1,0 +1,6 @@
+{
+  "#InTitleScreen": "Otsikkonäytössä",
+  "#InPauseScreen": "Tauko",
+  "#InStageSelectScreen": "Valitaan jaksoa",
+  "#Playing": "Yrityksellä %attempt% jaksosta %world%-%level%"
+}

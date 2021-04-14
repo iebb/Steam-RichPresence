@@ -1,0 +1,13 @@
+{
+  "#StatusInGame": "{#StatusInGame_%sector%}",
+  "#StatusInGame_Default ": "Das Älteste Haus",
+  "#StatusInGame_Research": "Forschungssektor",
+  "#StatusInGame_Maintainance ": "Wartungssektor",
+  "#StatusInGame_Containment ": "Isolationssektor",
+  "#StatusInGame_Executive": "Geschäftsleitungssektor",
+  "#StatusInGame_Expedition": "Expeditionen",
+  "#StatusInGame_Unknown": "Extradimensionaler Raum",
+  "#StatusInGame_Foundation": "Das Fundament",
+  "#StatusInGame_Investigations": "Untersuchungssektor",
+  "#StatusInGame_Arcade": "Arcade-Modus"
+}

@@ -1,0 +1,14 @@
+{
+  "#Status_AtMainMenu": "V hlavní nabídce",
+  "#Status_InLobby": "V lobby - Čekám",
+  "#Status_InLobbyStarting": "V lobby - Začínáme",
+  "#Status_MatchStatus": "V zápase - %map% [{#Status_%team%} - {#Status_%class%}]",
+  "#Status_Won": "Zápas skončil: VÍTĚZSTVÍ - %map%",
+  "#Status_Lost": "Zápas skončil: PORÁŽKA - %map%",
+  "#Status_Draw": "Match ended: DRAW - %map%",
+  "#Status_TeamBlue": "Modrý",
+  "#Status_TeamRed": "Červené",
+  "#Status_ClassArcher": "Lukostřelec",
+  "#Status_ClassWarrior": "Bojovník",
+  "#Status_MakingMatch": "Vytvoření vlastní shody"
+}

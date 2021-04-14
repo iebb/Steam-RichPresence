@@ -1,0 +1,6 @@
+{
+  "#InTitleScreen": "Ekran powitalny",
+  "#InPauseScreen": "Pauza",
+  "#InStageSelectScreen": "Wybór poziomu",
+  "#Playing": "Poziom %world%-%level%, podejście %attempt%"
+}

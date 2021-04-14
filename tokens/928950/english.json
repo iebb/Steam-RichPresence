@@ -1,0 +1,20 @@
+{
+  "#relaxing": "Meditating",
+  "#coffee": "With the holy spirit",
+  "#jurgen": "Watching Jurgen",
+  "#Poker": "Playing poker",
+  "#roulette": "Playing roulette",
+  "#gold": "Beyond the golden door",
+  "#weeb": "In the WeebTrapper9000",
+  "#flag": "Studying flags",
+  "#defrag": "Rocket jumping",
+  "#helicopter": "Boss fight",
+  "#blockcraft": "In BlockCraft",
+  "#Status_AtMainMenu": "Main menu",
+  "#Status_EndGameMenu": "Scoreboard",
+  "#scoreboard": "%levelname% Scoreboard: %score%",
+  "#Status_InGame": "%levelname%",
+  "#dead2": "Dead :< %levelname%",
+  "#DEAD": "Dead :<",
+  "#GameStatus": "%levelname%: %score%"
+}

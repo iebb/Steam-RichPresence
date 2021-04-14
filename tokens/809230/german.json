@@ -1,0 +1,10 @@
+{
+  "#status_in_menu": "In Menü",
+  "#status_scenario_editor": "Im Szenarioeditor",
+  "#status_in_map_editor": "Im Karteneditor",
+  "#Status_Playing": "Spielt %scenario% als {#faction_%faction%}",
+  "#faction_allies": "Alliierte",
+  "#faction_axis": "Achsenmächte",
+  "#faction_neutral": "Neutral",
+  "#faction_soviet": "UdSSR"
+}

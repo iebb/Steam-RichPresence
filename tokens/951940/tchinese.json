@@ -1,0 +1,6 @@
+{
+  "#InTitleScreen": "在主題熒幕",
+  "#InPauseScreen": "暫停",
+  "#InStageSelectScreen": "選擇關卡",
+  "#Playing": "正嘗試%world%-%level%關的%attempt%次"
+}

@@ -1,0 +1,10 @@
+{
+  "#RP_InMainMenu": "스타토피아 플레이",
+  "#RP_PlayingCampaign": "스타토피아 캠페인 플레이",
+  "#RP_PlayingCampaignMultiplayer": "스타토피아 캠페인 플레이(협동)",
+  "#RP_PlayingSkirmish": "스타토피아 스커미시 맵 플레이",
+  "#RP_PlayingSkirmishMultiplayer": "스타토피아 스커미시 맵 플레이(멀티)",
+  "#RP_WaitingForPlayersSkirmish": "스타토피아 스커미시 맵: 추가 플레이어를 기다리는 중",
+  "#RP_WaitingForPlayersCoop": "스타토피아 캠페인: 협동 플레이어 기다리는 중",
+  "#RP_WaitingForQuickgame": "멀티플레이 게임: 추가 플레이어를 기다리는 중"
+}

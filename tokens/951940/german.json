@@ -1,0 +1,6 @@
+{
+  "#InTitleScreen": "Auf dem Hauptbildschirm",
+  "#InPauseScreen": "Pause",
+  "#InStageSelectScreen": "Levelauswahl",
+  "#Playing": "Bei Versuch %attempt% von Level %world%-%level%"
+}

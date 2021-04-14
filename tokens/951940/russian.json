@@ -1,0 +1,6 @@
+{
+  "#InTitleScreen": "На титульном экране",
+  "#InPauseScreen": "На паузе",
+  "#InStageSelectScreen": "Выбор уровня",
+  "#Playing": "Попытка %attempt% пройти уровень %world%-%level%"
+}

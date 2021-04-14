@@ -1,0 +1,13 @@
+{
+  "#StatusInGame": "{#StatusInGame_%sector%}",
+  "#StatusInGame_Default ": "La Casa Inmemorial",
+  "#StatusInGame_Research": "Sector de investigación",
+  "#StatusInGame_Maintainance ": "Sector de mantenimiento",
+  "#StatusInGame_Containment ": "Sector de contención",
+  "#StatusInGame_Executive": "Sector ejecutivo",
+  "#StatusInGame_Expedition": "Expediciones",
+  "#StatusInGame_Unknown": "Espacio extradimensional",
+  "#StatusInGame_Foundation": "La Fundación",
+  "#StatusInGame_Investigations": "Sector de Investigaciones",
+  "#StatusInGame_Arcade": "Modo Arcade"
+}

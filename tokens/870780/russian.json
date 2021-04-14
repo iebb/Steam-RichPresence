@@ -1,0 +1,13 @@
+{
+  "#StatusInGame": "{#StatusInGame_%sector%}",
+  "#StatusInGame_Default ": "Старейший дом",
+  "#StatusInGame_Research": "Сектор исследований",
+  "#StatusInGame_Maintainance ": "Сектор обслуживания",
+  "#StatusInGame_Containment ": "Сектор содержания",
+  "#StatusInGame_Executive": "Сектор управления",
+  "#StatusInGame_Expedition": "Экспедиции",
+  "#StatusInGame_Unknown": "Экстрамерное пространство",
+  "#StatusInGame_Foundation": "Основание",
+  "#StatusInGame_Investigations": "Сектор расследований",
+  "#StatusInGame_Arcade": "Аркада"
+}

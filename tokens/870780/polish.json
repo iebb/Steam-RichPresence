@@ -1,0 +1,13 @@
+{
+  "#StatusInGame": "{#StatusInGame_%sector%}",
+  "#StatusInGame_Default ": "Najstarsza siedziba",
+  "#StatusInGame_Research": "Sektor badawczy",
+  "#StatusInGame_Maintainance ": "Sektor techniczny",
+  "#StatusInGame_Containment ": "Sektor zamknięty",
+  "#StatusInGame_Executive": "Sektor kierowniczy",
+  "#StatusInGame_Expedition": "Ekspedycje",
+  "#StatusInGame_Unknown": "Przestrzeń międzywymiarowa",
+  "#StatusInGame_Foundation": "Fundament",
+  "#StatusInGame_Investigations": "Sektor śledczy",
+  "#StatusInGame_Arcade": "Tryb arkadowy"
+}

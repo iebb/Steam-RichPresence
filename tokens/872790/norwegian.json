@@ -1,0 +1,22 @@
+{
+  "#StatusMainMenu": "I hovedmeny",
+  "#StatusVersusMode": "Spiller versus-modus",
+  "#StatusFantasyDraftMode": "Spiller fantasydraft-modus",
+  "#statusChallengeMode": "Spiller utfordrings-modus",
+  "#StatusCreateClubMode": "Spiller lag-en-klubb-modus",
+  "#StatusCareerMode": "Spiller karriere-modus",
+  "#StatusCareerModeUnemployed": "Spiller karriere-modus - for tiden arbeidsledig",
+  "#StatusCareerModeOneTeam": "Spiller karriere-modus - Styrer %TeamOne%",
+  "#StatusCareerModeTwoTeams": "Spiller karriere-modus - Styrer %TeamOne% og %TeamTwo%",
+  "#StatusNegotiatingBuyingPlayer": "Forhandler om kjøp av %PersonOne%",
+  "#StatusNegotiatingSellingPlayer": "Forhandler om salg av %PersonOne%",
+  "#StatusNegotiatingContract": "Forhandler kontrakt med %PersonOne%",
+  "#StatusMatchWatching": "Ser på en kamp - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWatchingPenalties": "Ser på straffer - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchDrawing": "Spiller uavgjort - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchDrawingPenalties": "Likt på straffer - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWinning": "Leder - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWinningPenalties": "Vinner på straffer - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchLosing": "Ligger under - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchLosingPenalties": "Ligger under på straffer - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
+}

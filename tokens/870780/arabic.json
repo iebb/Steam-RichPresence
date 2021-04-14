@@ -1,0 +1,13 @@
+{
+  "#StatusInGame": "{#StatusInGame_%sector%}",
+  "#StatusInGame_Default ": "المنشأة القديمة",
+  "#StatusInGame_Research": "قطاع الأبحاث",
+  "#StatusInGame_Maintainance ": "قطاع الصيانة",
+  "#StatusInGame_Containment ": "قطاع الاحتواء",
+  "#StatusInGame_Executive": "القطاع التنفيذي",
+  "#StatusInGame_Expedition": "البعثات",
+  "#StatusInGame_Unknown": "فضاء الأبعاد الخارجية",
+  "#StatusInGame_Foundation": "المؤسسة",
+  "#StatusInGame_Investigations": "قطاع التحقيقات",
+  "#StatusInGame_Arcade": "وضع الأركيد"
+}

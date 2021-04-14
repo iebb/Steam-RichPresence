@@ -1,0 +1,13 @@
+{
+  "#StatusInGame": "{#StatusInGame_%sector%}",
+  "#StatusInGame_Default": "The Oldest House",
+  "#StatusInGame_Research": "Research Sector",
+  "#StatusInGame_Maintainance": "Maintenance Sector",
+  "#StatusInGame_Containment": "Containment Sector",
+  "#StatusInGame_Executive": "Executive Sector",
+  "#StatusInGame_Expedition": "Expeditions",
+  "#StatusInGame_Unknown": "Extradimensional Space",
+  "#StatusInGame_Foundation": "The Foundation",
+  "#StatusInGame_Investigations": "Investigations Sector",
+  "#StatusInGame_Arcade": "Arcade Mode"
+}

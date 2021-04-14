@@ -1,0 +1,14 @@
+{
+  "#Status_AtMainMenu": "В главното меню",
+  "#Status_InLobby": "Във лоби - Чакане",
+  "#Status_InLobbyStarting": "Във лоби - Стартиране",
+  "#Status_MatchStatus": "В мач - %map% [{#Status_%team%} - {#Status_%class%}]",
+  "#Status_Won": "Мачът завърши: ПОБЕДА - %map%",
+  "#Status_Lost": "Мачът завърши: ПОРАЖЕНИЕ - %map%",
+  "#Status_Draw": "Match ended: DRAW - %map%",
+  "#Status_TeamBlue": "Син",
+  "#Status_TeamRed": "Червен",
+  "#Status_ClassArcher": "Cтрелец с лък",
+  "#Status_ClassWarrior": "Войник",
+  "#Status_MakingMatch": "Създаване на персонализирано съвпадение"
+}

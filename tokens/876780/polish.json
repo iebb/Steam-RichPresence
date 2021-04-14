@@ -1,0 +1,14 @@
+{
+  "#Status_AtMainMenu": "W menu głównym",
+  "#Status_InLobby": "W lobby - Oczekiwanie",
+  "#Status_InLobbyStarting": "W lobby - Rozpoczęcie",
+  "#Status_MatchStatus": "W meczu - %map% [{#Status_%team%} - {#Status_%class%}]",
+  "#Status_Won": "Mecz zakończony: ZWYCIĘSTWO - %map%",
+  "#Status_Lost": "Mecz zakończony: POKONAĆ - %map%",
+  "#Status_Draw": "Match ended: DRAW - %map%",
+  "#Status_TeamBlue": "Niebieski",
+  "#Status_TeamRed": "Czerwony",
+  "#Status_ClassArcher": "Łucznik",
+  "#Status_ClassWarrior": "Wojownik",
+  "#Status_MakingMatch": "Tworzenie niestandardowego dopasowania"
+}

@@ -1,0 +1,14 @@
+{
+  "#Status_AtMainMenu": "在主菜单上",
+  "#Status_InLobby": "在大厅 - 等待",
+  "#Status_InLobbyStarting": "在大厅 - 开始",
+  "#Status_MatchStatus": "在比赛中 - %map% [{#Status_%team%} - {#Status_%class%}]",
+  "#Status_Won": "比赛结束：胜利 - %map%",
+  "#Status_Lost": "比赛结束：失败 - %map%",
+  "#Status_Draw": "Match ended: DRAW - %map%",
+  "#Status_TeamBlue": "蓝色",
+  "#Status_TeamRed": "红色",
+  "#Status_ClassArcher": "射手",
+  "#Status_ClassWarrior": "战士",
+  "#Status_MakingMatch": "创建自定义匹配"
+}

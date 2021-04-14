@@ -1,0 +1,5 @@
+{
+  "#Status_LevelEditor": "Creating in Level Editor",
+  "#Status_MainMenu": "Chirping in Main Menu",
+  "#Status_Defending": "Defending %levelname%: %difficulty%"
+}

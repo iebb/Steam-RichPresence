@@ -1,0 +1,14 @@
+{
+  "#Status_AtMainMenu": "Στο κύριο μενού",
+  "#Status_InLobby": "Στο λόμπι - Αναμονή",
+  "#Status_InLobbyStarting": "Στο λόμπι - Ξεκινώντας",
+  "#Status_MatchStatus": "Στο αγώνα - %map% [{#Status_%team%} - {#Status_%class%}]",
+  "#Status_Won": "Ο αγώνας τελείωσε: ΝΊΚΗ - %map%",
+  "#Status_Lost": "Ο αγώνας τελείωσε: ΉΤΤΑ - %map%",
+  "#Status_Draw": "Match ended: DRAW - %map%",
+  "#Status_TeamBlue": "Μπλε",
+  "#Status_TeamRed": "το κόκκινο",
+  "#Status_ClassArcher": "Τοξότης",
+  "#Status_ClassWarrior": "Πολεμιστής",
+  "#Status_MakingMatch": "Δημιουργία προσαρμοσμένης αντιστοίχισης"
+}

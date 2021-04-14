@@ -1,0 +1,12 @@
+{
+  "#at_main_menu": "В главном меню",
+  "#making_mods": "Создает моды",
+  "#managing_spaceport": "Управляет космодромом",
+  "#constructing_rocket": "Конструирует ракету",
+  "#planning_flight": "Планирует полет",
+  "#Flying": "Летает вокруг {#%body%}",
+  "#sun": "Солнца",
+  "#earth": "Земли",
+  "#moon": "Луны",
+  "#mars": "Марса"
+}

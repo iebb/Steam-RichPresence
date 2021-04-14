@@ -1,0 +1,11 @@
+{
+  "#StatusWithMap": "{#Status_Playing}: {#Map_%map%} ({#Lighting_%lighting%})",
+  "#Status_Playing": "Playing",
+  "#Status_AtMainMenu": "At the main menu",
+  "#Lighting_Day": "Day",
+  "#Lighting_Night": "Night",
+  "#Map_Pegasus": "Pegasus Bridge",
+  "#Map_Merville": "Merville Battery",
+  "#Map_Lion": "Lion-sur-Mer",
+  "#Map_Carpiquet": "Carpiquet"
+}

@@ -1,0 +1,8 @@
+{
+  "#Status": "{#Status_%activity_type%}",
+  "#Status_Menu": "In Menus",
+  "#Status_LobbyLocal": "In Local Lobby",
+  "#Status_LobbyOnline": "In Online Lobby - Players: %current_player_count%/%max_player_count%",
+  "#Status_MatchLocal": "In Local Match",
+  "#Status_MatchOnline": "In Online Match - Players: %current_player_count%/%max_player_count%"
+}

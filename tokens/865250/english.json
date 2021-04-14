@@ -1,0 +1,8 @@
+{
+  "#StatusWithoutSong": "{#Status_%gamestatus%}",
+  "#StatusWithSong": "{#Status_%gamestatus%}: %song%",
+  "#Status_Menu": "Menu",
+  "#Status_Lobby": "Lobby",
+  "#Status_PlayingOnline": "Playing Online",
+  "#Status_PlayingSolo": "Playing Solo"
+}

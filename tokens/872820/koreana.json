@@ -1,0 +1,22 @@
+{
+  "#StatusMainMenu": "메인 메뉴에 있음",
+  "#StatusVersusMode": "대결 모드 플레이 중",
+  "#StatusFantasyDraftMode": "가상 드래프트 모드 플레이 중",
+  "#statusChallengeMode": "도전 모드 플레이 중",
+  "#StatusCreateClubMode": "구단 생성 모드 플레이 중",
+  "#StatusCareerMode": "커리어 모드 플레이 중",
+  "#StatusCareerModeUnemployed": "커리어 모드 플레이 중 - 현재 무직 상태",
+  "#StatusCareerModeOneTeam": "커리어 모드 플레이 중 - %TeamOne% 감독 중",
+  "#StatusCareerModeTwoTeams": "커리어 모드 플레이 중 - %TeamOne% 및 %TeamTwo% 감독 중",
+  "#StatusNegotiatingBuyingPlayer": "%PersonOne% 영입 협상 중",
+  "#StatusNegotiatingSellingPlayer": "%PersonOne% 방출 협상 중",
+  "#StatusNegotiatingContract": "%PersonOne% 계약 협상 중",
+  "#StatusMatchWatching": "경기 관전 중 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWatchingPenalties": "페널티킥 관전 중 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchDrawing": "동점으로 경기 중 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchDrawingPenalties": "페널티킥으로 동점 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWinning": "경기에서 앞서는 중 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWinningPenalties": "승부차기에서 앞서는 중 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchLosing": "경기에서 끌려가는 중 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchLosingPenalties": "승부차기에서 밀리는 중 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
+}

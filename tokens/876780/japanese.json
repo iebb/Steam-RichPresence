@@ -1,0 +1,14 @@
+{
+  "#Status_AtMainMenu": "メインメニューで",
+  "#Status_InLobby": "ロビーで–待っています",
+  "#Status_InLobbyStarting": "ロビーで–開始",
+  "#Status_MatchStatus": "マッチで - %map% [{#Status_%team%} - {#Status_%class%}]",
+  "#Status_Won": "試合終了：勝利 - %map%",
+  "#Status_Lost": "試合終了：敗北 - %map%",
+  "#Status_Draw": "Match ended: DRAW - %map%",
+  "#Status_TeamBlue": "青",
+  "#Status_TeamRed": "赤",
+  "#Status_ClassArcher": "射手",
+  "#Status_ClassWarrior": "戦士",
+  "#Status_MakingMatch": "カスタムマッチを作成する"
+}

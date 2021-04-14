@@ -1,0 +1,20 @@
+{
+  "#StatusWithoutScore": "{#Status%gamestatus%}",
+  "#StatusWithScore": "{#Status%gamestatus%}: %score%",
+  "#Status_AtMainMenu": "At the main menu",
+  "#Status_WaitingForMatch": "Waiting for match",
+  "#Status_Winning": "Winning",
+  "#Status_Losing": "Losing",
+  "#Status_Tied": "Tied",
+  "#Status_Matchmaking": "Matchmaking",
+  "#Status_Lobby": "{#Lobby%Lobbystatus%}: %player%",
+  "#Status_Forrest": "Is in the forrest",
+  "#Status_Grave": "At the graveyard",
+  "#Status_Toxic Lakes": "It must be toxic",
+  "#Status_Mines": "Explore the mines",
+  "#Status_Fishing Lakes": "Looking for fish?",
+  "#Status_Farm": "On the farm",
+  "#Status_Dead Lands": "No water!",
+  "#Status_LAND OF GODS": "Hello mummy!",
+  "#Status_Bunker 51": "Alien Invasion"
+}

@@ -1,0 +1,14 @@
+{
+  "#Status_AtMainMenu": "Im Hauptmenü",
+  "#Status_InLobby": "In dem Lobby - Warten",
+  "#Status_InLobbyStarting": "In dem Lobby - Starten",
+  "#Status_MatchStatus": "Im Spiel - %map% [{#Status_%team%} - {#Status_%class%}]",
+  "#Status_Won": "Spiel zu Ende: SIEG - %map%",
+  "#Status_Lost": "Spiel zu Ende: BESIEGT - %map%",
+  "#Status_Draw": "Match ended: DRAW - %map%",
+  "#Status_TeamBlue": "Blau",
+  "#Status_TeamRed": "Rot",
+  "#Status_ClassArcher": "Bogenschützer",
+  "#Status_ClassWarrior": "Krieger",
+  "#Status_MakingMatch": "Erstellen eines benutzerdefinierten Spiels"
+}

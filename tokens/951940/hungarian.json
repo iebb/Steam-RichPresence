@@ -1,0 +1,6 @@
+{
+  "#InTitleScreen": "A címképernyőn",
+  "#InPauseScreen": "Szünetel",
+  "#InStageSelectScreen": "Szint választása",
+  "#Playing": "%attempt%. kísérlet ezen a szinten: %world%-%level%"
+}

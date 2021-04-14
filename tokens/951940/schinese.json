@@ -1,0 +1,6 @@
+{
+  "#InTitleScreen": "标题界面",
+  "#InPauseScreen": "已暂停",
+  "#InStageSelectScreen": "选择关卡",
+  "#Playing": "第%attempt%次尝试关卡%world%-%level%"
+}

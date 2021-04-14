@@ -1,0 +1,13 @@
+{
+  "#StatusInGame": "{#StatusInGame_%sector%}",
+  "#StatusInGame_Default ": "オールデスト・ハウス",
+  "#StatusInGame_Research": "研究セクター",
+  "#StatusInGame_Maintainance ": "メンテナンス・セクター",
+  "#StatusInGame_Containment ": "収容セクター",
+  "#StatusInGame_Executive": "エグゼクティブ・セクター",
+  "#StatusInGame_Expedition": "調査",
+  "#StatusInGame_Unknown": "余剰次元空間",
+  "#StatusInGame_Foundation": "基盤",
+  "#StatusInGame_Investigations": "捜査セクター",
+  "#StatusInGame_Arcade": "アーケードモード"
+}

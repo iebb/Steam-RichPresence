@@ -1,0 +1,13 @@
+{
+  "#StatusInGame": "{#StatusInGame_%sector%}",
+  "#StatusInGame_Default ": "A Antiga Casa",
+  "#StatusInGame_Research": "Setor De Pesquisa",
+  "#StatusInGame_Maintainance ": "Setor de Manutenção",
+  "#StatusInGame_Containment ": "Setor de Contenção",
+  "#StatusInGame_Executive": "Setor Executivo",
+  "#StatusInGame_Expedition": "Expedições",
+  "#StatusInGame_Unknown": "Espaço Extra-Dimensional",
+  "#StatusInGame_Foundation": "A Fundação",
+  "#StatusInGame_Investigations": "Setor de Investigações",
+  "#StatusInGame_Arcade": "Modo Arcade"
+}

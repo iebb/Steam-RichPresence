@@ -1,0 +1,13 @@
+{
+  "#StatusInGame": "{#StatusInGame_%sector%}",
+  "#StatusInGame_Default ": "亙古之屋",
+  "#StatusInGame_Research": "研究區",
+  "#StatusInGame_Maintainance ": "維修區",
+  "#StatusInGame_Containment ": "隔離區",
+  "#StatusInGame_Executive": "行政區",
+  "#StatusInGame_Expedition": "考察",
+  "#StatusInGame_Unknown": "異次元空間",
+  "#StatusInGame_Foundation": "構成區",
+  "#StatusInGame_Investigations": "調查區",
+  "#StatusInGame_Arcade": "街機模式"
+}

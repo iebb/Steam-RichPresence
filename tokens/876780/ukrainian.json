@@ -1,0 +1,14 @@
+{
+  "#Status_AtMainMenu": "У головному меню",
+  "#Status_InLobby": "У вестибюлі - Очікування",
+  "#Status_InLobbyStarting": "У вестибюлі - Старт",
+  "#Status_MatchStatus": "У матчі - %map% [{#Status_%team%} - {#Status_%class%}]",
+  "#Status_Won": "Матч закінчився: ПЕРЕМОГА - %map%",
+  "#Status_Lost": "Матч закінчився: ПОВЕРХНІТЬ - %map%",
+  "#Status_Draw": "Match ended: DRAW - %map%",
+  "#Status_TeamBlue": "Синій",
+  "#Status_TeamRed": "Червоний",
+  "#Status_ClassArcher": "Лучник",
+  "#Status_ClassWarrior": "Воїн",
+  "#Status_MakingMatch": "Створення користувацької відповідності"
+}

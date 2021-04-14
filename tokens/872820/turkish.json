@@ -1,0 +1,22 @@
+{
+  "#StatusMainMenu": "Ana Menüde",
+  "#StatusVersusMode": "Kapışma modunda",
+  "#StatusFantasyDraftMode": "Fantezi Draft oynuyor",
+  "#statusChallengeMode": "Meydan Okuma modunu oynuyor",
+  "#StatusCreateClubMode": "Bir Kulüp Yarat modunu oynuyor",
+  "#StatusCareerMode": "Kariyer modunda",
+  "#StatusCareerModeUnemployed": "Kariyer modunda - Şu an boşta",
+  "#StatusCareerModeOneTeam": "%TeamOne% ile Kariyer modunda",
+  "#StatusCareerModeTwoTeams": "%TeamOne% ve %TeamTwo% ile Kariyer modunda",
+  "#StatusNegotiatingBuyingPlayer": "%PersonOne% için transfer pazarlığı yapıyor",
+  "#StatusNegotiatingSellingPlayer": "Oyuncu satmak için pazarlık yapıyor (%PersonOne%)",
+  "#StatusNegotiatingContract": "%PersonOne% ile sözleşme pazarlığı yapıyor",
+  "#StatusMatchWatching": "Maç izliyor - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWatchingPenalties": "Penaltıları izliyor - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchDrawing": "Şu an berabere - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchDrawingPenalties": "Penaltılarda durum berabere - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWinning": "Maçı önde götürüyor - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWinningPenalties": "Penaltılarda önde - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchLosing": "Şu an mağlup durumda - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchLosingPenalties": "Penaltılarda geride - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
+}

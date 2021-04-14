@@ -1,0 +1,7 @@
+{
+  "#Status_MainMenu": "In main menu",
+  "#Status_PlayingComputer": "Playing computer (level %computer_level%)",
+  "#Status_PlayingLocal": "Playing locally",
+  "#Status_PlayingOnline": "Playing online",
+  "#STATUS_TUTORIAL": "In tutorial"
+}

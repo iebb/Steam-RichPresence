@@ -1,0 +1,22 @@
+{
+  "#StatusMainMenu": "在開始介面上",
+  "#StatusVersusMode": "正在對戰模式中",
+  "#StatusFantasyDraftMode": "正在夢幻選秀模式中",
+  "#statusChallengeMode": "正在挑戰模式中",
+  "#StatusCreateClubMode": "正在創建球會模式中",
+  "#StatusCareerMode": "正在生涯模式中",
+  "#StatusCareerModeUnemployed": "正在生涯模式中-失業中",
+  "#StatusCareerModeOneTeam": "正在生涯模式中-執教 %TeamOne%",
+  "#StatusCareerModeTwoTeams": "正在生涯模式中-執教 %TeamOne% 和 %TeamTwo%",
+  "#StatusNegotiatingBuyingPlayer": "正在談判購買 %PersonOne%",
+  "#StatusNegotiatingSellingPlayer": "正在談判出售 %PersonOne%",
+  "#StatusNegotiatingContract": "正在與 %PersonOne% 談判新合約",
+  "#StatusMatchWatching": "正在觀看比賽 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWatchingPenalties": "正在觀看互射十二碼 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchDrawing": "比賽暫時打和 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchDrawingPenalties": "在互射十二碼中暫時打和 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWinning": "正在處於領先 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWinningPenalties": "正在互射十二碼中領先 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchLosing": "正在處於落後 - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchLosingPenalties": "正在互射十二碼中落後 - %- %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
+}

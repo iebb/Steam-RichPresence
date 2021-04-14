@@ -1,0 +1,4 @@
+{
+  "#BasicInfo": "%location%",
+  "#BasicStatus": "In %location% | Piloting: %mecha%"
+}

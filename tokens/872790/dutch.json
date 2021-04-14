@@ -1,0 +1,22 @@
+{
+  "#StatusMainMenu": "In Hoofdmenu",
+  "#StatusVersusMode": "Speel versus-modus",
+  "#StatusFantasyDraftMode": "Speel fantasy draft-modus",
+  "#statusChallengeMode": "Speel uitdaging-modus",
+  "#StatusCreateClubMode": "Speel Maak-een-club-modus",
+  "#StatusCareerMode": "Speel Carrière-modus",
+  "#StatusCareerModeUnemployed": "Speel Carrière-modus - Momenteel werkloos",
+  "#StatusCareerModeOneTeam": " Speel Carrière-modus - Manager %TeamOne%",
+  "#StatusCareerModeTwoTeams": " Speel Carrière-modus - Manager %TeamOne% en %TeamTwo%",
+  "#StatusNegotiatingBuyingPlayer": "Onderhandelen over aankoop %PersonOne%",
+  "#StatusNegotiatingSellingPlayer": "Onderhandelen over verkoop %PersonOne%",
+  "#StatusNegotiatingContract": "Onderhandelen over contract met %PersonOne%",
+  "#StatusMatchWatching": "Kijken naar een wedstrijd - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWatchingPenalties": "Kijken naar een strafschoppenreeks - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchDrawing": "Gelijkspelen in een wedstrijd - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchDrawingPenalties": "Gelijk na strafschoppen - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWinning": "Op Voorsprong - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWinningPenalties": "Strafschoppenreeks gewonnen - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchLosing": "Op achterstand - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchLosingPenalties": "Op achterstand in strafschoppenreeks - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
+}

@@ -1,0 +1,14 @@
+{
+  "#Status_AtMainMenu": "A főmenüben",
+  "#Status_InLobby": "Előcsarnokban - Várakozás",
+  "#Status_InLobbyStarting": "Előcsarnokban - Indulás",
+  "#Status_MatchStatus": "Mérkőzésen - %map% [{#Status_%team%} - {#Status_%class%}]",
+  "#Status_Won": "A mérkőzés véget ért: GYŐZELEM - %map%",
+  "#Status_Lost": "A mérkőzés véget ért: VERESÉG - %map%",
+  "#Status_Draw": "Match ended: DRAW - %map%",
+  "#Status_TeamBlue": "Kék",
+  "#Status_TeamRed": "Piros",
+  "#Status_ClassArcher": "Íjász",
+  "#Status_ClassWarrior": "Harcos",
+  "#Status_MakingMatch": "Egyéni egyezés létrehozása"
+}

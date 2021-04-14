@@ -1,0 +1,18 @@
+{
+  "#Status_GameManager": "Game Manager",
+  "#Status_GameConfiguration": "Game Configuration",
+  "#Status_VoxelEditor": "Voxel Editor",
+  "#Status_MapEditor": "Map Editor",
+  "#Status_ScriptEditor": "Script Editor",
+  "#Status_DialogueEditor": "Dialogue Editor",
+  "#Status_ThemeEditor": "Theme Editor",
+  "#Status_MainMenuEditor": "Main Menu Editor",
+  "#Status_CreditsEditor": "Credits Editor",
+  "#Status_ItemEditor": "Item Editor",
+  "#Status_CombatEditor": "Combat Editor",
+  "#Status_StatsEditor": "Stats Editor",
+  "#Status_Documentation": "Documentation",
+  "#Status_SoundFXGenerator": "Sound FX Generator",
+  "#Status_AssetLibrary": "Asset Library",
+  "#Status_EditorSettings": "Editor Settings"
+}

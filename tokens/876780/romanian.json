@@ -1,0 +1,14 @@
+{
+  "#Status_AtMainMenu": "In meniu",
+  "#Status_InLobby": "In lobby - Asteapta",
+  "#Status_InLobbyStarting": "In lobby - Incepe",
+  "#Status_MatchStatus": "In meci - %map% [{#Status_%team%} - {#Status_%class%}]",
+  "#Status_Won": "Meci terminat: VICTORIE - %map%",
+  "#Status_Lost": "Meci terminat: INVINS - %map%",
+  "#Status_Draw": "Meci terminat: EGALITATE - %map%",
+  "#Status_TeamBlue": "Albastru",
+  "#Status_TeamRed": "Rosu",
+  "#Status_ClassArcher": "Arcas",
+  "#Status_ClassWarrior": "Razboinic",
+  "#Status_MakingMatch": "Face un meci custom"
+}

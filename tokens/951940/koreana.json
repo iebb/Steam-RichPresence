@@ -1,0 +1,6 @@
+{
+  "#InTitleScreen": "타이틀 화면",
+  "#InPauseScreen": "일시 중지됨",
+  "#InStageSelectScreen": "스테이지 선택",
+  "#Playing": "스테이지 %world%-%level%의 %attempt%번째 시도"
+}

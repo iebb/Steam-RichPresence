@@ -1,0 +1,22 @@
+{
+  "#StatusHovedmenu": "I hovedmenuen",
+  "#StatusVersusMode": "Spiller versus mode",
+  "#StatusFantasyDraftMode": "Spiller fantasy draft mode",
+  "#StatusUdfordringer": "Spiller udfordringer",
+  "#StatusSkabEnKlub": "Spiller Skab en Klub",
+  "#StatusKarriere": "Spiller Karriere",
+  "#StatusKarriereArbejdsløs": "Spiller karriere - Pt. arbejdsløs",
+  "#StatusKarriereÉtHold": "Spiller karriere - Er manager for %TeamOne%",
+  "#StatusKarriereToHold": "Spiller karriere - Er manager for %TeamOne% og %TeamTwo%",
+  "#StatusForhandlerOmAtKøbeSpiller": "Forhandler om at købe %PersonOne%",
+  "#StatusForhandlerOmAtSælgeSpiller": "Forhandler om at sælge %PersonOne%",
+  "#StatusForhandlerKontrakt": "Forhandler kontrakt med %PersonOne%",
+  "#StatusSerKamp": "Ser en kamp - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusSerStraffesparkskonkurrence": "Ser straffespark - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusUafgjortKamp": "Spiller uafgjort - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusUafgjortPåStraffespark": "Uafgjort på straffespark - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusVinderKamp": "Foran - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusVinderPåStraffespark": "Vinder en straffesparkskonkurrence - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusTaberKamp": "Bagud - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusTaberPåStraffespark": "Bagud i straffesparkskonkurrence - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
+}

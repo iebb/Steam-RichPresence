@@ -1,0 +1,10 @@
+{
+  "#RP_InMainMenu": "Играет в Startopia",
+  "#RP_PlayingCampaign": "Играет в Startopia (кампания)",
+  "#RP_PlayingCampaignMultiplayer": "Играет в Startopia (кампания в режиме совместной игры)",
+  "#RP_PlayingSkirmish": "Играет в Startopia (карта для боевого режима)",
+  "#RP_PlayingSkirmishMultiplayer": "Играет в Startopia (карта для многопользовательского боевого режима)",
+  "#RP_WaitingForPlayersSkirmish": "Ожидание других игроков для игры в боевом режиме «Startopia»",
+  "#RP_WaitingForPlayersCoop": "Ожидание других игроков для совместного прохождения кампании «Startopia»",
+  "#RP_WaitingForQuickgame": "Ожидание других игроков для игры в многопользовательском режиме «Startopia»"
+}

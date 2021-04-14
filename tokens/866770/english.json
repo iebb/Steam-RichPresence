@@ -1,0 +1,6 @@
+{
+  "#StatusNone": "Making important decisions",
+  "#StatusPractice": "Practicing with robot teammates! (%gamedifficulty%)",
+  "#StatusMultiplayer": "Working together as a Spaceteam with %gamenumplayers% others (%gamedifficulty%)",
+  "#StatusFaceToFace": "Working together Face To Face as a Spaceteam with %gamenumplayers% others (%gamedifficulty%)"
+}

@@ -1,0 +1,6 @@
+{
+  "#InTitleScreen": "Na titulní obrazovce",
+  "#InPauseScreen": "Pozastaveno",
+  "#InStageSelectScreen": "Výběr úrovně",
+  "#Playing": "%attempt%. pokus o průchod úrovní %world%-%level%"
+}

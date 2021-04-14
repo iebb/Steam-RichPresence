@@ -1,0 +1,13 @@
+{
+  "#StatusInGame": "{#StatusInGame_%sector%}",
+  "#StatusInGame_Default ": "올디스트 하우스",
+  "#StatusInGame_Research": "연구 구역",
+  "#StatusInGame_Maintainance ": "유지관리 구역",
+  "#StatusInGame_Containment ": "격리 구역",
+  "#StatusInGame_Executive": "임원 구역",
+  "#StatusInGame_Expedition": "탐사",
+  "#StatusInGame_Unknown": "다른 차원의 공간",
+  "#StatusInGame_Foundation": "파운데이션",
+  "#StatusInGame_Investigations": "조사 구역",
+  "#StatusInGame_Arcade": "아케이드 모드"
+}

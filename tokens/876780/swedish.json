@@ -1,0 +1,14 @@
+{
+  "#Status_AtMainMenu": "På huvudmenyn",
+  "#Status_InLobby": "I lobbyn - Väntar",
+  "#Status_InLobbyStarting": "I lobbyn - Startande",
+  "#Status_MatchStatus": "I match - %map% [{#Status_%team%} - {#Status_%class%}]",
+  "#Status_Won": "Matchen slutade: SEGER - %map%",
+  "#Status_Lost": "Match ended: NEDERLAG - %map%",
+  "#Status_Draw": "Match ended: DRAW - %map%",
+  "#Status_TeamBlue": "Blå",
+  "#Status_TeamRed": "Röd",
+  "#Status_ClassArcher": "Bågskytt",
+  "#Status_ClassWarrior": "Krigare",
+  "#Status_MakingMatch": "Skapa en anpassad matchning"
+}

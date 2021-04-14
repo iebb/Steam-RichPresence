@@ -1,0 +1,14 @@
+{
+  "#Status_AtMainMenu": "В главном меню",
+  "#Status_InLobby": "B лобби - Ожидание",
+  "#Status_InLobbyStarting": "В лобби - Начиная",
+  "#Status_MatchStatus": "В матче - %map% [{#Status_%team%} - {#Status_%class%}]",
+  "#Status_Won": "Матч закончился: ПОБЕДА - %map%",
+  "#Status_Lost": "Матч закончился: ПОРАЖЕНИЕ - %map%",
+  "#Status_Draw": "Match ended: DRAW - %map%",
+  "#Status_TeamBlue": "Cиний",
+  "#Status_TeamRed": "Kрасный",
+  "#Status_ClassArcher": "Лучник",
+  "#Status_ClassWarrior": "Bоитель",
+  "#Status_MakingMatch": "Создание собственного матч"
+}

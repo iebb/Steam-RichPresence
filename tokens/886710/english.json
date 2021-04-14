@@ -1,0 +1,8 @@
+{
+  "#Status_Away": "(Away)",
+  "#Status_Desktop": "(Desktop)",
+  "#Status_VR": "(VR)",
+  "#MainMenu": "On the main menu {#Status_%gamestatus%}",
+  "#Singleplayer": "Playing on %world%  %gamemode% {#Status_%gamestatus%}",
+  "#multiplayer": "Playing on %world%, %players% players %gamemode% {#Status_%gamestatus%}"
+}

@@ -1,0 +1,10 @@
+{
+  "#status_in_menu": "正在检视菜单",
+  "#status_scenario_editor": "正在使用场景编辑器",
+  "#status_in_map_editor": "正在使用地图编辑器",
+  "#Status_Playing": "以{#faction_%faction%}游玩%scenario%",
+  "#faction_allies": "同盟国",
+  "#faction_axis": "轴心国",
+  "#faction_neutral": "中立国",
+  "#faction_soviet": "苏联"
+}

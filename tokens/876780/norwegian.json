@@ -1,0 +1,14 @@
+{
+  "#Status_AtMainMenu": "I hovedmenyen",
+  "#Status_InLobby": "I lobbyen - Venter",
+  "#Status_InLobbyStarting": "I lobbyen - Starter",
+  "#Status_MatchStatus": "I kampen - %map% [{#Status_%team%} - {#Status_%class%}]",
+  "#Status_Won": "Kamp over: SEIER - %map%",
+  "#Status_Lost": "Kamp over: NEDERLAG - %map%",
+  "#Status_Draw": "Match ended: DRAW - %map%",
+  "#Status_TeamBlue": "Blå",
+  "#Status_TeamRed": "Rød",
+  "#Status_ClassArcher": "Bueskytter",
+  "#Status_ClassWarrior": "Kriger",
+  "#Status_MakingMatch": "Oppretter en tilpasset kamp"
+}

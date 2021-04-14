@@ -1,0 +1,10 @@
+{
+  "#RP_InMainMenu": "Gra w Startopię",
+  "#RP_PlayingCampaign": "Gra w kampanię Startopii",
+  "#RP_PlayingCampaignMultiplayer": "Gra w kampanię Startopii w trybie kooperacji",
+  "#RP_PlayingSkirmish": "Gra w mapę potyczki Startopii",
+  "#RP_PlayingSkirmishMultiplayer": "Gra w mapę potyczki Startopii w trybie wieloosobowym",
+  "#RP_WaitingForPlayersSkirmish": "Oczekiwanie na dodatkowych graczy do mapy potyczki Startopii",
+  "#RP_WaitingForPlayersCoop": "Oczekiwanie na graczy do kampanii Startopii w trybie kooperacji",
+  "#RP_WaitingForQuickgame": "Oczekiwanie na dodatkowych graczy do gry wieloosobowej"
+}

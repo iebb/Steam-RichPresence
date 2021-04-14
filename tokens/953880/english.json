@@ -1,0 +1,9 @@
+{
+  "#InMainMenu": "In Main Menu",
+  "#InCustomizationMenu": "Outfitting Avatar",
+  "#GettingReadyToPlay": "Getting Ready to Play",
+  "#Level_WaitingForMatch": "Waiting for match",
+  "#PlayingLevel": "In Level: %level%",
+  "#WaitingInLobby": "Waiting In Lobby",
+  "#StartingMatch": "Waiting For Match To Begin"
+}

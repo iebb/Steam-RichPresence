@@ -1,0 +1,14 @@
+{
+  "#Status_AtMainMenu": "At the main menu",
+  "#Status_InLobby": "In lobby - Waiting",
+  "#Status_InLobbyStarting": "In lobby - Starting",
+  "#Status_MatchStatus": "In match - %map% [{#Status_%team%} - {#Status_%class%}]",
+  "#Status_Won": "Match ended: VICTORY - %map%",
+  "#Status_Lost": "Match ended: DEFEAT - %map%",
+  "#Status_Draw": "Match ended: DRAW - %map%",
+  "#Status_TeamBlue": "Blue",
+  "#Status_TeamRed": "Red",
+  "#Status_ClassArcher": "Archer",
+  "#Status_ClassWarrior": "Warrior",
+  "#Status_MakingMatch": "Creating a custom match"
+}

@@ -1,0 +1,14 @@
+{
+  "#Status_AtMainMenu": "In het hoofdmenu",
+  "#Status_InLobby": "In de lobby - Wachten",
+  "#Status_InLobbyStarting": "In de lobby - Beginnen",
+  "#Status_MatchStatus": "In wedstrijd - %map% [{#Status_%team%} - {#Status_%class%}]",
+  "#Status_Won": "Wedstrijd afgelopen: OVERWINNING - %map%",
+  "#Status_Lost": "Wedstrijd afgelopen: NEDERLAAG - %map%",
+  "#Status_Draw": "Match ended: DRAW - %map%",
+  "#Status_TeamBlue": "Blauw",
+  "#Status_TeamRed": "Rood",
+  "#Status_ClassArcher": "Boogschutter",
+  "#Status_ClassWarrior": "Krijger",
+  "#Status_MakingMatch": "Een aangepaste match maken"
+}

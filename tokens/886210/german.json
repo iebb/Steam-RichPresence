@@ -1,0 +1,23 @@
+{
+  "#StatusWithoutScore": "{#Status%gamestatus%}",
+  "#StatusWithScore": "{#Status%gamestatus%}: %score%",
+  "#Status_AtMainMenu": "Im Hauptmenü",
+  "#Status_WaitingForMatch": "Wartet auf ein Spiel",
+  "#Status_Winning": "Am Gewinnen ",
+  "#Status_Losing": "Am Verlieren",
+  "#Status_Tied": "Ausgeglichen",
+  "#Status_Matchmaking": "Sucht ein Spiel",
+  "#Status_Lobby": "{#Lobby%lobbystatus%}: %player%",
+  "#Status_MapWithMode": "{#Map %mode%}: %Gamemode%",
+  "#Status_Customization": "Bastelt an sich rum",
+  "#Status_L4P": "Sucht Mitspieler",
+  "#Status_Forrest": "Im Wald sucht Pilze",
+  "#Status_Grave": "Besucht Oma",
+  "#Status_Toxic Lakes": "Achtung Giftig!",
+  "#Status_Mines": "In den Minen von M..",
+  "#Status_Fishing Lakes": "Sucht Fische?",
+  "#Status_Farm": "Auf der Farm",
+  "#Status_Dead Lands": "Kein Trinkwasser!",
+  "#Status_LAND OF GODS": "Hallo Mumie!",
+  "#Status_Bunker 51": "Aliens kommen!"
+}

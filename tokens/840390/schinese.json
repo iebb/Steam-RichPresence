@@ -1,0 +1,10 @@
+{
+  "#RP_InMainMenu": "开始玩《星际乐土》",
+  "#RP_PlayingCampaign": "开始玩《星际乐土》战役",
+  "#RP_PlayingCampaignMultiplayer": "开始合作玩《星际乐土》战役",
+  "#RP_PlayingSkirmish": "开始玩《星际乐土》遭遇战地图",
+  "#RP_PlayingSkirmishMultiplayer": "在多人游戏中开始玩《星际乐土》遭遇战地图",
+  "#RP_WaitingForPlayersSkirmish": "正在等待其他玩家加入《星际乐土》遭遇战地图",
+  "#RP_WaitingForPlayersCoop": "正在等待合作玩家加入《星际乐土》战役",
+  "#RP_WaitingForQuickgame": "正在等待其他玩家加入多人游戏"
+}

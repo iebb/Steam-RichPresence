@@ -1,0 +1,10 @@
+{
+  "#status_in_menu": "В меню",
+  "#status_scenario_editor": "В редакторе сценариев",
+  "#status_in_map_editor": "В редакторе карт",
+  "#Status_Playing": "Играет в сценарий «%scenario%» ({#faction_%faction%})",
+  "#faction_allies": "Союзники",
+  "#faction_axis": "Страны оси",
+  "#faction_neutral": "Нейтралы",
+  "#faction_soviet": "СССР"
+}

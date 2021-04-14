@@ -1,0 +1,6 @@
+{
+  "#InTitleScreen": "På huvudskärmen",
+  "#InPauseScreen": "Paus",
+  "#InStageSelectScreen": "Välj nivå",
+  "#Playing": "På försök %attempt% nivå %world%-%level%"
+}

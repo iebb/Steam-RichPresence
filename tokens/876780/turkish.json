@@ -1,0 +1,14 @@
+{
+  "#Status_AtMainMenu": "Ana menü icinde",
+  "#Status_InLobby": "Lobbyde - Bekle",
+  "#Status_InLobbyStarting": "Lobbyde - Başlar",
+  "#Status_MatchStatus": "Maçta  - %map% [{#Status_%team%} - {#Status_%class%}]",
+  "#Status_Won": "Maç bitirdi: ZAFER - %map%",
+  "#Status_Lost": "Maç bitirdi: YENILGI - %map%",
+  "#Status_Draw": "Match ended: DRAW - %map%",
+  "#Status_TeamBlue": "Mavi",
+  "#Status_TeamRed": "Kırmızı",
+  "#Status_ClassArcher": "Okçu",
+  "#Status_ClassWarrior": "Savaşçı",
+  "#Status_MakingMatch": "Özel bir maç oluşturma"
+}

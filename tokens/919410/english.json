@@ -1,0 +1,8 @@
+{
+  "#StatusWithoutChapter": "{#Status_%gamestatus%}",
+  "#StatusWithChapter": "{#Status_%gamestatus%} %chapter%",
+  "#Status_PlayingNormalChapter": "Playing Chapter",
+  "#Status_PlayingHardcoreChapter": "Playing Hardcore Chapter",
+  "#Status_PlayingTimeChallenge": "Playing Timed Challenge",
+  "#Status_InMenus": "In Menus"
+}

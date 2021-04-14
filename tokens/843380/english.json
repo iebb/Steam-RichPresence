@@ -1,0 +1,10 @@
+{
+  "#Status_MainMenu": "Main Menu",
+  "#Status_Joining": "Joining a Match",
+  "#Status_PlayingSolo": "Playing Solo",
+  "#Status_PlayingDuos": "Playing Duos",
+  "#Status_PlayingSquads": "Playing Squads",
+  "#Status_Playing32v32": "Playing SAW vs Rebellion",
+  "#Status_PlayingMyst": "Playing Mystery Mode",
+  "#Status_Playing": "In a Match"
+}

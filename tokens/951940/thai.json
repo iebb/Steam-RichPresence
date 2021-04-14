@@ -1,0 +1,6 @@
+{
+  "#InTitleScreen": "หน้าจอเริ่มเกม",
+  "#InPauseScreen": "หยุดชั่วคราว",
+  "#InStageSelectScreen": "เลือกด่าน",
+  "#Playing": "พยายามผ่านด่าน %world%-%level% ครั้งที่ %attempt%"
+}

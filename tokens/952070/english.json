@@ -1,0 +1,12 @@
+{
+  "#Mode01": "Menu",
+  "#Mode02Mastermind": "Quick Match | Mastermind",
+  "#Mode02Survivor": "Quick Match | Survivor",
+  "#Mode03Mastermind": "Custom Game | Mastermind",
+  "#Mode03Survivor": "Custom Game | Survivor",
+  "#Mode04Mastermind": "Practice Mode | Mastermind",
+  "#Mode04Survivor": "Practice Mode | Survivor",
+  "#Mode05Mastermind": "Tutorial | Mastermind",
+  "#Mode05Survivor": "Tutorial | Survivor",
+  "#Status": "engtest"
+}

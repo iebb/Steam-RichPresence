@@ -1,0 +1,13 @@
+{
+  "#Status_LastMoobaStanding": "Dernier Mooba survivant",
+  "#Status_Deathmatch": "Combat à mort",
+  "#Status_TeamDeathmatch": "Combat à mort par équipe",
+  "#Status_PlayingOrbRush": "Ruée vers l'orbe",
+  "#Status_PlayingTeamOrbRush": "Ruée vers l'orbe par équipe",
+  "#Status_Adventure": "Aventure",
+  "#Status_Adventuresanity": "Aventure-Sanity",
+  "#Status_Survival": "Survie",
+  "#Status_OnlinePlay": "Jeu en ligne",
+  "#Status_LocalPlay": "Jeu en local",
+  "#Status_CustomRoom": "Jeu en ligne"
+}

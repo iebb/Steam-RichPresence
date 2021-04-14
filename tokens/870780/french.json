@@ -1,0 +1,13 @@
+{
+  "#StatusInGame": "{#StatusInGame_%sector%}",
+  "#StatusInGame_Default ": "L’Ancienne Maison",
+  "#StatusInGame_Research": "Secteur de recherche",
+  "#StatusInGame_Maintainance ": "Secteur de maintenance",
+  "#StatusInGame_Containment ": "Secteur de confinement",
+  "#StatusInGame_Executive": "Secteur exécutif",
+  "#StatusInGame_Expedition": "Expéditions",
+  "#StatusInGame_Unknown": "Espace extradimensionnel",
+  "#StatusInGame_Foundation": "La Fondation",
+  "#StatusInGame_Investigations": "Secteur des enquêtes",
+  "#StatusInGame_Arcade": "Mode arcade"
+}

@@ -1,0 +1,14 @@
+{
+  "#Status_AtMainMenu": "Päävalikossa",
+  "#Status_InLobby": "Aulassa - Odottaa",
+  "#Status_InLobbyStarting": "Aulassa - Aloittaminen",
+  "#Status_MatchStatus": "Ottelussa - %map% [{#Status_%team%} - {#Status_%class%}]",
+  "#Status_Won": "Ottelu päättyi: VOITTO - %map%",
+  "#Status_Lost": "Ottelu päättyi: TAPPIO - %map%",
+  "#Status_Draw": "Match ended: DRAW - %map%",
+  "#Status_TeamBlue": "Bluet",
+  "#Status_TeamRed": "Punainen",
+  "#Status_ClassArcher": "Jousimies",
+  "#Status_ClassWarrior": "Soturi",
+  "#Status_MakingMatch": "Muokatun ottelun luominen"
+}

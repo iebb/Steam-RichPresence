@@ -1,0 +1,6 @@
+{
+  "#InTitleScreen": "タイトル画面",
+  "#InPauseScreen": "一時停止中",
+  "#InStageSelectScreen": "ステージ選択中",
+  "#Playing": "ステージ%world%-%level%の%attempt%に挑戦中"
+}

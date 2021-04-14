@@ -1,0 +1,22 @@
+{
+  "#StatusMainMenu": "V hlavní nabídce",
+  "#StatusVersusMode": "Hraje režim Versus",
+  "#StatusFantasyDraftMode": "Hraje Fantasy draft",
+  "#statusChallengeMode": "Hraje režim Výzva",
+  "#StatusCreateClubMode": "Hraje režim Vytvořit klub",
+  "#StatusCareerMode": "Hraje kariéru",
+  "#StatusCareerModeUnemployed": "Hraje kariéru - Aktuálně nezaměstnaný",
+  "#StatusCareerModeOneTeam": "Hraje kariéru za %TeamOne%",
+  "#StatusCareerModeTwoTeams": "Hraje kariéru za %TeamOne% a %TeamTwo%",
+  "#StatusNegotiatingBuyingPlayer": "Vyjednává o nákupu hráče %PersonOne%",
+  "#StatusNegotiatingSellingPlayer": "Vyjednává o prodeji hráče %PersonOne%",
+  "#StatusNegotiatingContract": "Vyjednává o smlouvě s %PersonOne%",
+  "#StatusMatchWatching": "Sleduje zápas - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWatchingPenalties": "Sleduje penaltový rozstřel - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchDrawing": "Remizuje - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchDrawingPenalties": "Vyrovnaný penaltový rozstřel - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWinning": "Ve vedení - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchWinningPenalties": "Vede v penaltovém rozstřelu - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchLosing": "Prohrává - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%",
+  "#StatusMatchLosingPenalties": "Prohrává v penaltovém rozstřelu - %TeamOne% %ScoreOne% - %ScoreTwo% %TeamTwo%"
+}

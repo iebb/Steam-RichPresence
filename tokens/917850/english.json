@@ -1,0 +1,15 @@
+{
+  "#MainMenu": "Main Menu",
+  "#LOBBY": "Lobby | Waiting for Players (%CurrentPlayers% / %MaxPlayers%)",
+  "#SURVIVAL": "Survival Mode",
+  "#classic": "Classic Mode",
+  "#Hero": "Hero Mode",
+  "#Clash": "Clash Mode",
+  "#ClassicCoop": "Classic Mode Coop",
+  "#SurvivalCoop": "Survival Mode Coop",
+  "#HeroCoop": "Hero Mode Coop",
+  "#Benchmark": "Benchmark",
+  "#Singleplayer": "Singleplayer",
+  "#multiplayer": "Multiplayer",
+  "#Playing": "{#%Type%} | Playing {#%Mode%}"
+}

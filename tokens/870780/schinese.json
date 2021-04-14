@@ -1,0 +1,13 @@
+{
+  "#StatusInGame": "{#StatusInGame_%sector%}",
+  "#StatusInGame_Default ": "太古屋",
+  "#StatusInGame_Research": "研究部",
+  "#StatusInGame_Maintainance ": "维修部",
+  "#StatusInGame_Containment ": "收容部",
+  "#StatusInGame_Executive": "行政部",
+  "#StatusInGame_Expedition": "探险",
+  "#StatusInGame_Unknown": "超次元空间",
+  "#StatusInGame_Foundation": "地基",
+  "#StatusInGame_Investigations": "调查部",
+  "#StatusInGame_Arcade": "街机模式"
+}
