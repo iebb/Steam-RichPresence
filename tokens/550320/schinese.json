@@ -1,0 +1,14 @@
+{
+  "#Status_Menu": "在菜单中",
+  "#STATUS_FREEROAM": "{#%location%}自由驾驶",
+  "#STATUS_CUSTOM": "{#%location%}个人拉力赛",
+  "#STATUS_TIME_ATTACK": "{#%location%}圈速赛",
+  "#STATUS_CAREER": "{#%location%}职业生涯拉力赛",
+  "#STATUS_DAILY": "{#%location%}每日事件",
+  "#STATUS_WEEKLY": "{#%location%}每周活动",
+  "#FINLAND": "芬兰",
+  "#SARDINIA": "撒丁岛",
+  "#JAPAN": "日本",
+  "#NORWAY": "挪威",
+  "#GERMANY": "德国"
+}

@@ -1,0 +1,9 @@
+{
+  "#Status_AtMenus": "At the menus",
+  "#Status_PlayingTutorial": "Playing the tutorial",
+  "#Status_PlayingCampaign": "Playing campaign",
+  "#Status_PlayingChallenge": "Playing a challenge map",
+  "#Status_PlayingCustom": "Playing a custom map",
+  "#Status_PlayingCommunity": "Playing a community map",
+  "#Status_CreatingMap": "Creating a custom map"
+}

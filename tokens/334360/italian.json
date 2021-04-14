@@ -1,0 +1,12 @@
+{
+  "#MainMenu": "%status%",
+  "#SRMenu": "%status%",
+  "#ChallengesMenu": "%status%",
+  "#ClassicMenu": "%status%",
+  "#SR1Menu": "%status%",
+  "#SR2Menu": "%status%",
+  "#SR3Menu": "%status%",
+  "#W1Menu": "%status%",
+  "#Levels": "%status%",
+  "#Others": "%status%"
+}

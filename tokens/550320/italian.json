@@ -1,0 +1,14 @@
+{
+  "#Status_Menu": "nel menu",
+  "#STATUS_FREEROAM": "girovagando in {#%location%}",
+  "#STATUS_CUSTOM": "rally personalizzato in {#%location%}",
+  "#STATUS_TIME_ATTACK": "prova a tempo in {#%location%}",
+  "#STATUS_CAREER": "carriera rally in {#%location%}",
+  "#STATUS_DAILY": "evento giornaliero in {#%location%}",
+  "#STATUS_WEEKLY": "evento settimanale in {#%location%}",
+  "#FINLAND": "finlandia",
+  "#SARDINIA": "sardegna",
+  "#JAPAN": "giappone",
+  "#NORWAY": "norvegia",
+  "#GERMANY": "germania"
+}

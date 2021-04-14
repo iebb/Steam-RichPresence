@@ -1,0 +1,14 @@
+{
+  "#Status_Menu": "no menu",
+  "#STATUS_FREEROAM": "modo livre em {#%location%}",
+  "#STATUS_CUSTOM": "evento personalizado em {#%location%}",
+  "#STATUS_TIME_ATTACK": "corrida contra o relógio em {#%location%}",
+  "#STATUS_CAREER": "evento do modo carreira em {#%location%}",
+  "#STATUS_DAILY": "evento diario em {#%location%}",
+  "#STATUS_WEEKLY": "evento semanal em {#%location%}",
+  "#FINLAND": "finlândia",
+  "#SARDINIA": "sardenha",
+  "#JAPAN": "japão",
+  "#NORWAY": "noruega",
+  "#GERMANY": "alemanha"
+}

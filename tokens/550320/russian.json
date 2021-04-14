@@ -1,0 +1,14 @@
+{
+  "#Status_Menu": "в меню",
+  "#STATUS_FREEROAM": "свободный заезд {#%location%}",
+  "#STATUS_CUSTOM": "настраиваемая гонка в {#%location%}",
+  "#STATUS_TIME_ATTACK": "тайм аттак в {#%location%}",
+  "#STATUS_CAREER": "карьера в {#%location%}",
+  "#STATUS_DAILY": "ежедневное событие в {#%location%}",
+  "#STATUS_WEEKLY": "еженедельное событие в {#%location%}",
+  "#FINLAND": "финляндия",
+  "#SARDINIA": "сардиния",
+  "#JAPAN": "япония",
+  "#NORWAY": "норвегия",
+  "#GERMANY": "германия"
+}

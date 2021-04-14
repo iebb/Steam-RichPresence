@@ -1,0 +1,15 @@
+{
+  "#Main_Menu": "Главное меню",
+  "#Watching_a_Demo": "Смотрит демо",
+  "#Briefing_Generic": "Брифинг",
+  "#Deathmatch_DM_Generic": "Deathmatch",
+  "#Deathmatch_TDM_Generic": "Team Deathmatch",
+  "#Deathmatch_GG_Generic": "Gun Game",
+  "#Deathmatch_IG_Generic": "InstaGib",
+  "#Generic": "В миссии",
+  "#Difficulty_Easy": "Лёгкий",
+  "#Difficulty_Normal": "Средний",
+  "#Difficulty_Hard": "Тяжелый",
+  "#Difficulty_Insane": "Безумный",
+  "#Difficulty_Brutal": "Зверский"
+}

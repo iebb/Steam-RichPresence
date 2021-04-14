@@ -1,0 +1,6 @@
+{
+  "#Status_AtMainMenu": "Main Menu",
+  "#StatusInGameSingle": "%mode% - %map% - %connect% (WAVE: %wave%)",
+  "#StatusInGameCoop": "%mode% - %map% - %connect% (WAVE: %wave%)",
+  "#StatusInLobby": "In %size% Lobby"
+}

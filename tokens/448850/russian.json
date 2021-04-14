@@ -1,0 +1,13 @@
+{
+  "#statusStartingUp": "Запуск",
+  "#statusInMenus": "В Меню",
+  "#statusWaitingForMatch": "Ожидание Матча",
+  "#statusTraining": "{%playing_or_paused%} УЧЕБНЫЙ СИМУЛЯТОР",
+  "#statusMission": "{%playing_or_paused%} %level% in %mission%",
+  "#statusChallengeMode": "{%playing_or_paused%} {#status_ChallengeMode} в %level%",
+  "#StatusMultiplayer": "{%playing_or_paused%} {#status_Multiplayer} в %level%",
+  "#Status_Paused": "[Пауза]",
+  "#Status_Playing": "Игра",
+  "#status_ChallengeMode": "Режим Испытания",
+  "#status_Multiplayer": "Мультиплеер"
+}

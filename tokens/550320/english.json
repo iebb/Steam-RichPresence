@@ -1,0 +1,14 @@
+{
+  "#Status_Menu": "in the menus",
+  "#STATUS_FREEROAM": "roaming around {#%location%}",
+  "#STATUS_CUSTOM": "custom rally in {#%location%}",
+  "#STATUS_TIME_ATTACK": "time attack in {#%location%}",
+  "#STATUS_CAREER": "career rally in {#%location%}",
+  "#STATUS_DAILY": "daily event in {#%location%}",
+  "#STATUS_WEEKLY": "weekly event in {#%location%}",
+  "#FINLAND": "finland",
+  "#SARDINIA": "sardinia",
+  "#JAPAN": "japan",
+  "#NORWAY": "norway",
+  "#GERMANY": "germany"
+}

@@ -1,0 +1,9 @@
+{
+  "#Status_AtMainMenu": "At Main Menu",
+  "#Status_AtMainMenuPaused": "At Main Menu PAUSED",
+  "#Status_Loading": "Loading",
+  "#Status_Singleplayer": "%mapname% (%objectcount%)",
+  "#Status_SingleplayerPaused": "%mapname% (%objectcount%) PAUSED",
+  "#status_Multiplayer": "Multiplayer - %mapname% (%objectcount%)",
+  "#Status_MultiplayerPaused": "Multiplayer - %mapname% (%objectcount%) PAUSED"
+}

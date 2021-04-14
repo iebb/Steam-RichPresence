@@ -1,0 +1,13 @@
+{
+  "#titlescreen": "In titlescreen",
+  "#Frag_Tag": "Playing Frag Tag",
+  "#Insta_Rok": "Playing Insta Rok",
+  "#Last_Turok_Standing": "Playing Last Turok Standing",
+  "#Raptor_Fest": "Playing Raptor Fest",
+  "#Rok_Match": "Playing Rok Match",
+  "#Rok_Mix": "Playing Rok Mix",
+  "#Singleplayer": "Playing Singleplayer",
+  "#Team_Rok_Match": "Playing Team Rok Match",
+  "#singleplayer_info": "Playing Singleplayer - %map%",
+  "#multiplayer": "Playing %gamemode% (%steam_player_group_size%/%max_group_size%) - %map%"
+}

@@ -1,0 +1,13 @@
+{
+  "#statusStartingUp": "Puesta en marcha",
+  "#statusInMenus": "En los Menús",
+  "#statusWaitingForMatch": "Esperando la partida",
+  "#statusTraining": "{%playing_or_paused%} SIMULADOR DE ENTRENAMIENTO",
+  "#statusMission": "{%playing_or_paused%} %level% en %mission%",
+  "#statusChallengeMode": "{%playing_or_paused%} {#status_ChallengeMode} en %level%",
+  "#StatusMultiplayer": "{%playing_or_paused%} {#status_Multiplayer} en %level%",
+  "#Status_Paused": "[En pausa]",
+  "#Status_Playing": "En juego",
+  "#status_ChallengeMode": "Modo Desafío",
+  "#status_Multiplayer": "Modo Multijugador"
+}

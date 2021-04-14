@@ -1,0 +1,5 @@
+{
+  "#Status_AtMainMenu": "At the main menu",
+  "#Status_AtCharSelection": "At the character selection",
+  "#Status_AtIngame": "Turn: %value_turn% HP: %value_hp%/%value_maxlife% Gold: %value_gold%"
+}

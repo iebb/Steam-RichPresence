@@ -1,0 +1,5 @@
+{
+  "#Status_AtMainMenu": "I hovedmenuen",
+  "#Status_AtCharSelection": "Vælger karakter",
+  "#Status_AtIngame": "Tur: %value_turn% HP: %value_hp%/%value_maxlife% Guld: %value_gold%"
+}
