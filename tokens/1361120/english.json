@@ -1,0 +1,7 @@
+{
+  "#Status_AtMainMenu": "Main menu",
+  "#Status_Game": "In game",
+  "#Status_ProGame": "In Pro game",
+  "#Status_Game_Boss": "Destroying %Boss_Killed% bosses",
+  "#Status_ProGame_Boss": "Destroying %Boss_Killed% bosses in a Pro game"
+}

@@ -1,0 +1,9 @@
+{
+  "#StatusWithoutFloor": "{#Playing_%theme%}",
+  "#StatusWithFloor": "{#Playing_%theme%} floor %floor%",
+  "#playing_tutorial": "Playing the tutorial",
+  "#Playing_camp": "In camp",
+  "#Playing_sewer": "In the Sewers",
+  "#Playing_subsewer": "In the Sub Sewers",
+  "#Playing_corearea": "In the Core Area"
+}

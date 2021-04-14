@@ -1,0 +1,15 @@
+{
+  "#State_Menu": "In Menu",
+  "#state_humans_campaign": "Humans Campaign %param1%",
+  "#state_dark_elves_campaign": "Dark Elves Campaign %param1%",
+  "#state_dwarves_campaign": "Dwarves Campaign %param1%",
+  "#state_elves_campaign": "Wild Elves Campaign %param1%",
+  "#state_nomads_campaign": "Nomads %param1%",
+  "#state_multi_ffa": "%param1% (mp free for all)",
+  "#state_multi_2vs2": "%param1% (mp 2 vs 2)",
+  "#state_multi_3vs3": "%param1% (mp 3 vs 3)",
+  "#state_multi_2vs2vs2": "%param1% (mp 2 vs 2 vs 2)",
+  "#state_multi_coop": "%param1% (mp coop)",
+  "#state_lobby": "In Lobby %param2%",
+  "#state_skirmish": "Free Game"
+}

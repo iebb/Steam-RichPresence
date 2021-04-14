@@ -1,0 +1,18 @@
+{
+  "#Presence_Arena_Multiplayer": "Arène - Multijoueur",
+  "#Presence_Arena_SinglePlayer": "Arène - Un joueur",
+  "#presence_challenge": "Défis",
+  "#Presence_FreeRace_Multiplayer": "Course libre - Multijoueur (hors ligne)",
+  "#Presence_FreeRace_OnlineMatchMaking": "Course libre - En ligne (matchmaking)",
+  "#Presence_FreeRace_OnlineWithFriends": "Course libre - En ligne (amis)",
+  "#Presence_FreeRace_SinglePlayer": "Course libre - Un joueur (hors ligne)",
+  "#Presence_Garage": "Garage",
+  "#Presence_GrandPrix_Multiplayer": "Grand Prix Slime - Multijoueur (hors ligne)",
+  "#Presence_GrandPrix_OnlineMatchMaking": "Grand Prix Slime - En ligne (matchmaking)",
+  "#Presence_GrandPrix_OnlineWithFriends": "Grand Prix Slime - En ligne (amis)",
+  "#Presence_GrandPrix_SinglePlayer": "Grand Prix Slime - Un joueur (hors ligne)",
+  "#Presence_Lobby_OnlineMatchMaking": "Salon - En ligne (matchmaking)",
+  "#Presence_Lobby_OnlineWithFriends": "Salon - En ligne (amis)",
+  "#presence_menus": "Menus",
+  "#Presence_TimeTrial": "Contre-la-montre"
+}

@@ -1,0 +1,6 @@
+{
+  "#StatusLobby": "Lobby",
+  "#StatusLobbyGameRoom": "Lobby: %map% - %mode% [ %roomid% ]",
+  "#StatusInGame": "Playing: %map% - %mode% [ %roomid% ]",
+  "#StatusInGameUnknown": "Playing"
+}

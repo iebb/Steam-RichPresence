@@ -1,0 +1,18 @@
+{
+  "#Status_Playing": "Jogando: {#Map_%map%}",
+  "#Map_Forest": "Floresta",
+  "#Map_Desert": "Deserto",
+  "#Map_Snow": "Neve",
+  "#Map_Mines": "Minas",
+  "#Map_City": "Cidade",
+  "#Map_Islands": "Ilhas",
+  "#Map_Underwater": "Debaixo de agua",
+  "#Map_Sky": "Ceu",
+  "#Map_Space": "Espaço",
+  "#Map_Alien": "Alien",
+  "#Map_Mushroom_Forest": "Floresta dos Cogumelos",
+  "#Map_Graveyard": "Cemiterio",
+  "#Map_Candy": "Doces",
+  "#Map_Lava": "Lava",
+  "#Map_Computer": "Computador"
+}

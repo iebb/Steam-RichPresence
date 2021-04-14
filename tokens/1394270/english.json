@@ -1,0 +1,6 @@
+{
+  "#StatusMainMenu": "{#Status_%gamestatus%}",
+  "#StatusLastSeen": "{#Status_%gamestatus%}: %room%",
+  "#Status_AtMainMenu": "At the main menu",
+  "#Status_LastRoom": "Last seen in room"
+}

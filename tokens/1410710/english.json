@@ -1,0 +1,11 @@
+{
+  "#Status_AtMainMenu": "Preparing for Government",
+  "#Status_Deficit": "Running a budget deficit",
+  "#Status_Surplus": "Running a budget surplus",
+  "#Status_Emergency": "Using Emergency Powers",
+  "#Status_Upsetting": "Upsetting %voters%",
+  "#Status_Pleasing": "Pleasing %voters%",
+  "#Status_Terrorists": "Dodging Terrorist Plots",
+  "#Status_ElectSoon": "Preparing for Election",
+  "#Status_Speech": "Giving a speech"
+}

@@ -1,0 +1,8 @@
+{
+  "#Status_MainMenu": "Main Menu",
+  "#status_location": "%location%",
+  "#Status_Lobby": "Multiplayer : Lobby",
+  "#Status_LobbyRoom": "Multiplayer : Room",
+  "#Status_HeroSelection": "Hero Selection",
+  "#Status_Tome": "Tome of Knowledge"
+}

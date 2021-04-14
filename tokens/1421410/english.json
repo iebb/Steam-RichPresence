@@ -1,0 +1,13 @@
+{
+  "#MainMenu": "Main Menu",
+  "#Tutorial": "Training in bug simulator",
+  "#LobbyWaiting": "Waiting for challenger",
+  "#LocalSetup": "Setting up local multiplayer game",
+  "#Fountain": "Sampling the finest sodas",
+  "#AI": "Configuring artificially intelligent bugs",
+  "#Multi": "Multiplayer Menu",
+  "#Friend": "In friend lobby",
+  "#LoadMain": "Countertop Countdown",
+  "#LocalMain": "Local multiplayer at %countertop%",
+  "#Main": "%bugfam% - %countertop%%gamemode%"
+}

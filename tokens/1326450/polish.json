@@ -1,0 +1,13 @@
+{
+  "#Status_LastMoobaStanding": "Do Ostatniego Mooby",
+  "#Status_Deathmatch": "Deathmatch",
+  "#Status_TeamDeathmatch": "Deathmatch drużynowy",
+  "#Status_PlayingOrbRush": "Wyścig po Kule",
+  "#Status_PlayingTeamOrbRush": "Drużynowy Wyścig po Kule",
+  "#Status_Adventure": "Przygoda",
+  "#Status_Adventuresanity": "Szalona Przygoda",
+  "#Status_Survival": "Przetrwanie",
+  "#Status_OnlinePlay": "Gra online",
+  "#Status_LocalPlay": "Gra lokalna",
+  "#Status_CustomRoom": "Gra online"
+}

@@ -1,0 +1,7 @@
+{
+  "#richPresence_mainMenu": "Главное меню",
+  "#RichPresence_Survival": "{#Survival_%coop_status%} — {#Day} %day_number%",
+  "#Survival_SP": "Выживание",
+  "#Survival_MP": "Совместное Выживание",
+  "#day": "День"
+}

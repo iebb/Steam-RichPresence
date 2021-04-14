@@ -1,0 +1,5 @@
+{
+  "#Status_AtMainMenu": "At the main menu",
+  "#Status_AtLobby": "In lobby",
+  "#Status_PlayingMap": "In game: %MAPNAME%"
+}

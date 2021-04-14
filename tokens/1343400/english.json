@@ -1,0 +1,6 @@
+{
+  "#StatusWithoutID": "{#Status_%gamestatus%}",
+  "#StatusWithID": "{#Status_%gamestatus%}: %id%",
+  "#Status_World": "World",
+  "#Status_Lobby": "Lobby"
+}

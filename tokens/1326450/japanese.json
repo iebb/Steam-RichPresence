@@ -1,0 +1,13 @@
+{
+  "#Status_LastMoobaStanding": "バトルロワイアル",
+  "#Status_Deathmatch": "デスマッチ",
+  "#Status_TeamDeathmatch": "チームデスマッチ",
+  "#Status_PlayingOrbRush": "オーブラッシュ",
+  "#Status_PlayingTeamOrbRush": "チームオーブラッシュ",
+  "#Status_Adventure": "アドベンチャー",
+  "#Status_Adventuresanity": "アドベンチャーSanity",
+  "#Status_Survival": "サバイバル",
+  "#Status_OnlinePlay": "オンラインプレイ",
+  "#Status_LocalPlay": "オフラインプレイ",
+  "#Status_CustomRoom": "オンラインプレイ"
+}

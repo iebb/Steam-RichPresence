@@ -1,0 +1,7 @@
+{
+  "#richPresence_mainMenu": "Main Menu",
+  "#RichPresence_Survival": "{#Survival_%coop_status%} — {#Day} %day_number%",
+  "#Survival_SP": "Survival",
+  "#Survival_MP": "Co-op Survival",
+  "#day": "Day"
+}

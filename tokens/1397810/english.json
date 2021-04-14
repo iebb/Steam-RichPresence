@@ -1,0 +1,5 @@
+{
+  "#Status": "%status%",
+  "#StatusWithDucks": "%status% with: %score% ducks!",
+  "#Status_AtMainMenu": "At the main menu"
+}

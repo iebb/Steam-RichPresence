@@ -1,0 +1,14 @@
+{
+  "#Status_InMenu": "At the main menu",
+  "#Status_InNormalLobby": "In the lobby",
+  "#Status_InRankedGroupmaking": "In the ranked lobby",
+  "#Status_InRankedQueue": "In ranked queue",
+  "#Status_InNormalGame": "{#Mode_%mode%} - %map%",
+  "#Status_InRankedGame": "Playing ranked {#Mode_%mode%} | %map% | %selfScore% : %opponentScore%",
+  "#Mode_FFA": "FreeForAll",
+  "#Mode_TeamDeathmatch": "Team Deathmatch",
+  "#mode_captureTheFlag": "Intelligence",
+  "#Mode_Elimination": "Elimination",
+  "#Mode_Demolition": "Demolition",
+  "#mode_kingOfTheHill": "King Of The Hill"
+}

@@ -1,0 +1,18 @@
+{
+  "#Presence_Arena_Multiplayer": "Arena: multijugador",
+  "#Presence_Arena_SinglePlayer": "Arena: un jugador",
+  "#presence_challenge": "Modo Desafío",
+  "#Presence_FreeRace_Multiplayer": "Carrera libre: multijugador sin conexión",
+  "#Presence_FreeRace_OnlineMatchMaking": "Carrera libre: matchmaking en línea",
+  "#Presence_FreeRace_OnlineWithFriends": "Carrera libre: en línea con amigos",
+  "#Presence_FreeRace_SinglePlayer": "Carrera libre: un jugador sin conexión",
+  "#Presence_Garage": "Taller",
+  "#Presence_GrandPrix_Multiplayer": "Gran Premio Slime: multijugador sin conexión",
+  "#Presence_GrandPrix_OnlineMatchMaking": "Gran Premio Slime: matchmaking en línea",
+  "#Presence_GrandPrix_OnlineWithFriends": "Gran Premio Slime: en línea con amigos",
+  "#Presence_GrandPrix_SinglePlayer": "Gran Premio Slime: un jugador sin conexión",
+  "#Presence_Lobby_OnlineMatchMaking": "Vestíbulo: matchmaking en línea",
+  "#Presence_Lobby_OnlineWithFriends": "Vestíbulo: en línea con amigos",
+  "#presence_menus": "Menús",
+  "#Presence_TimeTrial": "Contrarreloj"
+}

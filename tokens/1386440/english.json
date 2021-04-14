@@ -1,0 +1,5 @@
+{
+  "#Status_Dead": "Died on floor: %floor%",
+  "#Status_OnLevel": "On floor: %floor%",
+  "#Status_AtMainMenu": "At the main menu"
+}

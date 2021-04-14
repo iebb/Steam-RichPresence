@@ -1,0 +1,8 @@
+{
+  "#StatusGeneral": "%gamestatus%",
+  "#StatusWithScore": "{#Status_%gamestatus%}: %score%",
+  "#Status_AtMainMenu": "Main Menu",
+  "#Status_FighterSelection": "Selecting Fighter",
+  "#Status_ShipEditor": "Creating Custom Fighter",
+  "#Status_WeaponShop": "In Weapon Shop"
+}

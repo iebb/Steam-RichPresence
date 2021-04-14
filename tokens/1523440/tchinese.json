@@ -1,0 +1,6 @@
+{
+  "#StatusLobby": "大廳",
+  "#StatusLobbyGameRoom": "大廳: %map% - %mode% [ %roomid% ]",
+  "#StatusInGame": "遊戲中: %map% - %mode% [ %roomid% ]",
+  "#StatusInGameUnknown": "遊戲中"
+}

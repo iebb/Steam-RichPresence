@@ -1,0 +1,10 @@
+{
+  "#StatusWithDeaths": "{#Status_%gamestatus%}: %deaths% Deaths",
+  "#Status_AtMainMenu": "At the main menu",
+  "#Status_Playing": "Playing",
+  "#Status_LevelName": "In: %levelname%",
+  "#Status_LevelNameWithTime": "In: %levelname%|Time %leveltime%",
+  "#Status_LTD": "{#Status_%gamestatus%} - Time: %leveltime% - Deaths: %deaths%",
+  "#StatusWithLevelTime": "{#Status_%gamestatus%}|Time: %leveltime%",
+  "#TimeWithDeaths": "Time: %leveltime%| Deaths: %deaths%"
+}

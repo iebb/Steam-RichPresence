@@ -1,0 +1,9 @@
+{
+  "#StatusWithoutScore": "{#Status_%gamestate%}",
+  "#StatusWithScore": "{#Status_%gamestate%} - %map% [ %score% ]",
+  "#Status_MainMenu": "Main Menu",
+  "#Status_MultiplayerLobby": "Lobby",
+  "#Status_MultiplayerMatch": "Match",
+  "#Status_MultiplayerGameOver": "Game Over",
+  "#Status_Singleplayer": "Training"
+}

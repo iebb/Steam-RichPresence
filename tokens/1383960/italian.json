@@ -1,0 +1,18 @@
+{
+  "#Presence_Arena_Multiplayer": "Arena - Multigiocatore",
+  "#Presence_Arena_SinglePlayer": "Arena - Giocatore singolo",
+  "#presence_challenge": "Modalità sfida",
+  "#Presence_FreeRace_Multiplayer": "Gara libera - Multigiocatore offline",
+  "#Presence_FreeRace_OnlineMatchMaking": "Gara libera - Matchmaking online",
+  "#Presence_FreeRace_OnlineWithFriends": "Gara libera - Online con amici",
+  "#Presence_FreeRace_SinglePlayer": "Gara libera - Giocatore singolo offline",
+  "#Presence_Garage": "Garage",
+  "#Presence_GrandPrix_Multiplayer": "Gran premio slime - Multigiocatore offline",
+  "#Presence_GrandPrix_OnlineMatchMaking": "Gran premio slime - Matchmaking online",
+  "#Presence_GrandPrix_OnlineWithFriends": "Gran premio slime - Online con gli amici",
+  "#Presence_GrandPrix_SinglePlayer": "Gran premio slime - Giocatore singolo offline",
+  "#Presence_Lobby_OnlineMatchMaking": "Stanza - Matchmaking online",
+  "#Presence_Lobby_OnlineWithFriends": "Stanza - Online con amici",
+  "#presence_menus": "Menu",
+  "#Presence_TimeTrial": "Gara a tempo"
+}

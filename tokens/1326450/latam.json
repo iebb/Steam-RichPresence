@@ -1,0 +1,13 @@
+{
+  "#Status_LastMoobaStanding": "El último Mooba en pie",
+  "#Status_Deathmatch": "Todos contra todos",
+  "#Status_TeamDeathmatch": "Todos contra todos por equipos",
+  "#Status_PlayingOrbRush": "Fiebre del orbe",
+  "#Status_PlayingTeamOrbRush": "Fiebre del orbe por equipos",
+  "#Status_Adventure": "Aventura",
+  "#Status_Adventuresanity": "LocuAventura",
+  "#Status_Survival": "Supervivencia",
+  "#Status_OnlinePlay": "Partida en línea",
+  "#Status_LocalPlay": "Partida local",
+  "#Status_CustomRoom": "Partida en línea"
+}

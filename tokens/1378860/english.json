@@ -1,0 +1,5 @@
+{
+  "#Status_DuringRun": "%character% - Day %day% - $%score%",
+  "#Status_AtMainMenu": "At the main menu",
+  "#Status_MucciMeeting": "Unreachable?"
+}

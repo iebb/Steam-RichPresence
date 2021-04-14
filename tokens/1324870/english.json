@@ -1,0 +1,10 @@
+{
+  "#Status_AtMainMenu": "At the main menu",
+  "#Status_WaitingForMatch": "Waiting for match",
+  "#Status_Winning": "Winning",
+  "#Status_Losing": "Losing",
+  "#Status_Tied": "Tied",
+  "#Status_VSPC": "Playing vs Computer",
+  "#Status_VSONLINE": "Playing Online",
+  "#Status_VSPERSON": "Playing local multiplayer"
+}

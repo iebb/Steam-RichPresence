@@ -1,0 +1,8 @@
+{
+  "#Status": "{#Status_%gamestatus%}",
+  "#Status_AtMainMenu": "At the Main Menu",
+  "#Status_Singleplayer": "Playing against the computer",
+  "#Status_LocalVersus": "Playing a local game",
+  "#Status_Simulation": "Watching computer vs computer",
+  "#Status_NetworkVersus": "Playing against a friend"
+}

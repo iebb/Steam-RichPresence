@@ -1,0 +1,14 @@
+{
+  "#Status_InMenu": "Ana menüde",
+  "#Status_InNormalLobby": "Lobide",
+  "#Status_InRankedGroupmaking": "Rekabetçi lobide",
+  "#Status_InRankedQueue": "Rekabetçi oyun arıyor",
+  "#Status_InNormalGame": "{#Mode_%mode%} - %map%",
+  "#Status_InRankedGame": "Rekabetçi {#Mode_%mode%} - %map% oynuyor | %selfScore% : %opponentScore%",
+  "#Mode_FFA": "Herkes Tek",
+  "#Mode_TeamDeathmatch": "Takım Maçı",
+  "#mode_captureTheFlag": "Intelligence",
+  "#Mode_Elimination": "Elimination",
+  "#Mode_Demolition": "Demolition",
+  "#mode_kingOfTheHill": "King Of The Hill"
+}

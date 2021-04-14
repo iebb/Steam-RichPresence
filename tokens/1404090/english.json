@@ -1,0 +1,9 @@
+{
+  "#Status_MainMenu": "🎩 Main Menu",
+  "#Status_OfflineLobby": "🎩 Offline Lobby (%SCORE%)",
+  "#Status_OnlineLobby": "🎩 Online Lobby (%SCORE%)",
+  "#Status_OfflineTriviaGame": "🎩 Offline Trivia: Round %SCORE%",
+  "#Status_OnlineTriviaGame": "🎩 Online Trivia: Round %SCORE%",
+  "#Status_OfflineVsBossGame": "🎩 Offline Vs Boss: Round %SCORE%",
+  "#Status_OnlineVsBossGame": "🎩 Online Vs Boss: Round %SCORE%"
+}

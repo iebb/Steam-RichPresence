@@ -1,0 +1,13 @@
+{
+  "#Status_LastMoobaStanding": "Playing Last Mooba Standing",
+  "#Status_Deathmatch": "Playing Deathmatch",
+  "#Status_TeamDeathmatch": "Playing Team Deathmatch",
+  "#Status_PlayingOrbRush": "Playing Orb Rush",
+  "#Status_PlayingTeamOrbRush": "Playing Team Orb Rush",
+  "#Status_Adventure": "Playing Adventure",
+  "#Status_Adventuresanity": "Playing AdventureSanity",
+  "#Status_Survival": "Playing Survival",
+  "#Status_OnlinePlay": "Online Play",
+  "#Status_LocalPlay": "Local Play",
+  "#Status_CustomRoom": "In a Custom Room"
+}

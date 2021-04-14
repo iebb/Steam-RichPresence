@@ -1,0 +1,18 @@
+{
+  "#Status_Playing": "Playing: {#Map_%map%}",
+  "#Map_Forest": "Forest",
+  "#Map_Desert": "Desert",
+  "#Map_Snow": "Snow",
+  "#Map_Mines": "Mines",
+  "#Map_City": "City",
+  "#Map_Islands": "Islands",
+  "#Map_Underwater": "Underwater",
+  "#Map_Sky": "Sky",
+  "#Map_Space": "Space",
+  "#Map_Alien": "Alien",
+  "#Map_Mushroom_Forest": "Mushroom Forest",
+  "#Map_Graveyard": "Graveyard",
+  "#Map_Candy": "Candy",
+  "#Map_Lava": "Lava",
+  "#Map_Computer": "Computer"
+}

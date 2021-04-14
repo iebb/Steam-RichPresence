@@ -1,0 +1,12 @@
+{
+  "#Status_MainMenu": "At the main menu",
+  "#Status_FriendLobby": "{#Status_Lobby}: %ROOM_CODE%",
+  "#Status_InGame": "Playing %WORLD%",
+  "#Status_GettingMarried": "{#Status_Ingame}: Getting hitched",
+  "#Status_Lobby": "Waiting in lobby",
+  "#Status_Graduating": "{#Status_Ingame}: Graduating",
+  "#Status_BuyingHouse": "{#Status_Ingame}: Buying a House",
+  "#Status_SellingHouse": "{#Status_Ingame}: Selling a House",
+  "#Status_IncreasingFamily": "{#Status_Ingame}: Increasing Family",
+  "#Status_InRetirement": "{#Status_Ingame}: Enjoying Retirement"
+}
